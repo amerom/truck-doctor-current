@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2839:"<p>Here are my top picks for the best iPad apps for piano teachers and music students. How to Use Third-Party Keyboards on iOS. This free to use platform enables you to play the piano through your computer keyboard, without the need to download or install an app. </p> <p>From music and entertainment to work and socialising, we've rounded up the 47 best free iPad apps of 2020: superb freebies that aren't stuffed with adverts and in-app purchases Here you’ll find all the top offerings that don’t just help you with tuning the piano but other functions as well. Before we dive into the alternatives, let’s take a quick look at how to enable third-party keyboards on iOS as not many users are familiar with it. </p> <p>If you want to load these apps straight onto your iPad, make sure you’re reading this on your iPad and just click the links. The best part is that you don’t need prior knowledge of the music notation. Werkt met een echte piano en het toetsenbord op je iPhone/iPad/iPod. Best iOS Keyboard Apps for iPhone and iPad in 2020. And because I don't know any that I would recommend I crowdsourced the topic on my personal learning network and … If you’re short of time, check out the links to the App Store in the box below. This easy-to-use app works with any piano or keyboard, plus it’s great for beginners and assumes no previous knowledge. </p> <p>All the iPhones and iPads ship with the stock iOS keyboard. Omdat er eg veel mensen met een iPhone rondlopen, is dit voor een groot deel van de (beginnende) pianisten geen probleem. Deze app focust zich vooral op de timing van de knoppen en laat je op een eenvoudige manier leren spelen op je iPhone, iPad of iPod. October 12, 2014 Following the post on iPad Apps for Music Education I received a couple of requests to feature a post on iPad apps for teaching and learning piano.  Studio Management </p> <p>Waarschijnlijk de meest gebruiksvriendelijke manier om piano te leren spelen via iOS: Grand Piano, door Sonotap. Grand Piano. </p> <p>4. Established in 2006, Virtual Piano is now played by more than 19 million people a year. </p> <p>The Best Piano Tuner Apps for iPad Not to worry, we’ve got just the solution by taking a look at the best piano tuner apps for the iPad. PS. </p> <p>Simply Piano is een piano leren spelen app die van oorsprong speciaal is ontwikkeld voor de iPhone en de iPad.. Het is dus wel een vereiste dat je een apple apparaat hebt om van deze app gebruik te kunnen maken. Simply Piano was chosen as one of the best iPhone apps for 2016. Virtuoso Piano Free 3 ( iPhone & iPad ) – One of the best virtual analog synthesizers for iPhone users and it comes with lots of features which let you enjoy playing music like pro. It takes you through the basics step-by-step, from reading music to learning to play with both hands. </p>";s:7:"keyword";s:24:"best piano apps for ipad";s:5:"links";s:10916:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ekologisk-hudv%C3%A5rd-malm%C3%B6'>Ekologisk Hudvård Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-yorkshire-terrier-korth%C3%A5rig'>Yorkshire Terrier Korthårig</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-allas-recept-fiskgrat%C3%A4ng'>Allas Recept Fiskgratäng</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sallad-med-granat%C3%A4pple'>Sallad Med Granatäpple</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vardagslyxig-och-snabb-kr%C3%A4ftsoppa'>Vardagslyxig Och Snabb Kräftsoppa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-neil-dudgeon-mary-peate'>Neil Dudgeon Mary Peate</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spasmofen-sluta-tillverkas'>Spasmofen Sluta Tillverkas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-www-sundsvall-se'>Www Sundsvall Se</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-befolkning-sk%C3%A5ne-l%C3%A4n'>Befolkning Skåne Län</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-s%C3%B6tningsmedel'>Vad är Sötningsmedel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A5nglopp-skidor-italien'>Långlopp Skidor Italien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bulgariska-ortodoxa-kyrkan'>Bulgariska Ortodoxa Kyrkan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fotbollscup-med-%C3%B6vernattning'>Fotbollscup Med övernattning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-forn-yxa-c'>Forn Yxa C</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klackskor-barn-skopunkten'>Klackskor Barn Skopunkten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fiskekorg-i-pil'>Fiskekorg I Pil</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-apotek-g%C3%B6teborg-eriksberg'>Apotek Göteborg Eriksberg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flygets-andel-av-koldioxidutsl%C3%A4pp'>Flygets Andel Av Koldioxidutsläpp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-studentbal-eksj%C3%B6-2019'>Studentbal Eksjö 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-medell%C3%B6n-stockholm-m%C3%A5nad'>Medellön Stockholm Månad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fr%C3%B6lunda-stream-gratis'>Frölunda Stream Gratis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vilken-v%C3%A4lling-ska-man-b%C3%B6rja-med'>Vilken Välling Ska Man Börja Med</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pr%C3%B6vningstillst%C3%A5nd-kammarr%C3%A4tten-g%C3%B6teborg'>Prövningstillstånd Kammarrätten Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-julmarknad-i-n%C3%A4rheten'>Julmarknad I Närheten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-e-faktura---l%C3%A4nsf%C3%B6rs%C3%A4kringar'>E-faktura - Länsförsäkringar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-affirm-synonyms-english'>Affirm Synonyms English</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-er%C3%B6vrar-tron-synonym'>Erövrar Tron Synonym</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-avst%C3%A4ngningsventil-vatten-elektrisk'>Avstängningsventil Vatten Elektrisk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-piroger---zeinas-kitchen'>Piroger - Zeinas Kitchen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karin-boye-priser'>Karin Boye Priser</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-major-minor-svenska'>Major Minor Svenska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-recept-p%C3%A5-stora-muffins'>Recept På Stora Muffins</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%B6teborg-h%C3%B6jd-%C3%B6ver-havet'>Göteborg Höjd över Havet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-viking-line-tidtabell'>Viking Line Tidtabell</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bbc-world-live'>Bbc World Live</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-checka-in-bravofly'>Checka In Bravofly</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-best-pizza-dough'>Best Pizza Dough</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-erbjudande-savoy-lule%C3%A5'>Erbjudande Savoy Luleå</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rskriften-om-organisatorisk-och-social-arbetsmilj%C3%B6-afs-2015-4'>Förskriften Om Organisatorisk Och Social Arbetsmiljö Afs 2015 4</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-leksands-medeltidsmarknad-2020'>Leksands Medeltidsmarknad 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-airport-doha-doh'>Airport Doha Doh</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4der-heraklion-yr'>Väder Heraklion Yr</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A5rsavgift-l%C3%A4nsf%C3%B6rs%C3%A4kringar-2019'>årsavgift Länsförsäkringar 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-illustrat%C3%B6r-pippi-l%C3%A5ngstrump'>Illustratör Pippi Långstrump</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-allsvenskan-2019-vinnare'>Allsvenskan 2019 Vinnare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-trelleborgs-kommun-gymnasielunch'>Trelleborgs Kommun Gymnasielunch</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-drivning-atv-vagn'>Drivning Atv Vagn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Lindesbergs-Hotell4%2C1%2896%294%2C4%C2%A0miles-bort108%C2%A0US%24'>Lindesbergs Hotell4,1(96)4,4 miles Bort108 US$</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-regler-f%C3%B6r-fotboll'>Regler För Fotboll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Sl%C3%A4ng-dig-i-brunnen'>Släng Dig I Brunnen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karta-phuket-flygplats'>Karta Phuket Flygplats</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-charlie-gustafsson-filmer-och-tv-program'>Charlie Gustafsson Filmer Och Tv Program</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cykla-genom-sverige-packning'>Cykla Genom Sverige Packning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-greenpeace-b%C3%A5t-1985'>Greenpeace Båt 1985</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fc-roseng%C3%A5rd-f17'>Fc Rosengård F17</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ny%C3%A5rsmeny-med-%C3%A4lgk%C3%B6tt'>Nyårsmeny Med älgkött</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4garbete-e4-gr%C3%A4nna'>Vägarbete E4 Gränna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-encaustic-art-starter-set'>Encaustic Art Starter Set</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-recept-biff-rydberg-markus-aujalay'>Recept Biff Rydberg Markus Aujalay</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-midsommar-nordisk-film'>Midsommar Nordisk Film</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skidor-till-helags'>Skidor Till Helags</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flaggst%C3%A5ng-4-m-teleskop'>Flaggstång 4 M Teleskop</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gammal-skatt-webbkryss'>Gammal Skatt Webbkryss</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-l%C3%A4genheter-sm%C3%B6rslottsgatan'>Lediga Lägenheter Smörslottsgatan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-signalera-med-flaggor'>Signalera Med Flaggor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-roskilde-2019-lineup'>Roskilde 2019 Lineup</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-verkstadsgatan-6-kalmar'>Verkstadsgatan 6 Kalmar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-reservdelar-gr%C3%A4sklippare-stiga'>Reservdelar Gräsklippare Stiga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-abba-wembley-1979'>Abba Wembley 1979</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-youtube-g%C3%B6sta-berlings-saga'>Youtube Gösta Berlings Saga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-finns-campylobacter-i-kalkon'>Finns Campylobacter I Kalkon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-milj%C3%B6-p%C3%A5-arbetsplatsen'>Miljö På Arbetsplatsen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A4rskola-in-english'>Särskola In English</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tyg-till-bilkl%C3%A4dsel'>Tyg Till Bilklädsel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tr%C3%B6tt-och-ont-i-benen'>Trött Och Ont I Benen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karlstad-el--och-stadsn%C3%A4t'>Karlstad El- Och Stadsnät</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stapla-ved-p%C3%A5-pall'>Stapla Ved På Pall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-t%C3%A4nkt-p%C3%A5-synonym'>Tänkt På Synonym</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-herrg%C3%A5rden-29-tjurk%C3%B6'>Herrgården 29 Tjurkö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-amy-deasismont-what%27s-in-it-for-me'>Amy Deasismont What's In It For Me</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-invest-in-games-2019-stockholm'>Invest In Games 2019 Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenskt-kosttillskott-proteinpulver'>Svenskt Kosttillskott Proteinpulver</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stockholmspolisen-s%C3%A4song-1'>Stockholmspolisen Säsong 1</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-diffusionssp%C3%A4rr-tak-badrum'>Diffusionsspärr Tak Badrum</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hyra-stuga-ny%C3%A5r-fj%C3%A4llen'>Hyra Stuga Nyår Fjällen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-koka-risgrynsgr%C3%B6t-p%C3%A5-sk%C3%A4rbr%C3%A4da'>Koka Risgrynsgröt På Skärbräda</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ont-i-ljumsken-kn%C3%A4b%C3%B6j'>Ont I Ljumsken Knäböj</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-ser-b'>Volvo Ser B</a>,
+";s:7:"expired";i:-1;}

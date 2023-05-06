@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2292:"<br>Membership of the Nordic Choice Club is personal and only available to persons over the age of 18. Many of these hotels are priced at 16,000 points in Choice Privileges. You’re guaranteed to find the best prices at our hotels on our site. Nordic Choice Club reward rates range from 7,500 to 40,000 points. Choose hotel and book now! 968 819 372. 1.2. In March 2015, Nordic Choice Hotels ranked fourth in Norway's sustainable brand index. Click, tap, or press the down arrow to open the date picker. Våra rum är alltid billigast på vår hemsida, det garanterar vi. Välj och vraka på över 100 destinationer! Follow hotdeals.com enables you know the promotion of Nordic Choice Hotels at first time. The price for a reward night at most Nordic Choice Hotels is lower through Choice Privileges with reward rates ranging from 8,000 to 30,000 points. Please try again. Click, tap, or press the down arrow to open the date picker. To book 26 or … Yes, I would like to receive offers and updates from Nordic Choice Hotels via email and social media channels associated with my email address. A member of the Choice Hotels family, Clarion Hotels offer unparalleled service and upscale comfort for the business traveler and leisure tourist. The membership terms and conditions are an agreement between the members and NCCS. My focus are hotels priced lower through Nordic Choice Club. Sign up for newsletters - get up to 25% discount!  Nr. <br> Thank you for signin up! The Nordic Choice Club (NCC) is part of Nordic Choice Commercial Services AS (NCCS), Org. Boka hotell online hos Nordic Choice Hotels. And with our special rate programs, you get even more ways to save. Som Nordic Choice Club-medlem får du förmåner och erbjudanden hos våra partners, dessutom kan du både tjäna och använda bonuspoäng hos utvalda partners. You need to accept terms and conditions Sign up No, thank you! <br> <br>The hotel chain is known for its premium bedding, on-site restaurants, room service, and other amenities designed to … Purchase at nordicchoicehotels.com and get up to 80% OFF on sale items online with verified Nordic Choice Hotels Coupons, Coupon Codes and deals. 1.1. Choice Hotels ® makes it easy to get the best hotel rates around. Book hotels online at Nordic Choice Hotels. ";s:7:"keyword";s:33:"em fotboll 2020"%20and%20"x"%3D"x";s:5:"links";s:8194:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-handball-24-live-stream'>Handball 24 Live Stream</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lunch-recept-barn'>Lunch Recept Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dagspris-r%C3%A4kor-kungsbacka'>Dagspris Räkor Kungsbacka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-baka-stenugnsbageri-frukost'>Baka Stenugnsbageri Frukost</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-quiz-religion-islam'>Quiz Religion Islam</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-astrid-lindgren-tema-f%C3%B6rskola'>Astrid Lindgren Tema Förskola</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p%C3%A5skt%C3%A5rta-choklad-apelsin'>Påsktårta Choklad Apelsin</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-potatismj%C3%B6l-ist%C3%A4llet-f%C3%B6r-maizena-i-vaniljkr%C3%A4m'>Potatismjöl Istället För Maizena I Vaniljkräm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varm-choklad-havremj%C3%B6lk'>Varm Choklad Havremjölk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-trump-articles-today'>Trump Articles Today</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blanda-och-l%C3%B6sa-i-f%C3%B6rskolan'>Blanda Och Lösa I Förskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ja-m%C3%A5-du-leva-text'>Ja Må Du Leva Text</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-luktar-avlopp-i-hela-huset'>Luktar Avlopp I Hela Huset</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-indoor-walking-stc'>Indoor Walking Stc</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aml-advisor-danske-bank'>Aml Advisor Danske Bank</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-god-s%C3%A5s-till-r%C3%B6kt-fl%C3%A4skfil%C3%A9'>God Sås Till Rökt Fläskfilé</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rabattkod-bythjul-april-2020'>Rabattkod Bythjul April 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lchf-recept-k%C3%B6ttf%C3%A4rs-vitk%C3%A5l'>Lchf-recept Köttfärs Vitkål</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-attendo-l%C3%B6n-undersk%C3%B6terska'>Attendo Lön Undersköterska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skanna-qr-kod-huawei-p20'>Skanna Qr-kod Huawei P20</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-messukeskus-expo-and-convention-centre'>Messukeskus Expo And Convention Centre</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bygga-eget-vattenfilter'>Bygga Eget Vattenfilter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Bull-Hotels---Hotel-Dorado-Beach-%26-Spa4%2C4%28937%291%2C3%C2%A0km-bort'>Bull Hotels - Hotel Dorado Beach & Spa4,4(937)1,3 km Bort</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ticketmaster-contact-center'>Ticketmaster Contact Center</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sonos-beam-google-assistant'>Sonos Beam Google Assistant</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4sta-selfie-appen'>Bästa Selfie Appen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-brasseriet-karlshamn-meny'>Brasseriet Karlshamn Meny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-deltagare-eurovision-2019'>Deltagare Eurovision 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hotell-kreta-platanias'>Hotell Kreta Platanias</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-7-kap-9-skollagen'>7 Kap 9 Skollagen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-idol-final-2020'>Idol Final 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rngott-med-eget-tryck'>örngott Med Eget Tryck</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-befolkning-dalarnas-kommuner'>Befolkning Dalarnas Kommuner</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-attendo-individ--och-familj'>Attendo Individ- Och Familj</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pippy-animal-crossing'>Pippy Animal Crossing</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4ppelpaj-med-start'>äppelpaj Med Start</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mjuk-sand-nordsj%C3%B6'>Mjuk Sand Nordsjö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%B6ra-intryck-webbkryss'>Göra Intryck Webbkryss</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-enkla-vardagen-seb'>Enkla Vardagen Seb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-songs-in-piano'>Songs In Piano</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ekonomisk-kris-privat'>Ekonomisk Kris Privat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-kr%C3%B6gare-allabolag'>Svenska Krögare Allabolag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-i-nul%C3%A4get-kan-du-endast-ta-emot-swish-betalningar'>I Nuläget Kan Du Endast Ta Emot Swish Betalningar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jordfel-blinkers-moped'>Jordfel Blinkers Moped</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-samsung-43%27%27-qled'>Samsung 43'' Qled</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stretch-for-stomach'>Stretch For Stomach</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lill-lindfors-sorunda-kyrka'>Lill Lindfors Sorunda Kyrka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jobba-med-ryggskott'>Jobba Med Ryggskott</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kap-verde-tui'>Kap Verde Tui</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-enkla-halloween-snacks'>Enkla Halloween Snacks</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-baka-utan-mj%C3%B6l'>Baka Utan Mjöl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-talent-coach-kalmar'>Talent Coach Kalmar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Maritim-Hotel-Mannheim3%2C8%28920%290%2C3%C2%A0km-bort235%C2%A0AED'>Maritim Hotel Mannheim3,8(920)0,3 km Bort235 AED</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-r%C3%B6rkl%C3%A4mma-clas-ohlson'>Rörklämma Clas Ohlson</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-icd-10-depression-kriterier'>Icd-10 Depression Kriterier</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fatboy-slim---right-here%2C-right-now-lyrics'>Fatboy Slim - Right Here, Right Now Lyrics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-u-soffa-med-h%C3%B6g-rygg'>U-soffa Med Hög Rygg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fransk-l%C3%A5t-2020'>Fransk Låt 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-xc40-fuel-tank-capacity'>Volvo Xc40 Fuel Tank Capacity</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-en-aff%C3%A4rsplan'>Vad är En Affärsplan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-riesen-choklad-wiki'>Riesen Choklad Wiki</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hemnet-sundsvall-kovland'>Hemnet Sundsvall Kovland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-agonist-vs-antagonist'>Agonist Vs Antagonist</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-garam-masala-anv%C3%A4ndning'>Garam Masala Användning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lol-wiki-vpbe'>Lol Wiki Vpbe</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tunnelbana-london-heathrow'>Tunnelbana London Heathrow</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-viveka-seldahls-roll-i-raskens'>Viveka Seldahls Roll I Raskens</a>,
+";s:7:"expired";i:-1;}

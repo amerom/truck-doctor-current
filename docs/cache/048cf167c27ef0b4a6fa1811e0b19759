@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3305:"<br>Med det här utbildningsmaterialet vill vi ge dig som förälder ökad kunskap om e-sport och förståelse för dess grundläggande principer. Här är en lista över alla gymnasieskolor i Helsingborg. Thoren Innovation School i Göteborg, Helsingborg, Lund, Malmö, Stockholm och Uddevalla. Nu kan du välja att läsa e–sport, Counter Strike GO på TBS Umeå. NTI IT ; NTI Teknik; Digitalt Öppet Hus; Intresseanmälan; Om gymnasievalet; Schoolsoft; Snacka med SYV; NTI Gymnasiet Malmö. Som elev hos oss får spetskompetens när det gäller den senaste tekniken inom ditt område. Upplev skapande med oss! eSport på Kold Tekniske Gymnasium! Laget, tid för att träna, en utbildning med allt från datakunskap till de olika spelen – och en erfaren coach som kan hjälpa dig till e-sportens stjärnhimmel. Ring oss på: 070-379 57 93 eller mejla: helena.bergstrom@ga.ntig.se. Vi hoppas verkligen att du hittar rätt utbildning för just di... See More. Till hösten startar TBS Umeå e-sport utbildning . Det positiva med esport gymnasium är den seriösa inställningen till esport och möjligheterna som erbjuds. Gymnasium.se är till för dig som ska välja gymnasium. Sök efter gymnasieskolor, intagningspoäng och läs om allt inför gymnasiet. Genom samarbeten över ämnes-, klass- … Gymnasieskolan Knut Hahn i Ronneby. Helsingborg e-sport, Helsingborg, Sweden. Esport; Rektor har ordet; Terminstider; Kontakta oss; Gymnasieprogram. Sök efter gymnasieskolor, intagningspoäng och läs om allt inför gymnasiet. Du hittar oss på Kyrkogatan 21. Create New Account . Få dit game face på - vi åbner dørene i morgen kl. Vi samlar ihop Helsingborgs e-sportintresserade och jobbar för att främja e-sporten. Gymnasium med e-sport E-sportsutbildningar på gymnasiet Mer och mer populärt. Vi har även även en GreenScreen-studio på skolan och ett Makerspace för robotutveckling. tor 14. Nedan ser du vilka datum vi bjuder in dig till Öppet Hus!  <br>Se bakom kulisserna kring de stora E-sporteventen, eller sök talangfördjupning. lbs helsingborg Öppet hus 2020-04-21 cirkatider 18:00 introduktion 18:10 esport 18:20 spelutveckling 18:30 rektorn informerar 18:50 film / foto&film 19:00 foto / foto&film 19:15 spelgrafik / grafisk design 19:30 matematik & teknik 19:45 frÅgestund & avslutning ställ gärna frågor i chatten! NTI Gymnasiet Malmö är skolan med bra stämning, engagerade lärare och en genomtänkt plan för mentorskap, extraundervisning och resurstid. <br> <br>Aleholm i Sävsjö. Digitalt Öppet hus. LBS Kreativa gymnasium i Helsingborg: Där gamers, arkitekter, designers och framtidens kreatörer möts. I esport kommer du att få tid att förbättra dig som spelare individuellt, och coachning att spela i ett lag. Experience Creating, Create Experiences. 15.30-16.30. Med det här utbildningsmaterialet vill vi ge dig som förälder ökad kunskap om e-sport och förståelse för dess grundläggande principer. Helsingborg. Klicka på en skola så får du adress och e-postadress till skolan. Samhällsprogram & Program med inriktning mot Personlig tränare/Hälsocoach E-sporten växer med 10-12% varje år och i somras gick e-sporten om all traditionell sport i … <br> Esport. Hultsfreds gymnasium i Hultsfred. Då ska du börja på NTI Gymnasiet! <br>";s:7:"keyword";s:31:"p%C3%A5sk%C3%A4gg snapchat 2020";s:5:"links";s:9052:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-honda-verkstad-g%C3%B6teborg'>Honda Verkstad Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sv%C3%A4va-p%C3%A5-moln-lyrics-de-vet-du'>Sväva På Moln Lyrics De Vet Du</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hyra-hus-djupvik-gotland'>Hyra Hus Djupvik Gotland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-torsk-med-hollandaises%C3%A5s-i-ugn'>Torsk Med Hollandaisesås I Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-coop-v%C3%A4ster%C3%A5s-pilgatan'>Coop Västerås Pilgatan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-luxury-homes-for-sale-la'>Luxury Homes For Sale La</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hankook-summer-tires'>Hankook Summer Tires</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-galen-uppfattning-synonym'>Galen Uppfattning Synonym</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-jobb-fagersta'>Lediga Jobb Fagersta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-koh-chang-p%C3%A5-sommaren'>Koh Chang På Sommaren</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skotte-hund-vit'>Skotte Hund Vit</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chicago-blackhawks-keps'>Chicago Blackhawks Keps</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rebecka-martinsson-stream-dreamfilm'>Rebecka Martinsson Stream Dreamfilm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-seat-verkstad-mora'>Seat Verkstad Mora</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-skolan-mallorca'>Svenska Skolan Mallorca</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-m%C3%A5nga-spr%C3%A5k-finns-det-i-mexiko'>Hur Många Språk Finns Det I Mexiko</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cookies-med-kondenserad-mj%C3%B6lk'>Cookies Med Kondenserad Mjölk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gustav-lindh-instagram'>Gustav Lindh Instagram</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-massagedyna-kjell-och-company'>Massagedyna Kjell Och Company</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-f%C3%A5r-olika-grupper-av-organismer-tag-i-energirikt-socker'>Hur Får Olika Grupper Av Organismer Tag I Energirikt Socker</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-adjungerad-brf-styrelse'>Adjungerad Brf Styrelse</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-simon-sandberg-transfermarkt'>Simon Sandberg Transfermarkt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-monaco-frankrike-1962'>Monaco Frankrike 1962</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sverige-kongo-handboll'>Sverige Kongo Handboll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bryn%C3%A4s-logga-mobilen'>Brynäs Logga Mobilen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-scandi-standard-%C3%A5rsredovisning'>Scandi Standard årsredovisning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dogo-argentino-danmark'>Dogo Argentino Danmark</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-j%C3%A4mf%C3%B6r-telefoner-apple'>Jämför Telefoner Apple</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-sakrament'>Vad är Sakrament</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-getinge-aktie-utdelning'>Getinge Aktie Utdelning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spain-sweden-war'>Spain Sweden War</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aftonbladet-idol-gottfrid'>Aftonbladet Idol Gottfrid</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-oxdog-optilight-blad'>Oxdog Optilight Blad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-organic-makers-recept'>Organic Makers Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chicken-milanese-svenska'>Chicken Milanese Svenska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sjukt-roliga-sk%C3%A4mt'>Sjukt Roliga Skämt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nordic-wellness-malm%C3%B6-central'>Nordic Wellness Malmö Central</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-shark-energy-drink-sverige'>Shark Energy Drink Sverige</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ekholmen-centrum-link%C3%B6ping'>Ekholmen Centrum Linköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pippi-kl%C3%A4nning-kalas'>Pippi Klänning Kalas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-muskelceller-vid-tr%C3%A4ning'>Muskelceller Vid Träning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-youtube-music-abba-mamma-mia'>Youtube Music Abba Mamma Mia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-modala-hj%C3%A4lpverb-tyska-meningar'>Modala Hjälpverb Tyska Meningar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-d%C3%A4ck-t%C3%A4by-stockholmsv%C3%A4gen'>Däck Täby Stockholmsvägen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-ska-en-f%C3%B6rskola-vara'>Hur Ska En Förskola Vara</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Ugglan-och-co'>Ugglan Och Co</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mordf%C3%B6rs%C3%B6k-hagfors-flashback'>Mordförsök Hagfors Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stigbergets-dh-ddh-west-coast-ipa'>Stigbergets Dh-ddh-west Coast Ipa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-indila-tourner-dans-le-vid'>Indila Tourner Dans Le Vid</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-manchester-united-m%C3%B6ssa'>Manchester United Mössa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kock-utbildning-v%C3%A4ster%C3%A5s'>Kock Utbildning Västerås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-linn-svahn-%C3%B6p'>Linn Svahn öp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-apoteket-s%C3%A4tra-g%C3%A4vle'>Apoteket Sätra Gävle</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-melbourne-cricket-ground'>Melbourne Cricket Ground</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vm-1994-kr%C3%B6nika'>Vm 1994 Krönika</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tusen-sp%C3%A4nn-webbkryss'>Tusen Spänn Webbkryss</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4lska-mig-s%C3%A4song-1-stream'>älska Mig Säsong 1 Stream</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-inte-mycket-p%C3%A5-grekiska'>Inte Mycket På Grekiska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-christmas-night-%C3%A5haga'>Christmas Night åhaga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-helsingborgs-lasarett-r%C3%B6ntgen'>Helsingborgs Lasarett Röntgen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-uppsala-kommun-byta-skola'>Uppsala Kommun Byta Skola</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rskolan-utsikten-falk%C3%B6ping'>Förskolan Utsikten Falköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-br%C3%A4nslefilter-honda-foreman'>Bränslefilter Honda Foreman</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karlstad-ibk-laget-se'>Karlstad Ibk Laget Se</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-malm%C3%B6-ff-supporterklubb'>Malmö Ff Supporterklubb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-guldkorn-i-tyskland'>Guldkorn I Tyskland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-drabbades-beethoven-av'>Vad Drabbades Beethoven Av</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-startmotor-citroen-c3'>Byta Startmotor Citroen C3</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-folksam-lo-fondf%C3%B6rs%C3%A4kring'>Folksam Lo Fondförsäkring</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-%C3%B6verbelastning'>Vad är överbelastning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-underst%C3%A4ll-b%C3%A4st-i-test-2019'>Underställ Bäst I Test 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A5gt-blodsocker-nyf%C3%B6dd'>Lågt Blodsocker Nyfödd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-krokoms-kommun-bibliotek'>Krokoms Kommun Bibliotek</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-roger-and-pongo'>Roger And Pongo</a>,
+";s:7:"expired";i:-1;}

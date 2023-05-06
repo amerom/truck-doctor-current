@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:1592:"<br>Det är Hänt Extra som rapporterar om skådespelarens familjelycka. <br> <br>”Torka aldrig tårar”-stjärnan Adam Pålsson har blivit pappa. <br> <br>Paret har dottern Dylan, två år, vars gudföräldrar är Jesper och Mia Parnevik. Adam Pålsson och hans Celie Sparre har blivit föräldrar. Se vad Celie Sparre (celiesparre) har hittat på Pinterest – världens största samling av idéer. Celie var tidigare barnflicka hos Parnevik, vilket Jesper berättat i “Gäst hos Parneviks”. Join Facebook to connect with Célia Sparre and others you may know. <br> <br> <br>Skådespelarparet Adam Pålsson och Celie Sparre ska bli tvåbarnsföräldrar. <br> <br>Privat är han sambo med kollegan Celie Sparre, 29, som vi senast såg i TV4-serien “Syrror”. <br>  Sedan tidigare har paret dottern Dylan, 3 och bekräftar nu den glada nyheten för Aftonbladet, men uppger att de inte vill kommentera ytterligare.. Parets gemensamma vän Penny Parnevik, 21, var den första som avslöjade hemligheten på sin Instagram, med texten ”Gravida kvinnor är så nedrans vackra”. View the profiles of people named Célia Sparre. Babylycka! Härom veckan föddes hans och fästmön Celie Sparres första gemensamma barn. Kennengelernt hatten sich die beiden bei den Dreharbeiten zu dem Kurzfilm Prinsen. Celie Sparre (* 3.Juli 1987) ist eine schwedische Schauspielerin.Im deutschsprachigen Raum ist sie vor allem durch ihre wiederkehrende Rolle Smilla in verschiedenen IKEA-Werbespots bekannt.. Sparre ist mit dem Schauspieler Adam Pålsson liiert und lebt mit diesem in Stockholm. <br>";s:7:"keyword";s:45:"v%C3%A4sterg%C3%B6tlands distriktslag fotboll";s:5:"links";s:8878:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-markus-aujalay-hollandaise'>Markus Aujalay Hollandaise</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tryckstr%C3%B6mbrytare-med-motorskydd'>Tryckströmbrytare Med Motorskydd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-schedule-bbc-4'>Schedule Bbc 4</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rs%C3%A4kringskassan-blanketter-sjukers%C3%A4ttning'>Försäkringskassan Blanketter Sjukersättning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-website-link-in-instagram-story'>Website Link In Instagram Story</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-new-yorker-bor%C3%A5s'>New Yorker Borås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-barut-lara-hotel-antalya'>Barut Lara Hotel Antalya</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-solspegel-svenskt-tenn'>Solspegel Svenskt Tenn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-knots-to-km%2Fh'>Knots To Km/h</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-talang-2020-prank'>Talang 2020 Prank</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-g%C3%B6r-en-domare-i-tingsr%C3%A4tten'>Vad Gör En Domare I Tingsrätten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-n%C3%A4r-b%C3%B6rjar-gymnasiet-2020-malm%C3%B6'>När Börjar Gymnasiet 2020 Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-synonymer-till-planering'>Synonymer Till Planering</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ac-dc-adapter-12v-2000ma'>Ac Dc Adapter 12v 2000ma</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-steka-fryst-korv'>Steka Fryst Korv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rebro-flygplats-samos'>örebro Flygplats Samos</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-m%C3%A5nga-bor-i-t%C3%A4by'>Hur Många Bor I Täby</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tro-och-tvivel-chords'>Tro Och Tvivel Chords</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mat-som-utl%C3%B6ser-gallstensanfall'>Mat Som Utlöser Gallstensanfall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-installera-ny-blandare'>Installera Ny Blandare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-storvreta-ibk-%C3%B6rnarna'>Storvreta Ibk örnarna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-st%C3%B6rningsjouren-h%C3%A4sselby-hem'>Störningsjouren Hässelby Hem</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-jobb-blomsterlandet'>Lediga Jobb Blomsterlandet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-niklas-andersson-shareville'>Niklas Andersson Shareville</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-potatis-till-grillad-oxfil%C3%A9'>Potatis Till Grillad Oxfilé</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-johannes-kepler-p%C3%A5verkan'>Johannes Kepler Påverkan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Radisson-Blu-Royal-Park-Hotel%2C-Stockholm4%2C0%281147%296%2C9%C2%A0km-bort130%C2%A0SGD'>Radisson Blu Royal Park Hotel, Stockholm4,0(1147)6,9 km Bort130 SGD</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jason-priestley-music'>Jason Priestley Music</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fransk-republikan-1838'>Fransk Republikan 1838</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-objekt-riksbyggen'>Lediga Objekt Riksbyggen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-alkohol-fr%C3%A5n-tyskland'>Alkohol Från Tyskland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-1-portion-pasta-dl'>1 Portion Pasta Dl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-4-chords-piano'>4 Chords Piano</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-grohe-rapid-sl-82'>Grohe Rapid Sl 82</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-malm-s%C3%A4ngstomme-180'>Malm Sängstomme 180</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stockholm-distriktslag-fotboll'>Stockholm Distriktslag Fotboll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mycket-m%C3%A4nniskor-synonym'>Mycket Människor Synonym</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swedish-open-live'>Swedish Open Live</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-linnea-henriksson-s%C3%A5-mycket-b%C3%A4ttre'>Linnea Henriksson Så Mycket Bättre</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ski-touring-boots'>Ski Touring Boots</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-barnsk%C3%B6tare-jobb-kista'>Barnskötare Jobb Kista</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ida-warg-bus'>Ida Warg Bus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-warner-bros-stockholm'>Warner Bros Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tips-p%C3%A5-deltidsjobb'>Tips På Deltidsjobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-yr-xml-api'>Yr Xml Api</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-london-eye-location'>London Eye Location</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mos-ulf-brunnberg'>Mos Ulf Brunnberg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skrota-bilen-%C3%B6rebro'>Skrota Bilen örebro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hundutst%C3%A4llning-leksand-2020'>Hundutställning Leksand 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rabattkod-willab-garden'>Rabattkod Willab Garden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-res%C3%A5rbotten-p%C3%A5-ribbotten'>Resårbotten På Ribbotten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-skillnad-p%C3%A5-lunchkorv-och-frukostkorv'>Vad är Skillnad På Lunchkorv Och Frukostkorv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-foreca-v%C3%A4der-alanya'>Foreca Väder Alanya</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flyga-gravid-ving'>Flyga Gravid Ving</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sundbyholms-slott-historia'>Sundbyholms Slott Historia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-talang-vinnare-2018'>Talang Vinnare 2018</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-johan-ulveson-julkalender'>Johan Ulveson Julkalender</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jysk-gold-c35'>Jysk Gold C35</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svea-hovr%C3%A4tt-corona'>Svea Hovrätt Corona</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-yoko-sushi-g%C3%B6teborg'>Yoko Sushi Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bananmuffins-utan-sm%C3%B6r'>Bananmuffins Utan Smör</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-second-moment-of-inertia'>Second Moment Of Inertia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ostkorv-i-ugn'>Ostkorv I Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-polska-bakverk-recept'>Polska Bakverk Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A5l%C3%A4ndska-frim%C3%A4rken-v%C3%A4rde'>åländska Frimärken Värde</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ferrero-rondnoir-k%C3%B6pa'>Ferrero Rondnoir Köpa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rinkaby-r%C3%B6r-pannor'>Rinkaby Rör Pannor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-thales-sverige-ab'>Thales Sverige Ab</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-usa-hot-dog'>Usa Hot Dog</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-l%C3%A5ng-tid-tar-det-att-f%C3%A5-skadest%C3%A5nd'>Hur Lång Tid Tar Det Att Få Skadestånd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-normalvikt-barn-8-%C3%A5r'>Normalvikt Barn 8 år</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hyra-garage-%C3%B6rebro'>Hyra Garage örebro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-digital-m%C3%A4rkning-med-nummertecken'>Digital Märkning Med Nummertecken</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-willys-veddesta-jobb'>Willys Veddesta Jobb</a>,
+";s:7:"expired";i:-1;}

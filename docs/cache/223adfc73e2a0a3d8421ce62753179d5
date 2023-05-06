@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:4034:"<p>– Det har utbrutit en del oroligheter, säger Kajsa Moström , informationschef hos Apollo. TT. Mellanöstern är en krutdurk och de flesta regionala stormakter har egna intressen i Syrienkriget. T.h YPJ-soldat . 9 okt 2019 NYHETER. Samtidigt avslöjades att han slängde det uppmärksammade 'Don't be a fool'-brevet från Trump i papperskorgen. Turkiska offensiven oroar svenska politiker. Trumps beslut riskerar att göra IS starkt igen. Förra veckan hävdade Turkiets president Erdogan att han var villig att avsluta sin invasion i norra Syrien på en gång om kurderna lägger ner sina vapen. Turkiet attackerar kurder i Syrien Det som just nu rullas ut – ett hastigt och illa planerat tillbakadragande av amerikanska trupper följt av en turkisk invasion – kan sluta riktigt illa. Kurdiska aktivister som SvD talat med fördömer attackerna och talar om etnisk rensning. ROJAVA/NORRA SYRIEN Kriget i Mellanöstern intensifieras när Turkiet bombar kurdiska YPG/YPJ. måndag 22 januari 2018. Den turkiska armén har angripit den kurdiska enklaven Afrin i norra Syrien för andra dagen i rad med flyg- och artilleriattacker över gränsen. Även i den attacken var det socialister och kurder som var målet, där 33 personer dog och 104 personer skadades. Turkar och kurder i Turkiet Motion 1999/2000:U613 av Murad Artin m.fl. 9 okt 2019 NYHETER. Att Özal själv var av kurdiskt ursprung väckte dock ingen större uppmärksamhet. Komplicerat läge i Syrien – oklart vem som fyller USA:s vakuum och när ... Dessutom kompliceras manövern av relationen mellan Turkiet, Syriens kurder samt den syriska regeringen under Bashar al-Assad. På flera håll står byggnader i brand – samtidigt ber resebyrån Apollo sina kunder i Alanya att hålla sig inomhus. </p> <p>Upprörda kurder i Irak har attackerat en turkisk militärbas. MELLANÖSTERN. Kurder attackeras i Syrien Den senaste tiden har islamister med band till al-Qaida mördat, våldtagit och attackerat civila i kurdiska byar i norra Syrien. Arkivbild. Arkivbild. 0 . Trump sviker kurderna, Turkiet går in i Syrien, syriska armén återtar mark och Ryssland och Iran rör på sig i bakgrunden. Det prokurdiska partiet HDP:s lokaler attackeras i flera städer i Turkiet. Nu uppger kurder att Turkiet använder förbjudna kemvapen som napalm och vit fosfor. Besök Landguiden och läs mer om Kurderna. 12 Shares. Förberedelserna för denna operation har pågått i … Måndag 22 jan 2018 2018-01-22; Tweet E-post 61. Kurder som assimilerats i det turkiska samhället har ofta funnits med i … Kurderna i Iran. </p> <p>Nyhetsmorgon i TV4 från 2016-07-17: Sakine Madon, statsvetare och politisk redaktör VLT och Evin Cetin, (s) jurist och politiker, talar om stämningarna i Turkiet. </p> <p>Mellanöstern; av Hamid Alizadeh (Översättning: Stefan Kangas) Det verkar som att Turkiet har inlett eller snart kommer att inleda en attack mot den kurdstyrda enklaven Afrin i nordvästra Syrien. I både EU och FN har blixtinkallade möten hållits. Den 20:e juli i år ägde en annan terrorattack rum i Turkiet i staden Suruc, nära gränsen till Syrien och staden Kobane. På 1980-talet fick dock Turkiet en president, Turgut Özal, som chockade etablissemanget genom att tala öppet om kurder. Under det pågående inbördeskriget har syriska kurder upprättat ett visst självstyre i de områden där de är i majoritet. 0 . </p> <p>Spela inte ut kurder mot oss assyrier. Erdogan. Turkiet attackerar kurder i Syrien. TT. LÄS ÄVEN: Kurder uppger att Turkiet attackerar civila med kemvapen – FN utreder krigsbrott. 7 okt 2019 DEBATT. Tv. 5 7 Utvalda artiklar. Turkisk granateld mot kurder - insatsen har börjat SVT Nyhete ; Turkiet inledde militäroffensiv mot kurdiska Afrin i norra Syrien Terrorstaten ISIS tog på sig … Turkiet attackerar kurder i Syrien. (v) 1 Det kurdiska folket Det kurdiska folket har funnits i sydöstra Turkiet i över 4 000 år, vilket betyder att det var etablerat i området långt innan turkarna anlände på 1100-talet. </p>";s:7:"keyword";s:25:"turkiet attackerar kurder";s:5:"links";s:7054:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-k%C3%A4nda-tyska-korvar'>Kända Tyska Korvar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sockerkaka-2-%C3%A4gg'>Sockerkaka 2 ägg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nokia-3310-bankid'>Nokia 3310 Bankid</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-leaf-silhouette-tapet'>Leaf Silhouette Tapet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hipp-hipp-julkalender'>Hipp Hipp Julkalender</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-inflation-definition-svenska'>Inflation Definition Svenska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rutschkana-barn-ikea'>Rutschkana Barn Ikea</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-grammatik-infinitiv'>Svenska Grammatik Infinitiv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-beurer-mg-148'>Beurer Mg 148</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-immanuel-kant-filosofi'>Immanuel Kant Filosofi</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-osman-leverera-f%C3%B6r-mycket-lyrics'>Osman Leverera För Mycket Lyrics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%A5smamman-s%C3%A4song-4-avsnitt-6'>Gåsmamman Säsong 4 Avsnitt 6</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-naturskyddsf%C3%B6reningen-bok-2019'>Naturskyddsföreningen Bok 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mj%C3%A4llby-syrianska-tv'>Mjällby Syrianska Tv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-henning-mankell-b%C3%B6cker'>Henning Mankell Böcker</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-citronkr%C3%A4m-med-lemoncurd'>Citronkräm Med Lemoncurd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nya-l%C3%A4genheter-tibro'>Nya Lägenheter Tibro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-apple-butik-stockholm'>Apple Butik Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-t%C3%A4vlingsbest%C3%A4mmelser-region-syd'>Tävlingsbestämmelser Region Syd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6ppna-f%C3%B6retagskonto-seb'>öppna Företagskonto Seb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lilla-j%C3%B6nssonligan-idag'>Lilla Jönssonligan Idag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tv-50-tum-elgiganten'>Tv 50 Tum Elgiganten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-koppling-16mm-till-15mm'>Koppling 16mm Till 15mm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rolf-lassg%C3%A5rd-l%C3%A4ngd'>Rolf Lassgård Längd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-special-order-ticket-animal-crossing-pocket-camp-tie-in-campaign'>Special Order Ticket Animal Crossing Pocket Camp Tie In Campaign</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-greenpeace-mission-statement'>Greenpeace Mission Statement</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dmi-radar-europa'>Dmi Radar Europa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jonatan-unge-vante'>Jonatan Unge Vante</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-astrid-lindgren-ung'>Astrid Lindgren Ung</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-i-vilken-stad-grundades-greenpeace'>I Vilken Stad Grundades Greenpeace</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4rldens-fulaste-hus'>Världens Fulaste Hus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flyg-koh-lanta'>Flyg Koh Lanta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-nordli-s%C3%A4ng'>Ikea Nordli Säng</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-robinson-2019-flashback'>Robinson 2019 Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-golden-hits-corona'>Golden Hits Corona</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-windows-movie-maker-crop-video'>Windows Movie Maker Crop Video</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p4-j%C3%B6nk%C3%B6ping-instagram'>P4 Jönköping Instagram</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nyttig-lunch-ute'>Nyttig Lunch Ute</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p%C3%A5sklov-2020-arvika'>Påsklov 2020 Arvika</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rter-som-s%C3%A4nker-blodsockret'>örter Som Sänker Blodsockret</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-belek%2C-turkiet-golf'>Belek, Turkiet Golf</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vann-spa-erbjudande'>Vann Spa Erbjudande</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A4nsf%C3%B6rs%C3%A4kringar-malm%C3%B6-%C3%B6ppettider'>Länsförsäkringar Malmö öppettider</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nyttig-mat-barn-gillar'>Nyttig Mat Barn Gillar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-beurer-mg-55-massageapparat'>Beurer Mg 55 Massageapparat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%A5r-man-h%C3%A5lla-inne-l%C3%B6n'>Får Man Hålla Inne Lön</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lord-nelsons-flaggskepp'>Lord Nelsons Flaggskepp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-fritidshem'>Vad är Fritidshem</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-orust-kommun-eldningsf%C3%B6rbud'>Orust Kommun Eldningsförbud</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tipspromenad-om-sagor'>Tipspromenad Om Sagor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-broby-g%C3%A5rd-norrt%C3%A4lje'>Broby Gård Norrtälje</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dagens-horoskop-kr%C3%A4ftan-metro'>Dagens Horoskop Kräftan Metro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-linbana-alanya-pris'>Linbana Alanya Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-samsung-ru7105-review'>Samsung Ru7105 Review</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ludvika-kommun-fritids'>Ludvika Kommun Fritids</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aruba-i-juli'>Aruba I Juli</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hitachi-tv-st%C3%A4nger-av-sig'>Hitachi Tv Stänger Av Sig</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kundcenter-lm-se'>Kundcenter Lm Se</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jvm-studion-svt-programledare'>Jvm Studion Svt Programledare</a>,
+";s:7:"expired";i:-1;}

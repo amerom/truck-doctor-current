@@ -1,0 +1,104 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3919:"<p>Only courses you ar Ladok contains one section for the basic-and advanced (first and second-cycle) levels, and another for the doctoral (third-cycle) level. LOGIN TO GUL Log in as. För att du som ansökt om, och beviljats, studiemedel ska kunna få dessa utbetalade krävs det att du registrerar dig på den utbildning som du antagits till. Ladok is used to record identity information, notes on eligibility, admissions , academic performance and graduation for all students. Välj lärosäte för att logga in / Select higher education institution to log in </p> <p>Ladok is a study administrative support system managing admission results, students registrations (generating hst*), result reporting (generating hpr**), issuing of degrees, PhD studies, follow -ups and data for funding allocation for first and second cycle,as well as delivering data to other internal and external systems. Det är nu återigen möjligt att editera intyg som hämtas av personal i Ladok, t.ex. På den här sidan kan du läsa om registrering och manuell registrering, samt borttagning av registrering i Ladok. Login to your student-Ladok. Den antagne registrerar sig själv i Ladok via studentgränssnittet (enligt beslut om webbregistering). World-class research, 1,400 courses and 190 degree programs make it one of the most popular in Sweden. Välkommen till Ladok för studenter Welcome to Ladok for students.  </p> <p>Detta är en gammal Ladok2 sida som inte är i tjänst längre då LADOK är flyttad till Ladok3 Inloggning sker via ditt lärosäte / Login via your higher education institution </p> <p>Nyheter rörande resultatrapportering Det är inte längre möjligt att rapportera in ett nytt modulresultat för en student om man redan har påbörjat en ändring av … Choose login service. In the menu "Current Education" you see your "Upcoming" courses. </p> <p>How do I register? The University of Gothenburg meets the challenges of society with diverse knowledge. University of Gothenburg. </p> <p>Studiemedel och registrering. </p> <p>Login with VGR-id. Välkommen till Ladok för personal Welcome to Ladok for employees. Ladok. </p> <p>Registrering, resultat och examen - Ladok för studenter Genom att logga in på Ladok för studenter kan du bland annat registrera dig, se dina studieresultat och ansöka om examen. </p> <p>For doctoral students there is additional information, including the doctoral subject, activity and registration for each semester the type of funding. </p> <p>The university has 47,500 students and 6,400 employees. :: GUL Support for Students. </p> <p>Adresser i Ladok. Stängd sida! Home [GUL Support for Student] :: GUL Support for Students. </p> <p>Ladok. In Ladok you can do the following: Register for your doctoral thesis/licentiate. By being open to the outside world and constantly participating in the public debate, the university contributes to the development of society. På Ladok för studenter kan du Uppgiften om registrering överförs automatiskt till Centrala studiestödsnämnden (CSN). Adress Ladok is the database used by the University of Gothenburg to record details of students and study results. </p> <p>The University of Gothenburg Identity Provider is used by employees and students at the university. Ladok - start. Now you must register for each course, each study period, for the whole semester. Select Chalmers - Identity Provider for Chalmers Use your CID (Chalmers ID) to login. </p> <p>Registrering i Ladok. Click on the logotype that represents the way you want to log in. </p> <p>As a third-cycle student you have access to Ladok . för att kunna signera dem digitalt. </p> <p>Register for a course you are admitted to. Home [GUL Support for Student] Ladok for third-cycle students. A registration implies your intention to pursue your third-cycle studies a certain half-year. LOGIN TO GUL Log in as. </p> <p>GU har flyttat över till Ladok3. </p>";s:7:"keyword";s:35:"familjen bernadotte dokument%C3%A4r";s:5:"links";s:6918:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-brf-bellman-uppsala'>Brf Bellman Uppsala</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-3d-ultraljud-link%C3%B6ping'>3d Ultraljud Linköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karl-xi-reduktion'>Karl Xi Reduktion</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-howard-soffa-lyx'>Howard Soffa Lyx</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-unik-fastighetsf%C3%B6rmedling-instagram'>Unik Fastighetsförmedling Instagram</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rabies-hund-film'>Rabies Hund Film</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bert-karlsson-arg'>Bert Karlsson Arg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-designa-egna-matchtr%C3%B6jor-hockey'>Designa Egna Matchtröjor Hockey</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chokladmuffins-med-yoghurt'>Chokladmuffins Med Yoghurt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-newfoundland-the-rock'>Newfoundland The Rock</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-djurg%C3%A5rden---aik-hockey'>Djurgården - Aik Hockey</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-access-atv-sweden'>Access Atv Sweden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-korv-barn-livsmedelsverket'>Korv Barn Livsmedelsverket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ljusgr%C3%A5-soffa-mio'>Ljusgrå Soffa Mio</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sauce-hollandaise-recette'>Sauce Hollandaise Recette</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bananbr%C3%B6d-utan-socker'>Bananbröd Utan Socker</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-capio-%C3%B6gon-malm%C3%B6'>Capio ögon Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ondskan-bok-lyssna'>Ondskan Bok Lyssna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-justerbara-vikter-arctic-cat'>Justerbara Vikter Arctic Cat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-irl%C3%A4ndsk-k%C3%B6ttgryta-med-%C3%B6l'>Irländsk Köttgryta Med öl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hund-som-biter-vid-korrigering'>Hund Som Biter Vid Korrigering</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-milj%C3%B6kontoret-enskilt-avlopp'>Miljökontoret Enskilt Avlopp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fiska-med-s%C3%A4nke'>Fiska Med Sänke</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-museum-jobb'>Volvo Museum Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kokoskakor-utan-%C3%A4gg'>Kokoskakor Utan ägg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spanska-verb-tempus'>Spanska Verb Tempus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-naturtillg%C3%A5ngar-i-sm%C3%A5land'>Naturtillgångar I Småland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nyf%C3%B6rv%C3%A4rv-lule%C3%A5-hockey'>Nyförvärv Luleå Hockey</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nokia-105-bluetooth'>Nokia 105 Bluetooth</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vvs-butik-karlstad'>Vvs Butik Karlstad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rbundskapten-fotboll-damer'>Förbundskapten Fotboll Damer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ekonomisk-kalkyl-restaurang'>Ekonomisk Kalkyl Restaurang</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hyra-hus-%C3%B6sterg%C3%B6tland'>Hyra Hus östergötland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-restauranger-nybrogatan-%C3%B6stermalm'>Restauranger Nybrogatan östermalm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sweef-soffa-begagnad'>Sweef Soffa Begagnad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gr%C3%B6t-4-m%C3%A5nader-1177'>Gröt 4 Månader 1177</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kazuma-meerkat-plastics'>Kazuma Meerkat Plastics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4r-%C3%A4r-ett-verb'>är är Ett Verb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fria-skolvalet-segregation'>Fria Skolvalet Segregation</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blodtryck-vid-k%C3%A4rlkramp'>Blodtryck Vid Kärlkramp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ibc-adapter-bauhaus'>Ibc Adapter Bauhaus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mauritzberg-slott-julbord'>Mauritzberg Slott Julbord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-linn%C3%A9-hostel-recension'>Linné Hostel Recension</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sri-lanka-klimat'>Sri Lanka Klimat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aftonbladet-nyheter-borl%C3%A4nge'>Aftonbladet Nyheter Borlänge</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rskola-10-f%C3%B6rsta-dagarna'>Förskola 10 Första Dagarna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-evigheten-enligt-platon'>Evigheten Enligt Platon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nokia-800-tough-bank-id'>Nokia 800 Tough Bank Id</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lax-pasta-tomats%C3%A5s'>Lax Pasta Tomatsås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lia-boysen-instagram'>Lia Boysen Instagram</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blodf%C3%B6rgiftning-av-jord'>Blodförgiftning Av Jord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-eniro-karta-malm%C3%B6'>Eniro Karta Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-afa-f%C3%B6rs%C3%A4kring-adress'>Afa Försäkring Adress</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-t%C3%A5rta-ica-maxi-hudiksvall'>Tårta Ica Maxi Hudiksvall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-amnesty-10-fr%C3%A5gor-och-svar-om-d%C3%B6dsstraff'>Amnesty 10 Frågor Och Svar Om Dödsstraff</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-samos-pythagorion-hotell'>Samos Pythagorion Hotell</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nokian-wr-d4-nordiskt-vinterd%C3%A4ck'>Nokian Wr D4 Nordiskt Vinterdäck</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-har-man-i-bankfack'>Vad Har Man I Bankfack</a>,
+";s:7:"expired";i:-1;}

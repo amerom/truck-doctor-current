@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2891:"<br>Följ oss. Tel: 0980-401 00 Fax: 0980-401 10 info@abiskomountainlodge.se. Upplevelser i Abisko nationalpark I Abisko nationalpark kan du se norrsken, upptäcka vandringsleder, ta linbanan upp på fjället Njullá, besöka naturum Abisko och mycket mer!  <br>Följ med oss på en resa till en värld av is, snö och konst med ett besök på det världsberömda Ishotellet. info@abiskomountainlodge.se +46 980 401 00. <br> <br>Abisko Mountain Lodge. Explore Abisko holidays and discover the best time and places to visit. Dagstur till ICEHOTEL. Lights over lapland. <br> <br>Kamera 1. Kontakt. Aurora Sky Station. Besök naturum Abisko. <br> <br>Midnattssolsvandring; Linbana sommar; Live; Ta dig hit; Kontakt +46 10 190 2360 [email protected] Live. Många biluthyrningsfirmor finns representerade i Kiruna. Väljer emellan privata rum med gemensama badrum, toalett, Kontakt. <br> <br>Taxi. Lapportsvägen 30 Box 86, 981 07 Abisko. 18 så har personalen ibland fullt upp i matsalen och därför …  Visit Abisko +46 98040037 Taxi Kiruna +46 98012020. Adress: Steinholtzgatan 35, Postnummer: 981 32. <br> <br>Night Visit; Linbana vinter; Sommar. | Easy access to spectacular scenery makes Abisko (Ábeskovvu in Sami) one of the highlights of any trip to Lappland. Receptionen är bemannad mellan 7 och 21 (notera att efter kl. Besök naturum Abisko. <br> <br>Naturum är öppet cirka 9 månader per år. Abisko - STF Aurora Sky Station Night Visit Kultur & Stad 2019-11-21 - 2021-03-20 If there is anything in particular you want to do when you visit Abisko, you can not find in our catalog, you can hear from you to us so maybe we can arrange a special arrangement. The 75-sq-km Abisko National Park spreads out from the southern shore of scenic lake Torneträsk. Abisko Nationalpark och mycket mer. Vi har rum i olika storlekar som delar på 2 stora kök och allrum och privata lägenheter med 1-3 sovrum. Abisko och Aurora Sky Station – Världens bästa plats att uppleva norrsken på. Sök på nätet för bästa pris. Hyrbil. Hitta information om Visit Abisko AB. The world leader in helping people from all reaches of the globe see and photograph the magical aurora borealis. Kiruna till Abisko trafikeras av Länstrafiken Norrbotten. <br> 0706 46 06 60 ... kontakt@abiskocabin.com. Telefon: 070-231 98 .. Visit Abisko. We at Activities in Abisko have long experience in organizing activities that are experiences for life. Senaste bilder. Vi erbjuder den mest bekväma boende för att få ut mesta möjliga av din upplevelse i Abisko. Kamera 2. Activities in Abisko. Abisko Mountain Lodge. <br> <br>Kontakt. Join one of Visit Abisko’s professional guides during the peak of the aurora season and search for the magical northern lights in one of our safe, modern vehicles! Lapportsvägen 30 981 07 Abisko Telefon: 0980-401 00 E-mail: info@abiskomountainlodge.se Öppettider. <br>";s:7:"keyword";s:26:"v%C3%A4ga p%C3%A5 engelska";s:5:"links";s:6808:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utem%C3%B6bler-matgrupp-ikea'>Utemöbler Matgrupp Ikea</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karin-boye-priser'>Karin Boye Priser</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-minsta-uttag-bankomat'>Minsta Uttag Bankomat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-scandi-standard-%C3%A5rsredovisning'>Scandi Standard årsredovisning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-logga-in-friskis-norrk%C3%B6ping'>Logga In Friskis Norrköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4der-porto-yr'>Väder Porto Yr</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vilka-f%C3%B6ruts%C3%A4ttningar-har-adhd-att-klara-av-ett-normalt-liv'>Vilka Förutsättningar Har Adhd Att Klara Av Ett Normalt Liv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hama-tv-f%C3%A4ste'>Hama Tv Fäste</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nokia-3310-bankid'>Nokia 3310 Bankid</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volkswagen-owners-manual-online'>Volkswagen Owners Manual Online</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cykel-auktion-g%C3%B6teborg'>Cykel Auktion Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-toyota-center-ufc'>Toyota Center Ufc</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-jobb-grythyttan'>Lediga Jobb Grythyttan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-punta-prima%2C-menorca-tui'>Punta Prima, Menorca Tui</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-r%C3%A4kna-ut-lagfart'>Räkna Ut Lagfart</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-elektrisk-atv-4x4'>Elektrisk Atv 4x4</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-maxtaxa-f%C3%B6rskola-bor%C3%A5s'>Maxtaxa Förskola Borås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lotter-till-f%C3%B6reningar'>Lotter Till Föreningar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spenat-och-fetaostpaj-coop'>Spenat Och Fetaostpaj Coop</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-best%C3%A5-tv-b%C3%A4nk-ikea'>Bestå Tv-bänk Ikea</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-anm%C3%A4la-arbetsskada-byggnads'>Anmäla Arbetsskada Byggnads</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-problem-baksida-l%C3%A5r'>Problem Baksida Lår</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-unibet-super-bowl'>Unibet Super Bowl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-br%C3%A4nna-fett-promenera'>Bränna Fett Promenera</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gy%C5%91r-p%C3%A5-tyska'>Győr På Tyska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-david-sundin-%C3%B6rebro'>David Sundin örebro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-koh-samui-tui'>Koh Samui Tui</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4ta-r%C3%A5a-havskr%C3%A4ftor'>äta Råa Havskräftor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glutenfri-sm%C3%B6rdeg-willys'>Glutenfri Smördeg Willys</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pink-so-what'>Pink So What</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-panang-curry-r%C3%A4kor'>Panang Curry Räkor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-almen%C3%A4s-lunch-n%C3%A4ssj%C3%B6'>Almenäs Lunch Nässjö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-instagram-stories-moving-text'>Instagram Stories Moving Text</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skolchef-nyk%C3%B6pings-kommun'>Skolchef Nyköpings Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gluten-och-mj%C3%B6lkfri-pajdeg'>Gluten Och Mjölkfri Pajdeg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mvm-romerska-siffror'>Mvm Romerska Siffror</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sgi-vid-upps%C3%A4gning'>Sgi Vid Uppsägning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blad-i-s%C3%B6der-korsord'>Blad I Söder Korsord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fr%C3%A5gor-till-praktikplats'>Frågor Till Praktikplats</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hotell-med-egen-pool-sverige'>Hotell Med Egen Pool Sverige</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-g%C3%B6r-man-h%C3%A5ret-v%C3%A5gigt'>Hur Gör Man Håret Vågigt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-takr%C3%A4cke-nyckel'>Volvo Takräcke Nyckel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-holavedsgymnasiet-antagning-2018'>Holavedsgymnasiet Antagning 2018</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ost-och-skinkpaj-per-morberg'>Ost Och Skinkpaj Per Morberg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-har-g%C3%A4ss-t%C3%A4nder'>Har Gäss Tänder</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-balansera-d%C3%A4ck-sj%C3%A4lv'>Balansera Däck Själv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gammal-kappa-salopp'>Gammal Kappa Salopp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kalv-fransyska-sous-vide'>Kalv Fransyska Sous Vide</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4r-de-statliga-myndigheternas-omr%C3%A5den'>är De Statliga Myndigheternas Områden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tull-paket-fr%C3%A5n-ryssland'>Tull Paket Från Ryssland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dra-till-sig-uppm%C3%A4rksamhet'>Dra Till Sig Uppmärksamhet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-johanna-toftby-webshop'>Johanna Toftby Webshop</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ayla-kabaca-barn'>Ayla Kabaca Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-playstation-2-ny'>Playstation 2 Ny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-amanda-winberg-morfar'>Amanda Winberg Morfar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-recept-ugnsmarinerad-lax'>Recept Ugnsmarinerad Lax</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-fotbollf%C3%B6rbundet-regler'>Svenska Fotbollförbundet Regler</a>,
+";s:7:"expired";i:-1;}

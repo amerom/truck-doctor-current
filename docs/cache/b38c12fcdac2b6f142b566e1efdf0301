@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2025:"<br>Invite collaborators using their [pennkey]@upenn.edu Penn+Box account … Box has been approved for storage of all university data except “Restricted Data” as defined by UC Business and Finance Bulletin IS-2 . <br> <br>Find out more at UCLA Box. <br> Welcome to UCLA Box. <br> <br>University of Pennsylvania has provided active faculty, students, and staff with a Penn+Box account with unlimited space to store, share, and access your files online. It is accessible from anywhere, on smartphone, tablet, or PC. Part of Covanta IT's Box?  <br>Continue to login to Box through your network. Use UR Box to store, share and access your files online anytime, anywhere, and with anyone. Upload your non-sensitive and moderately sensitive University files … Covanta IT's Box uses your network username and password to login to Box. Box enables you to store lots of large files, collaborate with others around the world, and access your data anywhere on any device. Vasto assortimento di sigarette elettroniche Big Battery e Box Mod della Joyetech, Eleaf, Wismec, Athena, Innokin, Koopor, Smok, Hcigar e tanti altri, con connessione 510 e voltaggio variabile (dove disponibile).Tutta la potenza che vuoi per qualsiasi atomizzatore! <br> <br>UVA Box enables you to access, store, and share files securely. Visit the UR Box service website for more information or contact the IT Help Desk at (585) 275-2000 Welcome to University of Rochester Box. Box content is stored in the following countries in accordance with data localization laws: United States, Europe, Canada, Australia, Japan and United Kingdom Please contact your local Support Center with any questions or if you receive any errors logging in. Box at UCLA is a secured cloud-based file sharing and storage service. Not a part of University of California, Los Angeles? Not a part of University of Rochester? Welcome to Penn+Box! The University of Virginia provides this cloud-based storage and collaboration service to eligible members of the UVA community.  <br>";s:7:"keyword";s:24:"inspektionslucka med box";s:5:"links";s:8218:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vit-sparris-%C3%A4gg'>Vit Sparris ägg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vegetarisk-k%C3%B6ttf%C3%A4rss%C3%A5s-barn'>Vegetarisk Köttfärssås Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-formalia-personligt-brev'>Formalia Personligt Brev</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rodney-big-brother-2011'>Rodney Big Brother 2011</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-landslagstruppen-mot-rum%C3%A4nien'>Landslagstruppen Mot Rumänien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-julcupen-sala-bilder'>Julcupen Sala Bilder</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utbildning-s%C3%A5rv%C3%A5rd-undersk%C3%B6terska'>Utbildning Sårvård Undersköterska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-finansieras-skolan'>Hur Finansieras Skolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-my-heritage-wiki'>My Heritage Wiki</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kriget-mellan-sparta-och-persien'>Kriget Mellan Sparta Och Persien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4kta-m%C3%A4nniskor-dvd'>äkta Människor Dvd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-muslimska-h%C3%B6gtider-2020'>Muslimska Högtider 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kylsk%C3%A5p-husvagn-d%C3%A5lig-kyla'>Kylskåp Husvagn Dålig Kyla</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-love-story-musik'>Love Story Musik</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hyttan-hedemora-lunch'>Hyttan Hedemora Lunch</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4ventyr-gran-canaria'>äventyr Gran Canaria</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-marabou-kakor-pris'>Marabou Kakor Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-m%C3%A5nga-anv%C3%A4ndare-har-netflix'>Hur Många Användare Har Netflix</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hm-avesta-jobb'>Hm Avesta Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glutenfri-sm%C3%B6rdeg-test'>Glutenfri Smördeg Test</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lchf-fisk-kokosmj%C3%B6lk'>Lchf Fisk Kokosmjölk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kroppens-starkaste-muskler'>Kroppens Starkaste Muskler</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blocket-hus-malm%C3%B6'>Blocket Hus Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-last-christmas-sf'>Last Christmas Sf</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-european-news-live-stream'>European News Live Stream</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gratinerad-hummer-champinjoner'>Gratinerad Hummer Champinjoner</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-the-german-french-war'>The German French War</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glutenfria-skurna-pepparkakor'>Glutenfria Skurna Pepparkakor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jonatan-unge---youtube'>Jonatan Unge - Youtube</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ferrero-rondnoir-k%C3%B6pa'>Ferrero Rondnoir Köpa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tygaff%C3%A4r-fr%C3%B6lunda-torg'>Tygaffär Frölunda Torg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Hotell-Speker%C3%B6d4%2C2%2818%293%2C1%C2%A0miles-bort84%C2%A0US%24'>Hotell Spekeröd4,2(18)3,1 miles Bort84 US$</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p17-vm-bandy-2020'>P17-vm Bandy 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-valpar-utan-hem'>Valpar Utan Hem</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flytta-avlopp-k%C3%B6k'>Flytta Avlopp Kök</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skaldjurssoppa-med-potatis'>Skaldjurssoppa Med Potatis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pyssel-f%C3%B6r-alla-%C3%A5ldrar'>Pyssel För Alla åldrar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-psoriasis-i-h%C3%A5rbotten-h%C3%A5ravfall'>Psoriasis I Hårbotten Håravfall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6ppettider-bilbolaget-timr%C3%A5'>öppettider Bilbolaget Timrå</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bojkott-amerikanska-revolutionen'>Bojkott Amerikanska Revolutionen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-my-little-pony-coloring-pages'>My Little Pony Coloring Pages</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D8%A8%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C'>کانال بی بی سی</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fakta-om-str%C3%A4vh%C3%A5rig-tax'>Fakta Om Strävhårig Tax</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pic-collage-gratis'>Pic Collage Gratis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-satisfactory-synonyms-english'>Satisfactory Synonyms English</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%B6grev-av-kalv'>Högrev Av Kalv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4sta-s%C3%A4ttet-att-l%C3%A4ra-sig-tyska%3F'>Bästa Sättet Att Lära Sig Tyska?</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fl%C3%A4skk%C3%B6tt-temperatur-livsmedelsverket'>Fläskkött Temperatur Livsmedelsverket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-youtube-sfi-kurs-c'>Youtube Sfi Kurs C</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-katia-winter-filmer-och-tv-program'>Katia Winter Filmer Och Tv Program</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-titel-bayern-m%C3%BCnchen'>Titel Bayern München</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-odalgatan-6-skellefte%C3%A5'>Odalgatan 6 Skellefteå</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6ppettider-tyres%C3%B6-centrum'>öppettider Tyresö Centrum</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-absolut-vodka-net-worth'>Absolut Vodka Net Worth</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tj%C3%A4nstledighet-f%C3%B6r-distansstudier'>Tjänstledighet För Distansstudier</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-www-p-se'>Www P Se</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pizza-recept-utan-j%C3%A4st'>Pizza Recept Utan Jäst</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenskt-medborgarskap-lag'>Svenskt Medborgarskap Lag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-boxer-logga-in'>Boxer Logga In</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rs%C3%A4kringskassan-studera-utomlands'>Försäkringskassan Studera Utomlands</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-elevspel-spanska-klockan'>Elevspel Spanska Klockan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nokian-hakkapeliitta-r3-235-40r19-96t-xl'>Nokian Hakkapeliitta R3 235 40r19 96t Xl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fr%C3%A5gesport-med-svar'>Frågesport Med Svar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-par-meiling-stina-wollter'>Par Meiling Stina Wollter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-uponor-clean-1'>Uponor Clean 1</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vandra-i-spanien-med-barn'>Vandra I Spanien Med Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-emil-forselius-flashback'>Emil Forselius Flashback</a>,
+";s:7:"expired";i:-1;}

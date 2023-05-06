@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2207:"<p>This map quiz game is here to help. </p> <p>Can you find the United States on a map? Harvard is the first university in the United States. If you want to practice offline, download our printable US State maps in pdf format. Quiz Rating Details. Fill in the map of the United States by correctly guessing each highlighted state. Each time you take this quiz the questions and answers are randomly shuffled. This 50 states quiz is a fun way to test your knowledge or to review for your geography class. More quiz info >> First submitted. Rate 5 stars Rate 4 stars Rate 3 stars Rate 2 stars Rate 1 star. If a virtual … US Map Quiz Use our free US Map Quiz to learn the locations of all the US states. Geography Quiz / US States. We all need to come together. Last updated: October 28, 2018. Popular Quizzes Today. Find the US States14,546. With 50 states in total, there are a lot of geography facts to learn about the United States. Plays Quiz Updated Oct 9, 2017. Wabash, Indiana was the first electrically-lit city in the world. The Statue of Liberty was donated by France in 1884. Play Sporcle's virtual live trivia to have fun, connect with people, and get your trivia on.Join a live hosted trivia game for your favorite pub trivia experience done virtually. October 21, 2014. This blank map of the 50 US states is a great resource for teaching, both for use in the classroom and for homework. In the very begining it was called ARPANET. Washington, D.C. is not the first capital of the US. The quiz is paused. The U.S.: 50 States Printables - Map Quiz Game With 50 states total, knowing the names and locations of the US states can be difficult. You have remaining. </p> <p></p> <p>Random Geography or State Quiz. The United States invented the internet. You scored / = % This beats or equals % of test takers also scored 100% </p> <p>Its first capital was New York City. United States Map Quiz Fill in the numbers with the correct US state </p> <p> See how fast you can pin the location of the lower 48, plus Alaska and Hawaii, in our states game! Also try: US Capitals. Quiz and answer stats >> Fixed order Random order. Quiz by Quizmaster. Risky Map Clicking: Smallest Neighbor States32,673. </p>";s:7:"keyword";s:19:"flicknamn p%C3%A5 n";s:5:"links";s:8530:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-powerflex-saab-9-5'>Powerflex Saab 9 5</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-metis-ping-pong'>Metis Ping Pong</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p3-humor-jonatan-unge'>P3 Humor Jonatan Unge</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-marianne-m%C3%B6rcks-barn'>Marianne Mörcks Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p%C3%A4r-lernstr%C3%B6m-linda-%C3%B6hrn'>Pär Lernström Linda öhrn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-badminton-sweden-ranking'>Badminton Sweden Ranking</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chocolate-chip-cookies-p%C3%A5-1-minut'>Chocolate Chip Cookies På 1 Minut</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tapet-rea-morris'>Tapet Rea Morris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%B6tpotatis-i-ugn'>Sötpotatis I Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4xj%C3%B6-kommun-sotning'>Växjö Kommun Sotning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-t%C3%A5rta-med-motiv'>Tårta Med Motiv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-soffa-kelly-stalands'>Soffa Kelly Stalands</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-beyonc%C3%A9-documentary-life-is-but-a-dream'>Beyoncé Documentary Life Is But A Dream</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-k%C3%B6per-din-bil-oavsett-skick'>Köper Din Bil Oavsett Skick</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Dr%C3%B6mmen-om-Elin'>Drömmen Om Elin</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-reglemente-parad-7'>Reglemente Parad 7</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-socialt-v%C3%A4rdeskapande-analys-stockholm'>Socialt Värdeskapande Analys Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-animal-crossing-redd-gallery'>Animal Crossing Redd Gallery</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bukowskis-senast-inkommet'>Bukowskis Senast Inkommet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vegansk-glass-ben-and-jerry'>Vegansk Glass Ben And Jerry</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rose-club-%C3%A5ldersgr%C3%A4ns'>Rose Club åldersgräns</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-coraline-och-spegelns-hemlighet-trailer'>Coraline Och Spegelns Hemlighet Trailer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-malou-prytz-%C3%A5lder'>Malou Prytz ålder</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-i-lilla-b%C3%A4lt-webbkryss'>I Lilla Bält Webbkryss</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-samh%C3%A4llsvetenskapsprogrammet-inriktning-samh%C3%A4llsvetenskap'>Samhällsvetenskapsprogrammet Inriktning Samhällsvetenskap</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ytterbo-fastigheter-nyk%C3%B6ping'>Ytterbo Fastigheter Nyköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-examensarbete-elektroteknik-uu'>Examensarbete Elektroteknik Uu</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kommuner-i-norrland'>Kommuner I Norrland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4ldreboende-g%C3%A4vle-jobb'>äldreboende Gävle Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-luxury-homes-for-sale-la'>Luxury Homes For Sale La</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nationella-prov-digitalt'>Nationella Prov Digitalt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fyrbodal-indra-admin'>Fyrbodal Indra Admin</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rdelar-med-invandring-i-storbritannien'>Fördelar Med Invandring I Storbritannien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-billiga-vinterd%C3%A4ck-stockholm'>Billiga Vinterdäck Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sportlov-%C3%B6rebro-2020'>Sportlov örebro 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-staffan-scheja-syskon'>Staffan Scheja Syskon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%B6stlov-2020-dalarna'>Höstlov 2020 Dalarna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bli-medlem-skruvat'>Bli Medlem Skruvat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-putin-v%C3%A4rldens-rikaste'>Putin Världens Rikaste</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-frosting-recept-t%C3%A5rta'>Frosting Recept Tårta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-telenor-ladda-app'>Telenor Ladda App</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kristianstad-kommun-jobb'>Kristianstad Kommun Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-brf-bellman-uppsala'>Brf Bellman Uppsala</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-domsj%C3%B6-if-p05'>Domsjö If P05</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sirius-ssl-dam'>Sirius Ssl Dam</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-recliner-soffa-microfiber'>Recliner Soffa Microfiber</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-riktigt-ovanliga-namn'>Riktigt Ovanliga Namn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-www-sjofartsmuseet-se'>Www Sjofartsmuseet Se</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-malm%C3%B6-fakta-och-statistik'>Malmö Fakta Och Statistik</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vpi-sluten-avloppstank-6000'>Vpi Sluten Avloppstank 6000</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fels%C3%B6kning-renault-megane'>Felsökning Renault Megane</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-press-release-sandvik'>Press Release Sandvik</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4ppelkaka-med-italiensk-mar%C3%A4ng'>äppelkaka Med Italiensk Maräng</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-parcel-tracking-sweden'>Parcel Tracking Sweden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-marcus-berggren-tjej'>Marcus Berggren Tjej</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ta-bort-strypning-cf-moto-800'>Ta Bort Strypning Cf Moto 800</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-n%C3%A4r-uppst%C3%A5r-en-fordran'>När Uppstår En Fordran</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-seb-bli-f%C3%B6retagskund'>Seb Bli Företagskund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fryst-oxfil%C3%A9-willys'>Fryst Oxfilé Willys</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-corn-syrup-svenska'>Corn Syrup Svenska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-hemnes-tv-b%C3%A4nk'>Ikea Hemnes Tv-bänk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skinkstek-med-sv%C3%A5l'>Skinkstek Med Svål</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-brummande-ljud-i-%C3%B6rat'>Brummande Ljud I örat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-l%C3%A5ng-tid-tar-en-l%C3%B6neutbetalning'>Hur Lång Tid Tar En Löneutbetalning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-alla-idol-deltagare-2017'>Alla Idol Deltagare 2017</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aml-advisor-danske-bank'>Aml Advisor Danske Bank</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-after-work-snacks'>After Work Snacks</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lefkas-v%C3%A4der-maj'>Lefkas Väder Maj</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-best-transport-malm%C3%B6'>Best Transport Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-realgymnasiet-lund-login'>Realgymnasiet Lund Login</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%A4rjestad-%C3%B6rebro-2020'>Färjestad örebro 2020</a>,
+";s:7:"expired";i:-1;}

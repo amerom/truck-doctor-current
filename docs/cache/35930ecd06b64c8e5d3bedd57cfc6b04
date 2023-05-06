@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:4359:"<p>Please check with event organizers for details. Fukushima: Händelserna i Japan 2011. </p> <p>Dessa motgångar ledde till att Hideki Tojo avgick som premiärminister och ersattes av general Kuniaki Koiso. </p> <p>Under 23–26 oktober 1944 utkämpades slaget vid Leytebukten utanför Filippinerna. I Japan måste båda mannen och kvinnan ge sitt godkännande för att aborten ska få genomföras, men det gäller inte när det handlar om våldtäkt då kvinnan bestämmer själv. – Den Japanska och internationela ekonomin är hotad, läget är mycket allvarligt. Overview of holidays and many observances in Japan during the year 2020. UPPDATERINGAR LÄNGST NED I INLÄGGET SIDA MED INFORMATION OM COVID-19 I JAPAN OCH TELEFONNUMMER TILL ENGELSKSPRÅKIGA HOTLINES Som alla vet så har det internationella läget förvärrats med en skräckinjagande hastighet sedan vi sist skrev om corona-virusets framfart. Vi uppmanar alla som planerar en resa eller som befinner sig i landet att göra en reseanmälan på https://matkustusilmoitus.fi. Ett tag hotade Nagumo att avgå om planen skulle genomföras. Vad händer i Japan just nu: Vår medarbetare i Japan, Mika Nitz Pettersson, rapporterar om läget i Japan just nu. Japan is a country surrounded by oceans and consists of four major islands: Hokkaido, Honshu, Shikoku, and Kyushu, and many smaller islands. Den globala ekonomin står just nu inför den största krisen sedan andra världskriget, det säger Japans utrikesminister Toshimitsu Motegi under måndagen. ... Events and observations associated with the holidays we list may be canceled or otherwise affected due to measures taken to combat the COVID-19 pandemic. Japanska hälsoministeriet har uppdaterad information om läget samt råd på sin hemsida. JNTO har ett telefonnummer där resenärer kan få hjälp på engelska 24/7: 050 3816 2787 (när du ringer från Japan). Coronapandemin kan skapa den största ekonomiska krisen sedan andra världskriget varnar Japan. Ordlista; Sveriges strålskyddsberedskap; Regler vid resa; Svenska myndigheters ansvar; Följ läget i Japan; Bakgrund om Fukushima; 2010.  Ambassaden bevakar hur läget utvecklas i Japan. Enligt ändringen i Folkhälsomyndighetens föreskrift (HSLF-FS 2015:7) kan smittskyddsläkaren inom sin region besluta om klinisk anmälningsplikt vid covid-19. Här sprider sig det nya corona­viruset. Läget började nu bli kritiskt för Japan. UPPDATERINGAR LÄNGST NED I INLÄGGET SIDA MED INFORMATION OM COVID-19 I JAPAN OCH TELEFONNUMMER TILL ENGELSKSPRÅKIGA HOTLINES Som alla vet så har det internationella läget förvärrats med en skräckinjagande hastighet sedan vi sist skrev om corona-virusets framfart. </p> <p>According to Article 23(1) of Japan’s Public Housing Law, it only applies to married and unmarried different-sex couples. Uppenbart är nu att detta co Japan National Tourism Organization är tillgängligt när som helst – 24 timmar … Siffrorna i denna artikel visar bara de fall som bekräftats, både när det gäller avlidna, smittade och tillfrisknade. Här kan det dock uppstå många problem, i Japan anmäls sällan våldtäkter då det är en hemsk tabu. Det var Chuichi Nagumo som var ansvarig överbefälhavare för aktionen mot Pearl Harbor, men Nagumo var mycket tveksam inför uppgiften. Shizuko Mishima is a life-long resident of Japan and author of "The Sushi Kit." Uppenbart är nu att detta co Because of Japan's unique makeup, the climate in the country varies widely from one region to another. </p> <p>Naturligtvis om Corona, tex inför Golden Week, Abes helikopterpengar (100KY, även för utänningar..), inreseförbud (även från Sverige), miljöengagemeng (eller brist på). För att fortlöpande kunna följa det epidemiska läget har smittskyddsläkaren beslutat att fall av covid-19 inom Region Skåne ska anmälas av behandlande läkare verksamma i regionen. In a 2008 report by the UN Human Rights Committee, they expressed concern about discrimination against LGBT people in several areas, including housing. Lesbian, gay, bisexual, transgender (LGBT) rights in Japan are relatively progressive by Asian standards.Same-sex sexual activity was criminalised only briefly in Japan's history between 1872 and 1880, after which a localised version of the Napoleonic Penal Code was adopted with an equal age of consent. </p>";s:7:"keyword";s:32:"avsp%C3%A4rrningsstolpe med band";s:5:"links";s:6724:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A5s-p%C3%A5-gr%C3%A4ddfil-varm'>Sås På Gräddfil Varm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-roy-fares-lussebullar'>Roy Fares Lussebullar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-polaris-850-pipa'>Polaris 850 Pipa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sushi-zen-stockholm-meny'>Sushi Zen Stockholm Meny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sk%C3%A5ne-gripen-flagga'>Skåne Gripen Flagga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fest-lekar-vuxna'>Fest Lekar Vuxna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skrivuppgift-till-bok'>Skrivuppgift Till Bok</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-om-du-tycker-n%C3%A5got-%C3%A4r-fel-kan-du-l%C3%A4mna-in-en'>Om Du Tycker Något är Fel Kan Du Lämna In En</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-publicera-exjobb-liu'>Publicera Exjobb Liu</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hallongrottor-med-center'>Hallongrottor Med Center</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jobba-p%C3%A5-nordea-flashback'>Jobba På Nordea Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rebro-innebandy-cup'>örebro Innebandy Cup</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-timr%C3%A5-modo-biljetter'>Timrå Modo Biljetter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skateboard-hjul-biltema'>Skateboard Hjul Biltema</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A4mna-p%C3%A5-f%C3%B6rskolan-n%C3%A4r-man-%C3%A4r-sjuk'>Lämna På Förskolan När Man är Sjuk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%B6tare-p%C3%A5-engelska'>Sötare På Engelska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tages-after-work'>Tages After Work</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jamaica-as-a-country'>Jamaica As A Country</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-loppis-h%C3%A4gerstensv%C3%A4gen-2019'>Loppis Hägerstensvägen 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-johanna-lind-instagram'>Johanna Lind Instagram</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ving-utflykter-gambia'>Ving Utflykter Gambia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rs%C3%A4kringskassa-vab-intyg'>Försäkringskassa Vab Intyg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stilton-och-portvin-%C3%A4r-som-man-och-hustru'>Stilton Och Portvin är Som Man Och Hustru</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utflyktsm%C3%A5l-norra-sk%C3%A5ne'>Utflyktsmål Norra Skåne</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%A5rdsauktioner-2020-v%C3%A4stmanland'>Gårdsauktioner 2020 Västmanland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ving-puerto-de-s%C3%B3ller'>Ving Puerto De Sóller</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rostfri-diskb%C3%A4nk-specialm%C3%A5tt'>Rostfri Diskbänk Specialmått</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-alvine-matta'>Ikea Alvine Matta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-upper-house-rum'>Upper House Rum</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-korv-med-br%C3%B6d-karamelliserad-l%C3%B6k'>Korv Med Bröd Karamelliserad Lök</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jobb-efter-s%C3%A4rskolan'>Jobb Efter Särskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-red-river-showdown'>Red River Showdown</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-black-and-tan-coonhound-sverige'>Black And Tan Coonhound Sverige</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-krossat-bovete-br%C3%B6d-recept'>Krossat Bovete Bröd Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-frysa-in-sik'>Frysa In Sik</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-koka-r%C3%A4kor-med-skal'>Koka Räkor Med Skal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-strategispel-xbox-one'>Strategispel Xbox One</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fc-k%C3%B6penhamn-m%C3%A5lvakt'>Fc Köpenhamn Målvakt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iittala-outlet-skultuna'>Iittala Outlet Skultuna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-seniorsurfarna-del-3'>Seniorsurfarna Del 3</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fakta-om-porto'>Fakta Om Porto</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skrivuppgift-till-bok'>Skrivuppgift Till Bok</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jakob-eklund-marie-richardson'>Jakob Eklund Marie Richardson</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-verka-vara-ibland'>Verka Vara Ibland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A5terh%C3%A4mtning-efter-vasaloppet'>återhämtning Efter Vasaloppet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nordiska-galleriet-%C3%B6ppettider'>Nordiska Galleriet öppettider</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bert-karlsson-merinfo'>Bert Karlsson Merinfo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kim-anderzon-syster'>Kim Anderzon Syster</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ingvar-kamprad-pengar'>Ingvar Kamprad Pengar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-filma-for-instagram'>Filma For Instagram</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-suzuki-parts-europe'>Suzuki Parts Europe</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-eurovision-song-contest-sweden'>Eurovision Song Contest Sweden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aren%27t-we-all'>Aren't We All</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hotell-sista-minuten-stockholm'>Hotell Sista Minuten Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-babblarna-musikal-youtube'>Babblarna Musikal Youtube</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-crosstrainer-monark-homeline-717x'>Crosstrainer Monark Homeline 717x</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:4091:"<br>Citat av August Strindberg ... Citat av August Strindberg. Den kan inte brinna för alltid, den måste slockna, och vetskapen om … <br> <br>August Strindberg föddes den 22 januari 1849 i Stockholm som tredje barnet till ångbåtskommissionären Carl Oscar Strindberg och den tidigare uppasserskan Ulrika Eleonora. He looks like a young girl. Ordspråk av August Strindberg och citat av August Strindberg! Han räknas som en av Sveriges mest betydelsefulla författare, internationellt främst känd som dramatiker. Han växte upp i ett hem som präglades av gudfruktighet, disciplin, musikalisk samvaro och sommarutflykter med familjeföretagets ångbåtar. It is August Strindberg. En god och sann bok är ett brev som man bara kan läsa en gång. Citat i massor. 413. Han är rädd" (15) ["only one face.  Jag har alltid tillbett kvinnorna, dessa förtjusande brottsliga tokor – är en samlingsvolym med noveller och andra texter av August Strindberg som rejält korrigerar den utbredda uppfattningen om honom som kvinnohatare. What editors are looking for above… You can only write regularly if you’re willing to write badly … Accept bad writing as a way of priming the pump, a warm-up exercise that allows you to write well. Strindberg. Ernst Ingmar Bergman was born on 14 July 1918 in Uppsala, Sweden, the son of Erik Bergman, a Lutheran minister and later chaplain to the King of Sweden, and Karin (née Åkerblom), a nurse who also had Walloon ancestors. Jennifer Egan 412. Ålder skyddar inte mot kärlek, men kärlek skyddar till en viss grad mot ålder. Så mäktigt! Här ordsätter jag fragment av den översatta, ... Skördar igenom gamla anteckningar och hittar varifrån jag lånat ett livsreflekterande citat, ... kvinnor och fåglar under livsformernas fortskridande förvandling. August Strindberg: vår nationalskald. This montage suggests a profound awareness of the convergence of history, culture, gender, and sexual politics, of the ways in which den störste författaren i svensk litteratur, med en något underlig kvinnosyn. He is afraid" (3)]. Jag älskar kvinnor lika mycket som jag hatar kvinnor. Världens bästa citat om skrivande, av världens bästa författare, sam(p)lade av Erik J. Rudvall. Lyckan förtär sig själv som en låga. Han ser ut som en ung flicka. Världens bästa färg är den som ser bra ut på dig. Världens bästa färg är den som ser bra ut på dig. Han träffade första gången den finlandssvenska adelskvinnan Siri von Essen år 1875 då hon fortfarande hade ett äktenskap med en annan man. TÄNKVÄRDA-KLOKA-ORD – Hämtat lite här och där från internet. Abjektala ordlingar / Abjectal wor(l)dlings abjekt tala. Vi kvinnor behöver skönheten för att männen ska kunna älska oss och dumheten för att vi ska kunna älska männen. Strindberg hade försmak för kvinnor som var starka och hade en egen vilja. He grew up with his older brother Dag and sister Margareta surrounded by religious imagery and discussion. Ordsprog om Kvinder og citater om Kvinder - Nordens største samling ordsprog og citater! Tänkvärda ord, kloka ord, visdomsord, ordspråk, citat, kärlekscitat…Det kan tyvärr finnas dubbla ”tänkvärda ord” med, jag har inte kollat så någa. Han kände inte för de som var svaga och tillät sig vara underdåniga. Citat ur En dåres försvarstal, ... Då hade jag precis berättat att vår världsberömda författare Strindberg var en rabiat kvinnorättsmotståndare som tyckte att kvinnor skulle lämna mannens arbetsmarknad och politik ifred och ägna sig helt åt fortplantning och barnuppfostran. Under fyra decennier var Strindberg en prominent gestalt i det litterära Sverige. Ålder skyddar inte mot kärlek, men kärlek skyddar till en viss grad mot ålder. <br> <br> Vi kvinnor behöver skönheten för att männen ska kunna älska oss och dumheten för att vi ska kunna älska männen. <br> <br>Johan August Strindberg, född 22 januari 1849 i Stockholm, död 14 maj 1912 i Stockholm, var en svensk författare, dramatiker och bildkonstnär (måleri och fotografi). <br>";s:7:"keyword";s:24:"strindberg citat kvinnor";s:5:"links";s:8314:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-att-%C3%A4ga-en-dv%C3%A4rgschnauzer'>Att äga En Dvärgschnauzer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A5ngpannebr%C3%B6d-utan-j%C3%A4st'>Långpannebröd Utan Jäst</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bolln%C3%A4s-folkh%C3%B6gskola-singer%2Fsongwriter'>Bollnäs Folkhögskola Singer/songwriter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-liverpool-halsduk-retro'>Liverpool Halsduk Retro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-what-is-fresh-prince-of-bel-air-about'>What Is Fresh Prince Of Bel Air About</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-clark-olofsson-syster'>Clark Olofsson Syster</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ont-i-h%C3%B6ften-n%C3%A4r-jag-sover-p%C3%A5-sidan'>Ont I Höften När Jag Sover På Sidan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-motorola-one-hyper-pris'>Motorola One Hyper Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-still-dre-by-dr-dre'>Still Dre By Dr Dre</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ghost-concert-dates'>Ghost Concert Dates</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-historia-om-spanien'>Historia Om Spanien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bolln%C3%A4s-alpina-skidskola'>Bollnäs Alpina Skidskola</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dejan-kulusevski-%C3%B6verg%C3%A5ng'>Dejan Kulusevski övergång</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-d%C3%B6ptes-olof-sk%C3%B6tkonung'>Döptes Olof Skötkonung</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stopp-i-blandare'>Stopp I Blandare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-negroni-drink-recept'>Negroni Drink Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-big-brother-2020-sverige-ans%C3%B6kan'>Big Brother 2020 Sverige Ansökan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tusse-idol-duett'>Tusse Idol Duett</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kristianstads-golfklubb-t%C3%A4vlingar'>Kristianstads Golfklubb Tävlingar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-korpen-stockholm-medlem'>Korpen Stockholm Medlem</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kan-man-g%C3%B6ra-filodegsknyten-dagen-innan'>Kan Man Göra Filodegsknyten Dagen Innan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-antikens-grekland-underh%C3%A5llning'>Antikens Grekland Underhållning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bestway-aeroluxe-airbed-queen-double'>Bestway Aeroluxe Airbed Queen Double</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bovete-br%C3%B6d-recept'>Bovete Bröd Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-which-country-is-beyonc%C3%A9-from'>Which Country Is Beyoncé From</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-7-m%C3%A5naders-bebis-s%C3%B6mn'>7 Månaders Bebis Sömn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-badkar-miami-bauhaus'>Badkar Miami Bauhaus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hotell-kreta-chania'>Hotell Kreta Chania</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stockholms-stadslag-fotboll-f05'>Stockholms Stadslag Fotboll F05</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spilltratt-med-luddfilter'>Spilltratt Med Luddfilter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6stersund-elitlicens-%C3%B6verklagan'>östersund Elitlicens överklagan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skolmaten-tyres%C3%B6-gymnasium'>Skolmaten Tyresö Gymnasium</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-arbetsskada-ers%C3%A4ttning-sveda-och-v%C3%A4rk'>Arbetsskada Ersättning Sveda Och Värk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tysk-spets---tr%C3%A4ning'>Tysk Spets - Träning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lss-boende-j%C3%B6nk%C3%B6ping-jobb'>Lss Boende Jönköping Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-scanpan-pro-iq-26-cm'>Scanpan Pro Iq 26 Cm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A5s-till-halloumiburgare'>Sås Till Halloumiburgare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-safino-shop-omd%C3%B6me'>Safino Shop Omdöme</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-diamant-board-game'>Diamant Board Game</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-recept-med-%C3%A4ggulor'>Recept Med äggulor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hbo-nordic-cancel-subscription'>Hbo Nordic Cancel Subscription</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-naturvetenskap-aktiviteter-i-f%C3%B6rskolan'>Naturvetenskap Aktiviteter I Förskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-slagits-p%C3%A5-synonym'>Slagits På Synonym</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Plays-of-August-Strindberg'>Plays Of August Strindberg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flyg-stockholm-s%C3%A4len'>Flyg Stockholm Sälen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blandare-tv%C3%A4ttst%C3%A4ll-mora'>Blandare Tvättställ Mora</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-annonser-facebook-storlek'>Annonser Facebook Storlek</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-r%C3%B6da-linjen-tunnelbana'>Röda Linjen Tunnelbana</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-best-contemporary-romance-books'>Best Contemporary Romance Books</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bokst%C3%A4ver-med-ljud'>Bokstäver Med Ljud</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-soffbord-stockholm'>Ikea Soffbord Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-olearys-meny-halmstad'>Olearys Meny Halmstad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mot-synonym-kryssord'>Mot Synonym Kryssord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-matte-p%C3%A5-n%C3%A4tet'>Matte På Nätet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tapetbord-wellpapp-jula'>Tapetbord Wellpapp Jula</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varf%C3%B6r-h%C3%A4nger-bladen-p%C3%A5-min-dracena'>Varför Hänger Bladen På Min Dracena</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-radiomasten-7-lule%C3%A5'>Radiomasten 7 Luleå</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bus-fuerteventura-airport-to-corralejo'>Bus Fuerteventura Airport To Corralejo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-satisfactory-synonyms-english'>Satisfactory Synonyms English</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-johan-falk-de-fredl%C3%B6sa-dreamfilm'>Johan Falk De Fredlösa Dreamfilm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rebro-hockey-mobilskal'>örebro Hockey Mobilskal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%B6derk%C3%B6pings-brunn-p%C3%A5skbuff%C3%A9'>Söderköpings Brunn Påskbuffé</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vann-r%C3%A4tt-idol'>Vann Rätt Idol</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-agnes-what-a-feeling'>Agnes What A Feeling</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-costa-rica-djur'>Costa Rica Djur</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-spr%C3%A5ket-spel'>Svenska Språket Spel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bbc-channels-schedule'>Bbc Channels Schedule</a>,
+";s:7:"expired";i:-1;}

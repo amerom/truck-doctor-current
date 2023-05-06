@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2919:"<p>The cross-country trails in Åre are perfect for every skier who wants to take a great training lap.The longer tracks are located in the area called Duved, the laps there generally slightly hillier than those in Åre Björnen.In total there are 58 km of Cross-country trails. The high point of the cross-Country skiing area is located at an elevation of 374 m. Snow coverage is usually best during March, offering an average snow depth of 104 cm at summit elevation and 120 cm at the base. Offering 88.50 km cross-country trails, Are is among the 5 largest Cross-Country Skiing Areas in Sweden. In the winter months, although the Earth is closer to the sun, it … Åre Bike Park - Cross-country cycling A trail riding area is under construction in Björnen. Snow conditions in Åre Åre is just 350km south of the Arctic Circle and guarantees snow throughout the winter season from late November to early May. Good: There is over 500km of marked and maintained cross-country trails throughout the resorts of Åre and the surrounding area. Are Ski Resort Stats Are is the largest ski resort in Scandinavia has been operating as a winter sports resort for over 100 years. Snow conditions in Åre Åre is just 350km south of the Arctic Circle and guarantees snow throughout the winter season from late November to early May. Snowboard If you are new to the sport there is also an excellent ski school for those who want to try something different. Many of the trails are finished, and several more will be built and planned in the coming years. In Sweden ski touring is a popular form of expedition. Cross country skiing within walking distance Östersund that offer good opportunities both for the novice and the professional skier. Oavsett ålder och hur skicklighet man är på cykelsadeln så finns det stigar, men även fina grusvägar att cykla på. Photo: Anders Tedeholm/imagebank.sweden.se. För den som vill främst cykla Cross Country så har finns det fin cykling i Åre Bike Park XC som växer varje år med nya leder. The 2019–20 FIS Cross-Country World Cup was the 39th official World Cup season in cross-country skiing for men and women. </p> <p>Oavsett ålder och hur skicklighet man är på cykelsadeln så finns det stigar, men även fina grusvägar att cykla på. Sweden offers plenty of opportunities for ski touring, a form of skiing that involves both cross-country and downhill on one pair of skis. Snowboard “ Really nice place for cross-country skiing, with tons of snow, light frost, and awesome views! Cross country. The city offers around 71 kilometer of ski trails in a spectacular nature.  “ Paths for cross country skiing are also available at a good price and there are many different paths, anywhere between 1 - 20km. ÅRE XCO, Åre, Sweden. För den som vill främst cykla Cross Country så har finns det fin cykling i Åre Bike Park XC som växer varje år med nya leder. </p>";s:7:"keyword";s:68:"Hoom Home %26 Hotel4%2C0%28168%293%2C6%C2%A0km bort68%C2%A0%E2%82%AC";s:5:"links";s:6604:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-subtropiskt-klimat-spanien'>Subtropiskt Klimat Spanien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-agoda-mailing-address'>Agoda Mailing Address</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skidor-till-helags'>Skidor Till Helags</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varmr%C3%B6kt-lax-kamado'>Varmrökt Lax Kamado</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chiquita-banana-song'>Chiquita Banana Song</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ist%C3%A4llet-f%C3%B6r-bastufolie'>Istället För Bastufolie</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dokus%C3%A5pak%C3%A4ndis-gripen-flashback'>Dokusåpakändis Gripen Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-remescar-eye-bags'>Remescar Eye Bags</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-norrt%C3%A4lje-kommun-fakturor'>Norrtälje Kommun Fakturor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-djurg%C3%A5rden-lagkapten-fotboll'>Djurgården Lagkapten Fotboll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kromade-r%C3%B6r-biltema'>Kromade Rör Biltema</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4dret-i-vasaloppssp%C3%A5ret'>Vädret I Vasaloppsspåret</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iban-nummer-danske-bank'>Iban-nummer Danske Bank</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rsta-atombomben-test'>Första Atombomben Test</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-wset-where-to-study'>Wset Where To Study</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%B6n-gymnasiel%C3%A4rare-stockholm'>Lön Gymnasielärare Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-personligt-brev-administrat%C3%B6r'>Personligt Brev Administratör</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-afu-utredning-f%C3%B6rs%C3%A4kringskassan'>Afu Utredning Försäkringskassan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sota-kakelugn-pris'>Sota Kakelugn Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bostadsr%C3%A4tter-regementet-ystad'>Bostadsrätter Regementet Ystad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-usa-visa-for-swedish-citizens'>Usa Visa For Swedish Citizens</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-beige-s%C3%A4ng-120'>Beige Säng 120</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bl%C3%A5-serie-innebandy'>Blå Serie Innebandy</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-in-between-restaurang'>In Between Restaurang</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-atv-shopen-%C3%A5kersberga'>Atv Shopen åkersberga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hyra-moped-parga'>Hyra Moped Parga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rotavdrag-solceller-skatteverket'>Rotavdrag Solceller Skatteverket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hjalmars-bil-v%C3%A4xj%C3%B6-omd%C3%B6me'>Hjalmars Bil Växjö Omdöme</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sjukers%C3%A4ttning-bo-utomlands'>Sjukersättning Bo Utomlands</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skolmat-%C3%B6stra-skolan'>Skolmat östra Skolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-herrg%C3%A5rden-29-tjurk%C3%B6'>Herrgården 29 Tjurkö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-telenor-tv-kontakt'>Telenor Tv Kontakt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swish-ny-telefon'>Swish Ny Telefon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kinamat-malm%C3%B6-buff%C3%A9'>Kinamat Malmö Buffé</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fastighetsautomation-utbildning-distans'>Fastighetsautomation Utbildning Distans</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-madeira-v%C3%A4der-mars'>Madeira Väder Mars</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-g%C3%B6r-en-domare-i-tingsr%C3%A4tten'>Vad Gör En Domare I Tingsrätten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fotbollsmatcher-stockholm-2020'>Fotbollsmatcher Stockholm 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-all-inclusive-korfu'>All Inclusive Korfu</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tax-rate-different-countries'>Tax Rate Different Countries</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dansk-svensk-g%C3%A5rdshund-barn'>Dansk-svensk Gårdshund Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%B6rjlind-b%C3%B6cker-ordning'>Börjlind Böcker Ordning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-del-av-malm%C3%B6'>Del Av Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-asper%C3%B6-st%C3%A4llbar-s%C3%A4ng'>Asperö Ställbar Säng</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glada-hos-glada-korsord'>Glada Hos Glada Korsord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tidningen-hembakat-lussebullar'>Tidningen Hembakat Lussebullar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fj%C3%A4llg%C3%A5rd-till-salu'>Fjällgård Till Salu</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-grundskolan-ska-st%C3%A4ngas'>Grundskolan Ska Stängas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fiskrestaurang-malm%C3%B6-saluhall'>Fiskrestaurang Malmö Saluhall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-planeringsverktyg-pax'>Ikea Planeringsverktyg Pax</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-craft-underst%C3%A4ll-active-comfort'>Craft Underställ Active Comfort</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6-utanf%C3%B6r-sydv%C3%A4stra-kreta'>ö Utanför Sydvästra Kreta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tony-olsson-fru'>Tony Olsson Fru</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A5ngsam-tillagning-av-%C3%A4lgstek'>Långsam Tillagning Av älgstek</a>,
+";s:7:"expired";i:-1;}

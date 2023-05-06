@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:5313:"<p>Första året omsatte företaget 139 000 kronor. Although the spline is not required in Cat-5 cable, some manufactures include it anyway. anto berkata: November 13, 2008 pukul 4:29 pm. Ur tabell i broschyr: Effekt = kW. Untuk menentukan … In Cat-6 cable, the spline is not required either as long as the cable tests according to the standard. Tabel diameter kabel adalah tabel yang digunakan untuk menentukan ukuran diameter kabel, kabel instalasi kelistrikan yang akan dipasang, baik di perumahan ataupun tempat industri, harus ditentukan terlebih dahulu diameternya, dan untuk menentukan diameter atau penampang pada instalasi kabel, bisa menggunakan tabel diameter kabel, dengan tahap – tahap khusus yang harus dilakukan. Sebuah alat listrik 1 phase memiliki daya 600 Watt, Cos φ sebesar 0,9. Det går naturligtvis att avsäkra med mindre Ampere , dock inte .  Power Cable Amperage, max. Fyll i fälten Watt och Volt eller Ampere samt Area och längd. Exempelvis vad blir förlusten om du … Bila Istart motor tidak diketshui maka In motor Dikali 125%.Maka hasilnya dapat dikonversi menjadi luas penampang kabel dengan tabel diatas.Terima Kasih. Ditt slutsteg drar ca ampere … </p> <p>balas In the picture above, the Cat-5e cable is the only one with a spline. Jawab: P = 600 Watt. </p> <p>Strombelastbarkeit, Kupferkabel, current cupper cable . Terimakasih semoga sedikit pengetahuan saya bisa berguna. Kabel NYY-Dari berbagai jenis kabel listrik, ada beberapa yang sering membuat para teknisi kebingungan, yaitu seperti kabel NYY, NYA, NYM, NYYHY, NYFGBY dan lain sebagainya.Nama-nama dari semua jenis kabel tersebut memang sedikit mirip sehingga agak sulit untuk membedakannya. Single-phase voltages are usually 115V or 120V, while three-phase voltages are typically 208V, 230V or 480V. LPT eller UTP kabel Ampern för jag har för mig att de klarar volten lätt iaf. terimakasih atas bantuannya. Här hittar du en tabell för beräkning av kabelarea. </p> <p>Räkna ut spänningsfall i kablar vid 20°C. Many Cat-6 cables also include a nylon spline which helps eliminate crosstalk. </p> <p>admin 28/10/2014 Menentukan Ukuran Kabel 2014-10-28T10:03:27+00:00 Ukuran kabel berdasarkan power motor dan jarak sumber power ke motor Kabel pada 3 x 400V, 50Hz, pada kondisi normal Contoh Kasus #1 . sebelumnya salam kenal,nama saya anto saya seorang pedagang dan sedang ada masalah dengan elektrik motor saya, saya punya motor elektrik 75KW dan d hubung dgan power bintang … Amperes - Enter the maximum current in amps that will flow through the circuit. Balas. Spänningsfallskalkylator. Contoh rumus dengan jatuh tegangan 5 volt ( 150,000 watt x 125 mtr) : ( 56 x 5 x 380 ) x 1,25 untuk safety factor = 220 mm. Detta är en tabell som visar vad du ska som Max Amperestorlek på säkring till respektive kabel. saya akan memasang kabel untuk instalasi motor-motor listrik dari GENSET. Det är tre tabeller nedan, en för solceller av nominell 12V, en tabell för solceller av nominell 24V och en tredje tabell för övrig utrustning. Kabel Skun Ring adalah kepala kabel, kabel terminating atau lebih dikenal dengan sepatu kabel (Cable Shoes) terbuat dari tembaga Skun kabel atau cable schoen atau kabel lug adalah sama sama sepatu kabel, yang ber fungsi untuk penyambungan kabel ke terminal atau dengan dibautkan pada bussbar atau panel. </p> <p>I som i Industri, K som i Karl och O som i Olsson. Så borde du få ett bra svar på din . For motors, it is recommended to multiply the nameplate FLA by 1.25 for wire sizing. Om kabeln ska vara meter så behöver du en 10mm2-kabel. Din 160W solpanel ger som mest ampere. 1947 och Karl bestämde sig för att satsa på plastisolerad kabel. *2A, 80A och 100A endast som standard gG-säkring Smälttider/Melting times/Schmelzzeiten Märkström/ Rated current/ Nennstrom/ *2A 16A 11,6A 11A 10,3A 9,7A … dengan rincian: daya genset 450 KVA Panjang kabel 450 meter Berapa diameter kabel yang kami harus pakai tolong diberikan rumusnya serta bila memakai kabel ukuran 4 X 300 mm, apakah akan terjadi kerugian/kehilangan tegangan. Maka ukuran kabel yang sesuai untuk Instalasi listrik tersebut adalah kabel dengan ukuran 95mm2. </p> <p>Idag, drygt 60 år senare, heter företaget Nexans Sweden AB och omsätter 2,6 miljarder kronor. Enligt den tabellen så skall i det läget ha 35mm2-kabel. Klicka sedan på knappen kalkylera och läs av vilken spänningsförlust* det blir i … </p> <p>Cos φ = 0,9. Maka berapa ampere mcb yang dibutuhkan? maximale Strombelastung / Querschnitte. Namun pengeompokan di tabel di atas dapat anda jadikan patokan sederhana dalam memulai perhitungan dan pemilihan jenis Circuit Breaker. Denna tabell över rekommenderade säkringar är . Ukuran kabel yang ada 240 mm, untuk jarak lebih jauh mungkin bisa pakai travo. Voltage - Enter the voltage at the source of the circuit. Sama halnya dengan perhitungan pertama, kita bisa lihat dari Tabel KHA diatas, Kabel yang mampu menghantarkan arus sebesar 250 Amp adalah Kabel dengan ukuran penampang 95 mm2. V = 220 V (1 phase) Maka, I =600/(220 x 0,9) I = 3 Ampere. Menurut saya untuk ukuran kabel tembaga memakai ukuran 240 mm, mengacu pada tabel panjang kabel kurang lebihnya 100 mtr. Nu är frågan , hur tjock ström kabel ska jag ha till dem? IKO Kabelfabrik AB grundades. </p>";s:7:"keyword";s:29:"s%C3%A4ga upp spotify halebop";s:5:"links";s:10748:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pappa-grappa-link%C3%B6ping'>Pappa Grappa Linköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chicago-blackhawks-goalie'>Chicago Blackhawks Goalie</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swix-gunde-beanie'>Swix Gunde Beanie</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bomb-i-str%C3%A4ngn%C3%A4s'>Bomb I Strängnäs</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-erik-andersson-arkitekt'>Erik Andersson Arkitekt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jobb-bar-stockholm'>Jobb Bar Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ta-ut-euro-i-bankomat-utomlands'>Ta Ut Euro I Bankomat Utomlands</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sofia-jakobsson-l%C3%B6n'>Sofia Jakobsson Lön</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vin-till-kallskuret'>Vin Till Kallskuret</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-handelsbanken-malm%C3%B6-jobb'>Handelsbanken Malmö Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ringnes-%C3%B6l-systembolaget'>Ringnes öl Systembolaget</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4der-khao-lak-mars'>Väder Khao Lak Mars</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sporting-cp-wiki'>Sporting Cp Wiki</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lss-boende-v%C3%A4stra-fr%C3%B6lunda'>Lss Boende Västra Frölunda</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stadsk%C3%A4llaren-skellefte%C3%A5-presentkort'>Stadskällaren Skellefteå Presentkort</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bl%C3%A5b%C3%A4rskaka-med-smuldeg'>Blåbärskaka Med Smuldeg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skolmaten-tyres%C3%B6-gymnasium'>Skolmaten Tyresö Gymnasium</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-att-hitta-ett-m%C3%B6nster-med-tre-tal-i-f%C3%B6ljd'>Att Hitta Ett Mönster Med Tre Tal I Följd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kabinv%C3%A4ska-m%C3%A5tt-klm'>Kabinväska Mått Klm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-the-assembly-line-almost-long-trousers'>The Assembly Line Almost Long Trousers</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swish-barn-danske-bank'>Swish Barn Danske Bank</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bottenventil-diskho-ikea'>Bottenventil Diskho Ikea</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-senses-nova-st%C3%A4llbar-s%C3%A4ng'>Senses Nova Ställbar Säng</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-huden-kroppens-st%C3%B6rsta-organ'>Huden Kroppens Största Organ</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vi-k%C3%B6per-din-bil-helsingborg-omd%C3%B6me'>Vi Köper Din Bil Helsingborg Omdöme</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-gester'>Vad är Gester</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-soccerway-division-1'>Soccerway Division 1</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Villa-Di-Mare4%2C7%28288%290%2C2%C2%A0km-bort145%C2%A0US%24'>Villa Di Mare4,7(288)0,2 km Bort145 US$</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-inter-miami-firm'>Inter Miami Firm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4ggf%C3%A4ste-tv-samsung'>Väggfäste Tv Samsung</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-webbkamera-slussen-3'>Webbkamera Slussen 3</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-norrlandsgatan-18-stockholm'>Norrlandsgatan 18 Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ica-maxi-k%C3%B6ping-catering'>Ica Maxi Köping Catering</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ekeby-m%C3%B6bler-matbord'>Ekeby Möbler Matbord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dbkd-p%C3%A5skhare-triplets'>Dbkd Påskhare Triplets</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kock-stork%C3%B6k-l%C3%B6n'>Kock Storkök Lön</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-grillad-biff-tillbeh%C3%B6r'>Grillad Biff Tillbehör</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-google-assistant-pc'>Google Assistant Pc</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-problem-med-svenska-spr%C3%A5ket'>Problem Med Svenska Språket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-driva-omkring-loda'>Driva Omkring Loda</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-auktion-l%C3%A5ngtora-enk%C3%B6ping'>Auktion Långtora Enköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-helsingborgs-m%C3%A4sterskapen-2020'>Helsingborgs Mästerskapen 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6ppettider-bilbolaget-timr%C3%A5'>öppettider Bilbolaget Timrå</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-getinge-aktie-forum'>Getinge Aktie Forum</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-l%C3%B6senord-router-bahnhof'>Byta Lösenord Router Bahnhof</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svensk-film-milit%C3%A4r'>Svensk Film Militär</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gothia-towers-r%C3%A4kmacka-pris'>Gothia Towers Räkmacka Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vem-%C3%A4ger-fyndiq'>Vem äger Fyndiq</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-per-andersson-nyhetsmorgon'>Per Andersson Nyhetsmorgon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jojo%27s-bizzarre-avventure-jotaro'>Jojo's Bizzarre Avventure Jotaro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nattlampa-barn-namn'>Nattlampa Barn Namn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-randstad-lediga-jobb-stockholm'>Randstad Lediga Jobb Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-adidas-keps-dam'>Adidas Keps Dam</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-neil-dudgeon-mary-peate'>Neil Dudgeon Mary Peate</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-huawei-b525-vs-b535'>Huawei B525 Vs B535</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%B6gbo-brukshotell-2-dagars-paket'>Högbo Brukshotell 2 Dagars Paket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blandare-m%C3%A4ssing-ikea'>Blandare Mässing Ikea</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kommunen-sommarjobb-2020'>Kommunen Sommarjobb 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karta-skagen-danmark'>Karta Skagen Danmark</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kanske-i-balk'>Kanske I Balk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lax-med-fetaost'>Lax Med Fetaost</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aktivitetsers%C3%A4ttning-vid-f%C3%B6rl%C3%A4ngd-skolg%C3%A5ng-sommarjobb'>Aktivitetsersättning Vid Förlängd Skolgång Sommarjobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-allm%C3%A4nhetens-%C3%A5kning-arvika'>Allmänhetens åkning Arvika</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-apcoa-parking-malm%C3%B6-entr%C3%A9'>Apcoa Parking Malmö Entré</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-6-m%C3%A5naders-valp-motion'>6 Månaders Valp Motion</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-orchid-1-huay-yang'>Orchid 1 Huay Yang</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jobb-v%C3%A4xj%C3%B6-kommun'>Jobb Växjö Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swedish-embassy-nairobi'>Swedish Embassy Nairobi</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hemnet-%C3%B6stersund-brunflov%C3%A4gen'>Hemnet östersund Brunflovägen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-the-third-reich-meaning'>The Third Reich Meaning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-norra-brunn---youtube'>Norra Brunn - Youtube</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pulled-beef-taco-ica'>Pulled Beef Taco Ica</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-marabou-japp-inneh%C3%A5llsf%C3%B6rteckning'>Marabou Japp Innehållsförteckning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klas-kl%C3%A4ttermus-och-de-andra-djuren-i-hackebackeskogen'>Klas Klättermus Och De Andra Djuren I Hackebackeskogen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skilda-v%C3%A4rldar-dvd-box'>Skilda Världar Dvd Box</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ces-2020-live'>Ces 2020 Live</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-control-systems-state-space'>Control Systems State Space</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-global-tracking-ebay'>Global Tracking Ebay</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fransk-l%C3%A5t-2020'>Fransk Låt 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rl%C3%A4nga-abonnemang-comviq'>Förlänga Abonnemang Comviq</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hestrafors-if-div-3'>Hestrafors If Div 3</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-wmv-to-mp3'>Wmv To Mp3</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-thassos-i-september'>Thassos I September</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sabaton-82nd-all-the-way-music-video'>Sabaton 82nd All The Way Music Video</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chefen-barnkanalen-sk%C3%A5despelare'>Chefen Barnkanalen Skådespelare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-esl%C3%B6v-till-lund'>Eslöv Till Lund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fun%C3%A4sdalen-till-ramundberget'>Funäsdalen Till Ramundberget</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-herrestads-aif-f05'>Herrestads Aif F05</a>,
+";s:7:"expired";i:-1;}

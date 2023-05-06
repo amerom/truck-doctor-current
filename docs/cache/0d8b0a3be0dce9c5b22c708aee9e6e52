@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2377:" Administrativ planerare . 0980-70278. anna.lantto@lapplands.se. PM Personal 2019-2020. Här kan du ta fram Lapplands gymnasium Kirunas scheman, vilka är kategoriserade på bland annat klass, lärare och sal. Kontakt. Vi använder cookies för att se till att vi ger dig den bästa upplevelsen på vår hemsida. 55 Posts - See Instagram photos and videos taken at ‘Lapplands Gymnasium Gällivare - Välkommaskolan’ PM Elev 2019-2020 . Vår vision. I följande länk hittar du mer information:Lapplands gymnasium Kontaktuppgifter till gymnasieantagningen Hjalmar Lundbohmsskolan: E- post Tel: 0980-706 43. <br> <br>Lapplands gymnasium Gällivare. Stipendier Är den gemensamma gymnasieorganisationen i kommunerna Gällivare,Jokkmokk, Kiruna och Pajala. Välkommaskolans nyhetsblad Här kan du läsa veckans nyheter och även skicka in bidrag till kommande Veckonytt. <br> <br>Se mere af Lapplands Gymnasium Gällivare - Välkommaskolan på Facebook Om du har frågor som rör interkommunal ersättning eller antagning till gymnasieskolan i Kiruna kan du kontakta Jonas Stålnacke - se kontaktuppgifter till höger. Lapplands Gymnasium. <br> <br>0970-818 000. lggallivare@lapplands.se.  <br>Anna Lantto. Specialkost. Läsårsplan 2019-2020. Med din personliga inloggning får du information om: studieplan och betyg schema grupper uppgifter om elever och lärare registrerad närvaro/frånvaro omdömen inför utvecklingssamtal Frånvaroanmälan sker direkt via Dexter. Då kommunens gymnasieskola är en del av Lapplands gymnasium så har också Lapplands gymnasium hand om frågor och fakturering gällande interkommunal ersättning för elever från andra kommuner som går på gymnasiet. Länkar. <br> <br>Inackordering. Dexter. <br> <br>För att få fram ditt individuella schema, skriver du in ditt personnummer (XXXXXX-XXXX) i den tomma rutan och välj därefter period (HT eller specifik vecka). Lapplands Gymnasium Gällivare - Välkommaskolan har delt et opslag. Information och ansökan om inackorderingstillägg. <br> <br>Länk till Schema. Om du fortsätter att använda den här webbplatsen kommer vi att anta att du godkänner detta. Lapplands Gymnasium Dexter är en internetlösning som ger service i skolärenden för både elever och deras vårdnadshavare alla dagar dygnet runt. <br> <br>Kalendarium Uppdaterad 2020-02-24. Box 502 983 25 Malmberget. <br>";s:7:"keyword";s:26:"schema lapplands gymnasium";s:5:"links";s:6472:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-begagnade-cyklar-s%C3%B6dermalm'>Begagnade Cyklar Södermalm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-yoko-sushi-g%C3%B6teborg'>Yoko Sushi Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lchf-f%C3%A4rdiga-matl%C3%A5dor'>Lchf Färdiga Matlådor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tr%C3%A4na-f%C3%A5gelhund-valp'>Träna Fågelhund Valp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nyttiga-veganska-lussekatter'>Nyttiga Veganska Lussekatter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-beadlock-f%C3%A4lgar-can-am'>Beadlock Fälgar Can Am</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tavla-djur-barn'>Tavla Djur Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lantm%C3%A4teriet-lagfart-adress'>Lantmäteriet Lagfart Adress</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-br%C3%A4nna-fett-p%C3%A5-2-veckor'>Bränna Fett På 2 Veckor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jobb-efter-s%C3%A4rskolan'>Jobb Efter Särskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ir-lampa-lackering'>Ir Lampa Lackering</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bajen-kryssning-2020'>Bajen Kryssning 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-quiz-online-kahoot'>Quiz Online Kahoot</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-yun-lee-facebook'>Yun Lee Facebook</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-manototv-farsi-live'>Manototv Farsi Live</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-golf-gti-emblem'>Golf Gti Emblem</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-suzuki-mc-reservdelar'>Suzuki Mc Reservdelar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rasa-i-vikt%3F---flashback'>Rasa I Vikt? - Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-build-your-toyota-chr'>Build Your Toyota Chr</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kostnad-hemtj%C3%A4nst-bor%C3%A5s'>Kostnad Hemtjänst Borås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utredare-statlig-myndighet'>Utredare Statlig Myndighet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p%C3%A4ron-och-valn%C3%B6tskaka'>Päron Och Valnötskaka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fakta-om-sverige-p%C3%A5-spanska'>Fakta Om Sverige På Spanska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lekland-v%C3%A4ster%C3%A5s-city'>Lekland Västerås City</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skolan-p%C3%A5-60-talet'>Skolan På 60-talet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-last-christmas-sf'>Last Christmas Sf</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-maja-nilsson-lindel%C3%B6f-musikhj%C3%A4lpen'>Maja Nilsson Lindelöf Musikhjälpen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tui-korfu-moraitika'>Tui Korfu Moraitika</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-personlig-assistans-f%C3%B6rs%C3%A4kringskassan'>Personlig Assistans Försäkringskassan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-downs-syndrom-tjej'>Downs Syndrom Tjej</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%B6n-sjuksk%C3%B6terska-capio'>Lön Sjuksköterska Capio</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flashback-dubbelmord-norrk%C3%B6ping'>Flashback Dubbelmord Norrköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-molly-hammar-insta'>Molly Hammar Insta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jaga-%C3%A4lg-med-drever'>Jaga älg Med Drever</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skoterleder-idre-fj%C3%A4ll'>Skoterleder Idre Fjäll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nordens-st%C3%B6rsta-st%C3%A4der-2019'>Nordens Största Städer 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varmt-i-juli'>Varmt I Juli</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-n%C3%A4ssj%C3%B6-kommun-parkskolan'>Nässjö Kommun Parkskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A4nsf%C3%B6rs%C3%A4kringar-s%C3%B6dermanland-alla-bolag'>Länsförsäkringar Södermanland Alla Bolag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-inter-miami-firm'>Inter Miami Firm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-easy-clean-vattenl%C3%A5s'>Easy Clean Vattenlås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A4kert-vatten-dokument'>Säkert Vatten Dokument</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lchf-fl%C3%A4skkarr%C3%A9-gryta'>Lchf Fläskkarré Gryta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Wallander-%E2%80%93-Afrikanen'>Wallander – Afrikanen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-roliga-quiz-test'>Roliga Quiz Test</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-penta-g%C3%B6teborg'>Volvo Penta Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-eskilstuna-kommun-f%C3%B6rs%C3%B6rjningsst%C3%B6d'>Eskilstuna Kommun Försörjningsstöd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-digital-karta-malm%C3%B6'>Digital Karta Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sp%C3%B6kvandring-g%C3%B6teborg-barn'>Spökvandring Göteborg Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-starke-man-%C3%B6ppet-arkiv'>Starke Man öppet Arkiv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gravid-vecka-12-familjeliv'>Gravid Vecka 12 Familjeliv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nikkietutorials-net-worth'>Nikkietutorials Net Worth</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-strimlad-biff-teriyaki'>Strimlad Biff Teriyaki</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ica-banken-bonus'>Ica Banken Bonus</a>,
+";s:7:"expired";i:-1;}

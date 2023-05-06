@@ -1,0 +1,104 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3294:"<br>Techopedia förklarar Influencer .  en delstat i USA Washington. 6 Iss. 3, 2011). <br> <br>I en annan studie så hittade man ett samband mellan mellan framförallt agreeableness (sympati, vänlighet) och transformativt ledarskap (The Influence of personality factors on transformational leadership: exploring the moderating role of political skill, S Phipps, L Prieto International Journal of Leadership Studies, Vol. <br> <br>Inom IT är en influencer en individ som har förmågan att svänga en publik genom en digital plattform. <br> <br>Och vet ni vad? Utan att använda ordet mindfulness beskrev han vad det innebär. För ELLE avslöjar Brita vad de har lärt sig (eller inte lärt sig) av varandra och vad som egentligen hände på efterfesten i Prinsessan Lilians svit. 14 Det räcker inte med att vi bara stänger ute negativa influenser för … <br> <br>WA. Här är en enkel guide till de mest vanliga förkortningarna som förekommer runt om på nätet. <br> <br>Major betydelser av ACE Följande bild presenterar de mest använda betydelserna av ACE. <br> Miljöterapi utvecklades med influenser från psykodynamisk teori, men kan idag i praktiken integreras med olika psykoterapeutiska riktningar. <br> <br>Blastocystis is a protozoal, single-celled parasite that inhabits the gastrointestinal tracts of humans and other animals Blastocystis hominis is a common gut parasite found here in Byron Bay, Australia and throughout the warmer climates of the world in general. Du kan ner bildfilen i PNG-format för offline användning eller skicka det till dina vänner via e-post.Om du är webbansvarig för icke-kommersiell webbplats, var god och publicera bilden av … (Se rutan ”Hur man begrundar”.) Detta innebär att miljöterapi bedrivs med olika tillämpningar inom olika områden, och med olika grad av professionalisering. Definition - Vad betyder Influencer? a) Vad behöver vi släppa in i vårt hjärta, och hur gör vi det? <br> <br> <br>FOMO FOMO förkortning för ”Fear Of Missing Out” och förekommer ofta I sammanhang där en kryptovaluta […] b) Hur kan Ordspråksboken 4:20–22 hjälpa oss att få ut så mycket som möjligt av vår bibelläsning? WA med enkel V, d.v.s. <br> <br>There is … Western Australia eller Water Authority WA kan även vara en förkortning av längre ord som t.ex. Nu när detta kapitel rundas av så betyder ju inte det att boken är slut. <br> <br>Brita Zackari och Parisa Amiri är årets influencer, med sin geniala populärkulturpodd där samtiden diskuteras. Denna term används ofta i relation till marknadsföring på sociala medier och andra relaterade ansträngningar. Hela essensen av fokus och meditation, så som han skriver om det, ekar i denna definition av mindfulness: Mindfulness betyder att behålla en ögonblickets medvetande av tanken, känslan, den kroppsliga sensationen och den omgivande miljön genom en varsam lins. Det är inte helt enkelt att följa med på alla nya förkortningar som tillkommit under tiden som handlande med kryptovalutor har vuxit fram. <br> <br>WA kan ofta vara en sammanslagning av för två ord som det första börjar på W och den andra på A. Det som WA kan betyda i sådana fall är Beatles skiva White Album och Woody Allan eller platser och företag som t.ex. <br>";s:7:"keyword";s:20:"gott till r%C3%A4kor";s:5:"links";s:7306:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hemtj%C3%A4nst-nora-kommun'>Hemtjänst Nora Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-abb-industrigymnasium-meritpo%C3%A4ng'>Abb Industrigymnasium Meritpoäng</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-adhd-autism-i-skolan'>Adhd Autism I Skolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-wellpur-gold-t65-140x200'>Wellpur Gold T65 140x200</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iran-kurdish-relations'>Iran Kurdish Relations</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-in-flames-net-worth'>In Flames Net Worth</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ytterbo-fastigheter-nyk%C3%B6ping'>Ytterbo Fastigheter Nyköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-subway-kakor-ingredienser'>Subway Kakor Ingredienser</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-goda-grannar-%C3%A4ggmacka'>Goda Grannar äggmacka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-kallas-r%C3%A4nna-i-isen'>Vad Kallas Ränna I Isen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skilda-v%C3%A4rldar-barngrupp'>Skilda Världar Barngrupp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%B6nster-kl%C3%A4nning-a-linje'>Mönster Klänning A-linje</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-skola-p%C3%A5-barn'>Byta Skola På Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bl%C3%A5-tapet-k%C3%B6k'>Blå Tapet Kök</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jennifer-andreasson-big-brother'>Jennifer Andreasson Big Brother</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-service'>Vad är Service</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-texas-state-of-mind'>Texas State Of Mind</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%A4rsk-chorizo-i-ugn'>Färsk Chorizo I Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-batteri-iphone-5s-pris'>Byta Batteri Iphone 5s Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-kan-jag-bidra-med-personligt-brev'>Vad Kan Jag Bidra Med Personligt Brev</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-emil-forsberg-fifa-20'>Emil Forsberg Fifa 20</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pungr%C3%A5tta-nya-zeeland'>Pungråtta Nya Zeeland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ares-serie-netflix'>Ares Serie Netflix</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swedbank-%C3%B6ppettider-fr%C3%B6lunda'>Swedbank öppettider Frölunda</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karta-%C3%B6ver-mellersta-%C3%B6stern'>Karta över Mellersta östern</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-st%C3%B6rre-hackspett-flyttf%C3%A5gel'>Större Hackspett Flyttfågel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rysk-europeisk-lajka-kennel'>Rysk Europeisk Lajka Kennel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-halloumi-sallad-couscous'>Halloumi Sallad Couscous</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-ska-man-skriva-p%C3%A5-studentm%C3%B6ssan'>Vad Ska Man Skriva På Studentmössan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-video-redigerings-program-online'>Video Redigerings Program Online</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-specialistsjuksk%C3%B6terska-akutsjukv%C3%A5rd-%C3%B6rebro'>Specialistsjuksköterska Akutsjukvård örebro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-down-syndrom-delaktighet-i-samh%C3%A4llet'>Down Syndrom Delaktighet I Samhället</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bredband-och-tv-abonnemang'>Bredband Och Tv-abonnemang</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Best-Western-Plus-Hus-574%2C4%28493%292%2C7%C2%A0km-bort2%C2%A0834%C2%A0UAH'>Best Western Plus Hus 574,4(493)2,7 km Bort2 834 UAH</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ionion-beach%2C-parga'>Ionion Beach, Parga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%B6pande-band-webbkryss'>Löpande Band Webbkryss</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-t%C3%A5g-till-stockholm-fr%C3%A5n-malm%C3%B6'>Tåg Till Stockholm Från Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rosegarden-norrk%C3%B6ping-facebook'>Rosegarden Norrköping Facebook</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iphone-7-plus-tre'>Iphone 7 Plus Tre</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fabriks%C3%A5terst%C3%A4llning-samsung-tab-a6'>Fabriksåterställning Samsung Tab A6</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-music-notes-symbol'>Music Notes Symbol</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-vattenl%C3%A5s-lukt'>Ikea Vattenlås Lukt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glutenfria-sm%C3%A5kakor-potatismj%C3%B6l'>Glutenfria Småkakor Potatismjöl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-korvgryta-i-ugn'>Korvgryta I Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mini-me-avion'>Mini Me Avion</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bo-i-kiruna'>Bo I Kiruna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-avstyckning-av-jordbruksfastighet'>Avstyckning Av Jordbruksfastighet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-please-see-http-www-ustraveldocs-com-se-se-niv-visatypeinfo-asp'>Please See Http Www Ustraveldocs Com Se Se Niv Visatypeinfo Asp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%B6nster-kl%C3%A4nning-a-linje'>Mönster Klänning A-linje</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hornbach-helsingborg-personal'>Hornbach Helsingborg Personal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pj-masks-figurer'>Pj Masks Figurer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aktivitetsers%C3%A4ttning-psykisk-oh%C3%A4lsa'>Aktivitetsersättning Psykisk Ohälsa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-no-drama-lyrics-high-15'>No Drama Lyrics High 15</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gaming-stol-ikea'>Gaming Stol Ikea</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-undersk%C3%B6terska-uppsala-kommun'>Undersköterska Uppsala Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pulled-beef-med-ris'>Pulled Beef Med Ris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varf%C3%B6r-anaerob-tr%C3%A4ning-bra'>Varför Anaerob Träning Bra</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kallj%C3%A4sta-kanelbullar-leila'>Kalljästa Kanelbullar Leila</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,144 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2789:"På de här sidorna fokuserar vi på arbetsrelaterad stress. Två av de främsta riskerna för att arbetsrelaterad stress ska uppkomma är hög arbetsbelastning och problem som rör det sociala samspelet på arbetsplatsen. Tydlighet från ledningen är A och O för att personalen ska må bra. För att må bra på jobbet behöver vi ha inflytande över våra arbetsuppgifter och vår arbetsmiljö. Dessa hot eller påfrestningar är de faktorer som utlöser stress och de brukar av den anledningen med ett gemensamt namn kallas stressorer. Oftast när vi är ute och arbetar med stresshantering på företag så brukar det här vara orsaker till stress: Jag vet inte vad som gäller! Orsakerna till stress på arbetet kan vara många och olika personer påverkas på olika sätt. <br> <br>Skapa delaktighet och tydliga mål för arbetet Engagemang och delaktighet motverkar stress, så länge det finns tydliga och rimliga mål för verksamheten. Stress påvirker sygdom. Experterna från Careit.com beskriver nedan vad som orsakar stress,  Vi är alla olika och hur du reagerar beror på flera faktorer, till exempel hur du fungerar som person och vad du har varit med om tidigare i livet. Stress kan kort beskrivas som kroppens respons på, och anpassning till, hot eller påfrestningar av olika slag. Fördjupning 30 minuter Vad kan ni göra för att minska stressen? Mange af de sygdomme, vi går og døjer med i dagligdagen, giver flere og sværere symptomer, når vi er stressede. Nu har ni fått en snabb introduktion! Sjuksköterskan upplevde att stress skapades av högt inflöde av patienter, långa väntetider, reaktioner och komplexitet samt trauman och att ge svåra besked till patienter och dess närståend  <br>Hög arbetsbelastning och problem i det sociala samspelet vanliga orsaker till stress. Långvarig stress kan också leda till att att du inte har några reserver kvar vid en stor påfrestning, till exempel om du får en sjukdom, hamnar i arbetslöshet eller om någon i familjen dör. Resultat: Resultatet visade att det fanns olika upplevelser av orsaker till stress på en akutmottagning och huvudkategorierna som framkom var patientrelaterade orsaker och organisationens struktur. Dela in er i mindre grupper och prata om när och hur ni pratar om orsaker till stress på jobbet. Byt jobb eller prata med din närmsta chef. Hos andre bliver allergiske symptomer mere udtalte for eksempel øges risikoen for astmaanfald. Egna noteringar. Om ni vill få en djupare förståelse så fortsätter aktiviteten här nedanför. I den första delen har ni startat en dialog om vad som orsakar stress hos er. Jag vet inte min roll! Att anordna en fest eller hålla i ett föredrag kan upplevas som trevligt av den ena och orsaka en stressreaktion hos den andra. <br>";s:7:"keyword";s:22:"saltsj%C3%B6 boo lunch";s:5:"links";s:11926:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-last-christmas-sf'>Last Christmas Sf</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-billiga-byggvaror-ystad'>Billiga Byggvaror Ystad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-del%C3%A4gare-bostadsr%C3%A4tt-hsb'>Delägare Bostadsrätt Hsb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bo-kvar-i-d%C3%B6dsbo'>Bo Kvar I Dödsbo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4st-att-ta-sig-ett-glas'>Bäst Att Ta Sig Ett Glas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ektorp-soffa-vit'>Ektorp Soffa Vit</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fotboll-%C3%B6stersund-idag'>Fotboll östersund Idag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-en-s%C3%A4ng-av-rosor-text'>En Säng Av Rosor Text</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kyckling-falukorv-i-ugn'>Kyckling Falukorv I Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6ppenv%C3%A5rd-missbruk-malm%C3%B6'>öppenvård Missbruk Malmö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glutenfri-gr%C3%B6t-barn'>Glutenfri Gröt Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cykla-i-devon'>Cykla I Devon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-highest-snap-score'>Highest Snap Score</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pizzeria-hawaii-skellefte%C3%A5-meny'>Pizzeria Hawaii Skellefteå Meny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-hertig'>Vad är Hertig</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-xxl-slipa-skidor'>Xxl Slipa Skidor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jonatan-unge-nyhetsmorgon'>Jonatan Unge Nyhetsmorgon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sveriges-roligaste-stad'>Sveriges Roligaste Stad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bird-box-trailer'>Bird Box Trailer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-coilovers-golf-5'>Coilovers Golf 5</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-elevspel-klockan-digital'>Elevspel Klockan Digital</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-risotto-p%C3%A5-gr%C3%B6tris'>Risotto På Grötris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-verksamhetsber%C3%A4ttelse-idrottsf%C3%B6rening-mall'>Verksamhetsberättelse Idrottsförening Mall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-presentkort-restaurang-norrk%C3%B6ping'>Presentkort Restaurang Norrköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bosch-elvisp-reservdelar'>Bosch Elvisp Reservdelar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-740-skinns%C3%A4ten'>Volvo 740 Skinnsäten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aik-spelare-2018'>Aik Spelare 2018</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-normal-puls-kvinna'>Normal Puls Kvinna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-blandras-hund-k%C3%B6pes'>Blandras Hund Köpes</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Bed-%26-Breakfast-%22Gr%C3%A4nden%223%2C5%28112%290%2C4%C2%A0miles-bort58%C2%A0US%24'>Bed & Breakfast "Gränden"3,5(112)0,4 miles Bort58 US$</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-global-h%C3%A4lsa-bok'>Global Hälsa Bok</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klarna-kort-kontantuttag'>Klarna Kort Kontantuttag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-erik-gr%C3%B6nwall-flickv%C3%A4n'>Erik Grönwall Flickvän</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-restaurang-kvarnen-norrk%C3%B6ping'>Restaurang Kvarnen Norrköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kort-text-p%C3%A5-engelska'>Kort Text På Engelska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-orsaker-till-varf%C3%B6r-arbetsl%C3%B6sheten-%C3%A4r-st%C3%B6rre-bland-invandrare-%C3%A4n-bland-befolkningen-i-sin-helhet'>Orsaker Till Varför Arbetslösheten är Större Bland Invandrare än Bland Befolkningen I Sin Helhet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kommando-till-f%C3%A5gelhund'>Kommando Till Fågelhund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-falukorvsgryta-med-vitk%C3%A5l'>Falukorvsgryta Med Vitkål</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-matt-damon-mathematician-movie'>Matt Damon Mathematician Movie</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-go-kart-axle-kit'>Go Kart Axle Kit</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ulla-winbladh-ny%C3%A5rsmeny'>Ulla Winbladh Nyårsmeny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-katt-fr%C3%A5n-thailand'>Katt Från Thailand</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-batteri-iphone-gr%C3%A4nby'>Byta Batteri Iphone Gränby</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-apple-mov-to-mp4'>Apple Mov To Mp4</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-norra-tyskland-semester'>Norra Tyskland Semester</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lyxig-bakad-potatis'>Lyxig Bakad Potatis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kn%C3%A4cka-l%C3%A4skoden-%C3%A5lder'>Knäcka Läskoden ålder</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-turners-syndrom-matematik'>Turners Syndrom Matematik</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-befann-sig-odysseus-p%C3%A5'>Befann Sig Odysseus På</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tips-till-hagmyren'>Tips Till Hagmyren</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-schoolsoft-kyh-stockholmschoolsoft-gotland-gute'>Schoolsoft Kyh Stockholmschoolsoft Gotland Gute</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-l%C3%B6senord-netflix'>Byta Lösenord Netflix</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swedish-dna-project-news'>Swedish Dna Project News</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-broccoli-recept-vegetarisk'>Broccoli Recept Vegetarisk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-som-andraspr%C3%A5k-su'>Svenska Som Andraspråk Su</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-beh%C3%B6ver-barn-mellanm%C3%A5l'>Behöver Barn Mellanmål</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%B6ner-kungsbacka-kommun'>Löner Kungsbacka Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tr%C3%A4nare-rum%C3%A4nien-handboll'>Tränare Rumänien Handboll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gotland-och-%C3%B6land-j'>Gotland Och öland J</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-grov-v%C3%A5rdsl%C3%B6shet-i-trafik-hastighet'>Grov Vårdslöshet I Trafik Hastighet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jullov-leksands-kommun'>Jullov Leksands Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hjalmars-bil-v%C3%A4xj%C3%B6-omd%C3%B6me'>Hjalmars Bil Växjö Omdöme</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-n%C3%A4r-kan-man-b%C3%B6rja-jaga-med-valp'>När Kan Man Börja Jaga Med Valp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kostchef-%C3%B6stersunds-kommun'>Kostchef östersunds Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rvaringsl%C3%A5da-utomhus-rusta'>Förvaringslåda Utomhus Rusta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fonus-djurskyddet-hund'>Fonus Djurskyddet Hund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-butik-eller-aff%C3%A4r'>Butik Eller Affär</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-telenor-fakturafr%C3%A5gor-telefonnummer'>Telenor Fakturafrågor Telefonnummer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-costa-rica-djur'>Costa Rica Djur</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-da-matteo-facebook'>Da Matteo Facebook</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fr%C3%A5gesport-sm%C3%A5-barn'>Frågesport Små Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jennys-matblogg-saffransbullar-med-vanilj'>Jennys Matblogg Saffransbullar Med Vanilj</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nyckelf%C3%A4rdig-bastu-inomhus'>Nyckelfärdig Bastu Inomhus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mtb-fun%C3%A4sdalen-karta'>Mtb Funäsdalen Karta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-manchester-united-shop'>Manchester United Shop</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mtb-lopp-norge'>Mtb Lopp Norge</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-akvarium-p%C3%A5-f%C3%B6rskolan'>Akvarium På Förskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ping-pong-bor%C3%A5s'>Ping Pong Borås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-raka-vid-brasa'>Raka Vid Brasa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mental-age-test'>Mental Age Test</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-ska-en-f%C3%B6rskola-vara'>Hur Ska En Förskola Vara</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-design'>Vad är Design</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lauren-ralph-lauren'>Lauren Ralph Lauren</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-yamaha-aerox-sv%C3%A5rstartad-kall'>Yamaha Aerox Svårstartad Kall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-viarelli-ten7-atv-90cc'>Viarelli Ten7 Atv 90cc</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-badminton-dubbel-taktik'>Badminton Dubbel Taktik</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-partikelverb-p%C3%A5-arabiska'>Partikelverb På Arabiska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-d%C3%A4ck-uppsala-bol%C3%A4nderna'>Däck Uppsala Boländerna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gratinerad-falukorv-med-%C3%A4pple'>Gratinerad Falukorv Med äpple</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spel-labyrinth-junior'>Spel Labyrinth Junior</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-veganskt-br%C3%B6d-coop'>Veganskt Bröd Coop</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-mycket-nikotin-i-vape'>Hur Mycket Nikotin I Vape</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-taklist-f%C3%B6r-kabel'>Taklist För Kabel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-meios-anafas-1'>Meios Anafas 1</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lindesberg-arena-evenemang'>Lindesberg Arena Evenemang</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%B6gbo-brukshotell-2-dagars-paket'>Högbo Brukshotell 2 Dagars Paket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-one-piece-kyoshiro'>One Piece Kyoshiro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-domino-rules-2-player'>Domino Rules 2 Player</a>,
+";s:7:"expired";i:-1;}

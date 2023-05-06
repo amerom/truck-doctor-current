@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2714:"<br>In honor of the 100th anniversary of WWI, ‘The Great War’ covers the events of WWI in detail week-by-week. “It will be a great idea to start a Youtube Channel covering just World War I!” Said no one ever. <br> <br>That is, up until May of 2014, when Indy Neidell and Spartacus Olsson decided to launchThe Great War on YouTube to try and make use of some archived war footage from the British Pathe..  <br>At the moment, we are covering the events in the aftermath of WW1 – which wasn't the war to end all wars as people had hoped. Form 2014 - 2018, India <br> The battles, included in the scenario booklet, focus on the historical deployment of forces and important terrain features of trench fighting in scale with the game system. Additionally, we explore common themes and introduce important personalities of WW1 in special episodes. From 2014-2018 the YouTube channel covered the events of World War 1 week by week. The Great War, the latest adaptation of Richard Borg's Command & Colours system, brings the epic battles of World War 1 to the gaming table, allowing players to portray important engagements throughout WWI history. THE GREAT WAR covers the events exactly 100 years ago. At the moment, we are covering the events in the aftermath of WW1 – which wasn't the war to end all wars as people had hoped. THE GREAT WAR covers the events exactly 100 years ago. The project "Soviet Storm: WW2 in the East" depicts the most important events and battles of World War II. Every Thursday we explore what happened in the First World War between 1914 and 1918. Great Britain during the war spent fully half of its war budget in the United States of America. The Great War is a Mediakraft Networks Original channel. Contemporaneously described as " the war to end all wars ", [7] it led to the mobilisation of more than 70 million military personnel , including 60 million Europeans, making it one of the largest wars in history. The Great War follows the events of World War 1 week by week 100 years later.  The task of the project is to illustrate the history of the war by means of computer graphics, motion-picture images and wartime actuality shots. Medley: A Hot Time in the Old Town Tonight / Hail, Hail, The Gang's All Here - The Singing Waiters The Great War covers the First World War from 1914 to 1923 – in real time. From 2014-2018 the YouTube channel covered the events of World War 1 week by week. World War I (often abbreviated as WWI or WW1), also known as the First World War or the Great War, was a global war that lasted from 1914 to 1918. Every other week, Jesse Alexander cover the important events that influenced the world 100 years ago. The Words and Music of WW1. <br>";s:7:"keyword";s:25:"the great war youtube ww2";s:5:"links";s:7150:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rngott-50x90-beige'>örngott 50x90 Beige</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pippi-v%C3%A4ska-retro'>Pippi Väska Retro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sofia-wood-knivar'>Sofia Wood Knivar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fiskaff%C3%A4r-till-salu'>Fiskaffär Till Salu</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-samurai-sushi-malmo'>Samurai Sushi Malmo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hotels-com-avbokningsregler'>Hotels Com Avbokningsregler</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-d%C3%B6ptes-olof-sk%C3%B6tkonung'>Döptes Olof Skötkonung</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jonatan-unge-nyhetsmorgon'>Jonatan Unge Nyhetsmorgon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-photoshop-p%C3%A5-svenska'>Photoshop På Svenska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ekologiska-eteriska-oljor-grossist'>Ekologiska Eteriska Oljor Grossist</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swedish-special-forces-wiki'>Swedish Special Forces Wiki</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fredriks-fika-vinb%C3%A4r'>Fredriks Fika Vinbär</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-norrlands-nation-hyra'>Norrlands Nation Hyra</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-the-more-hotel'>The More Hotel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-strandbryggan-stockholm-sweden'>Strandbryggan Stockholm Sweden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pasta-carbonara-mozzarella'>Pasta Carbonara Mozzarella</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hotell-%C3%B6land-borgholm'>Hotell öland Borgholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-orsaker-till-och-konsekvenser-av-den-amerikanska-revolutionen'>Orsaker Till Och Konsekvenser Av Den Amerikanska Revolutionen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-batteritid-iphone-11-pro'>Batteritid Iphone 11 Pro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A5s-till-helstekt-rostas'>Sås Till Helstekt Rostas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vandrarhem-falun-f%C3%A4ngelse'>Vandrarhem Falun Fängelse</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4sta-k%C3%B6ttet-till-gryta'>Bästa Köttet Till Gryta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-skolan-fuengirola-facebook'>Svenska Skolan Fuengirola Facebook</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bike-trollh%C3%A4ttan-%C3%B6ppettider'>Bike Trollhättan öppettider</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-circle-k-korv-kcal'>Circle K Korv Kcal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p%C3%A5sk-f%C3%B6rr%C3%A4tt-r%C3%A4kor'>Påsk Förrätt Räkor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sakrament-kristendom-protestant'>Sakrament Kristendom Protestant</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A4ngram-180x200-vit'>Sängram 180x200 Vit</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rundresa-japan-tips'>Rundresa Japan Tips</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sl%C3%A4ktutredning-god-man'>Släktutredning God Man</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bowling-o%27learys-v%C3%A4rmd%C3%B6'>Bowling O'learys Värmdö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hemnet-sundsvall-granlo'>Hemnet Sundsvall Granlo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-matta-250x350-mio'>Matta 250x350 Mio</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kallas-viltets-sp%C3%A5r'>Kallas Viltets Spår</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-potatis-i-sm%C3%B6rdeg-halv-%C3%A5tta-hos-mig'>Potatis I Smördeg Halv åtta Hos Mig</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kostnad-sotning-norrk%C3%B6ping'>Kostnad Sotning Norrköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-anl%C3%A4ggnings-id-friskis-och-svettis-bor%C3%A5s'>Anläggnings Id Friskis Och Svettis Borås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4dret-cypern-januari'>Vädret Cypern Januari</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-semesterloppet-mariefred-2019'>Semesterloppet Mariefred 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-privat-sjukv%C3%A5rdsf%C3%B6rs%C3%A4kring-%C3%A5derbr%C3%A5ck'>Privat Sjukvårdsförsäkring åderbråck</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fl%C3%A4skkarr%C3%A9-i-ugn'>Fläskkarré I Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%A5lvaktskl%C3%A4der-innebandy-salming'>Målvaktskläder Innebandy Salming</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-t%C3%A4llberg-spa-erbjudande'>Tällberg Spa Erbjudande</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6r%C3%A4ldrapenningtill%C3%A4gg-tillf%C3%A4llig-f%C3%B6r%C3%A4ldrapenning'>Föräldrapenningtillägg Tillfällig Föräldrapenning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jensen-gymnasium-kristianstad'>Jensen Gymnasium Kristianstad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sandor-slash-ida-bok-sammanfattning'>Sandor Slash Ida Bok Sammanfattning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sjukt-stressad-emma'>Sjukt Stressad Emma</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-steka-kycklingklubbor-p%C3%A5-spisen'>Steka Kycklingklubbor På Spisen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hud-%26-spa'>Hud & Spa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kjell-bergqvist-bror'>Kjell Bergqvist Bror</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-recept-med-kr%C3%A4ftstj%C3%A4rtar-och-r%C3%A4kor'>Recept Med Kräftstjärtar Och Räkor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kallj%C3%A4sta-kanelbullar-leila'>Kalljästa Kanelbullar Leila</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-siberia-snus-billigt'>Siberia Snus Billigt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-polish-winged-hussars-movie'>Polish Winged Hussars Movie</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-imdb-com-the-room'>Imdb Com The Room</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ica-stekpanna-test'>Ica Stekpanna Test</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rousseau-bek%C3%A4nnelser-analys'>Rousseau Bekännelser Analys</a>,
+";s:7:"expired";i:-1;}

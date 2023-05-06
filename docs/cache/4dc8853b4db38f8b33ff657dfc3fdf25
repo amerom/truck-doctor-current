@@ -1,0 +1,131 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:4685:"<p>... Efter en episod på överväxel behöver systemet växla ner, svalna av och återhämta sig. </p> <p>En resa mot något nytt. Det går att komma tillbaka i arbete och ett normalt liv efter att ha drabbats av utmattningssyndrom. Malou Efter tio i TV4 från 2016-09-26: Doktorerna ger sina bästa råd för hur du blir frisk från utmattning. Utmattningssyndrom innebär att du har flera olika kroppsliga och psykiska besvär som beror på långvarig stress eller andra svåra påfrestningar. Låter rimligt, eller hur? Idag har hon slutat bry sig om karriären och fokuserar istället på det som är roligt. Livet efter utmattningssyndrom. </p> <p>Livet består av mer än arbete, och stress kan finnas överallt där kraven är större än våra energiresurser. Med hjälp av stöd och behandling kan man återhämta sig, men hur lång tid det tar varierar från individ till individ. Fråga till Näringsexpert 5 mars, 2018. Med stöd och behandling återhämtar du dig, även om du kan vara till exempel stresskänslig en längre tid. Men det tar lång tid, och kräver ett bra samarbete mellan alla de instanser de drabbade är beroende av. En utbrändhet tar uttryck i såväl psykiska som fysiska symtom och beror på långvarig stress alternativt andra påfrestningar i livet. De konstaterad också att jag låg högt på skalan för utmattningssyndrom. Efter en deppig sommar bestämde jag mig för att jag ville testa antidepressivt, något jag länge varit skeptisk till men som visade sig vara bland det bästa jag gjort. Hur långvariga efterverkningarna blir av en utmattningsdiagnos är omtvistat. Förstå hur det är, på riktigt. Hamnade på akuten med hjärtklapp och bortdomnade armar och hals. </p> <p>Nyheter / Utmattningssyndrom - 14/10/2018, 08:27 - I den sista delen av serien om utmattningssyndrom pratar Nyheter24 med … Livet efter utmattningssyndrom. </p> <p>Hur kommer jag tillbaka efter utmattningssyndrom? Hej, I november 2014 blev jag sjukskriven för rejäl utmattningssyndrom. Började jobba ett år senare. </p> <p>Harvade på, på 25, 50 och 75 procent i ett år innan jag gick upp till 100 procent. Utmattningssyndrom, del 1 av 2: ”Vi måste hjälpas åt att ta hand om våra hjärnor och skapa utrymme för återhämtning.” Idag är utmattningssyndrom och utmattningsdepression (psykisk ohälsa) den vanligaste diagnosen för sjukskrivning i Sverige. ... Ofta hinner det gå ganska långt innan effekterna får genomslag i det dagliga livet … Utmattningssyndrom: Livet efter att hjärnan gått sönder. Mycket forskning och många bra texter finns på detta område. Malou efter tio i TV4 är ett samhällsprogram med Malou von Sivers. Att acceptera att du har utmattningssyndrom är första steget till att komma tillbaka.  Om du drabbats av utmattningssyndrom behöver du troligen sjukskrivas på hel- eller deltid för att kunna påbörja din återhämtning. Återhämtning och rehabilitering. Personer som vill räcka till för allt och alla. Utmattningssyndrom drabbar ambitiösa personer med stort hjärta. Livet efter utmattningssyndrom blir olika för olika personer. Under hösten började jag få behandling i en grupp där vi lärde oss boka in återhämtande aktiviteter, samt annat som är relaterat till att läka. Med hjälp av de nya kunskaperna blir det lättare att leva i balans och ta hand om sig själv. Efter att ha gett allt på jobbet som varumärkeschef så slutade hon plötsligt att fungera. Skäms inte för att det har hänt dig. Jag har återhämtat mig fint från vårens period av överarbetning och är det om något är ett tecken på att jag har lärt mig min läxa.Känslan inför hösten är att jag är pigg, gladd och optimistisk inför allt spännande som kommer att hända. Utmattningssyndrom. En del kan vara stresskänsliga lång tid efter att de gått in i väggen. För elva år sedan drabbades Anne Liljeroth av utmattningssyndrom. För vissa tar återhämtningen lång tid. Enligt en pågående studie lider patienterna fortfarande av konsekvenser sju till tio år efter diagnosen. </p> <p>Dagligen träffar jag människor i mitt arbete som är utmattade, stressade, saknar energi och glädje, har svårt att sova. Det berättade överläkaren Kristina Glise under ett seminarium om rehabilitering. I detta krävande samhälle är det inte konstigt. Utmattningsdepression och vägen tillbaka till livet För en person som inte varit där, som inte drabbats av en depression eller en utmattningsdepression kan det vara svårt att förstå. </p> <p>Vissa blir mer stresskänsliga, men de flesta lär också känna kroppens varningssignaler bättre och blir bättre på att tolka dem. </p>";s:7:"keyword";s:37:"uppfostra dansk svensk g%C3%A5rdshund";s:5:"links";s:10156:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-off-white-nike-sverige'>Off White Nike Sverige</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-puerto-del-carmen-hotell'>Puerto Del Carmen Hotell</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svart-blandare-k%C3%B6k'>Svart Blandare Kök</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-downs-syndrom-tjej'>Downs Syndrom Tjej</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-musik-till-instagram-video-spotify'>Musik Till Instagram Video Spotify</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Best-Western-Plus-Delta-Park-Hotel4%2C1%28514%290%2C4%C2%A0km-bort220%C2%A0AED'>Best Western Plus Delta Park Hotel4,1(514)0,4 km Bort220 AED</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-zone-airlight-svart'>Zone Airlight Svart</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-simon-superti-grammis'>Simon Superti Grammis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-long-beach-los-angeles'>Long Beach Los Angeles</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-beg-bildelar-volvo'>Beg Bildelar Volvo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hawaii-pizzeria-laholm-meny'>Hawaii Pizzeria Laholm Meny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-eric-ericson-chamber-choir'>Eric Ericson Chamber Choir</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vattenburet-element-gammal-stil'>Vattenburet Element Gammal Stil</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-peter-r%C3%A4tz-bok'>Peter Rätz Bok</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ba%C5%A1ka-camping-krk'>Baška Camping Krk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-quorn-bitar-inneh%C3%A5ll'>Quorn Bitar Innehåll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skjutning-malm%C3%B6-holma-flashback'>Skjutning Malmö Holma Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-efterlyst-s%C3%A4song-52'>Efterlyst Säsong 52</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-honda-civic-problem'>Honda Civic Problem</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pulled-beef-taco-recept'>Pulled Beef Taco Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-kostar-skolan-per-elev'>Vad Kostar Skolan Per Elev</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-numero-74-canopy'>Numero 74 Canopy</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-martin-hansson-%C3%A5lder'>Martin Hansson ålder</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-str%C3%A4ckning-i-vaden'>Sträckning I Vaden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-en-dag-som-flygtekniker'>En Dag Som Flygtekniker</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sverige-tr%C3%B6ja-hockey'>Sverige Tröja Hockey</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kompletteringsutbildning-f%C3%B6r-utl%C3%A4ndska-jurister'>Kompletteringsutbildning För Utländska Jurister</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-chalmers-arkitektur-adress'>Chalmers Arkitektur Adress</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bilkrasch-g%C3%B6teborg-flashback'>Bilkrasch Göteborg Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-david-sundin-fru'>David Sundin Fru</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ag-restaurang-michelin'>Ag Restaurang Michelin</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-baka-med-%C3%A4gg'>Baka Med ägg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-add-symptom-vuxna'>Add Symptom Vuxna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dagvattenbrunn-400-mm'>Dagvattenbrunn 400 Mm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-snabbt-verkar-avmaskningsmedel-p%C3%A5-katt'>Hur Snabbt Verkar Avmaskningsmedel På Katt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hus-till-salu-i-portugal'>Hus Till Salu I Portugal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-marcus-berggren-tjej'>Marcus Berggren Tjej</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ugnsrostad-broccoli-kcal'>Ugnsrostad Broccoli Kcal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pp-r%C3%B6r-tollarp'>Pp Rör Tollarp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-din-sko-%C3%B6rebro'>Din Sko örebro</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klas-kl%C3%A4ttermus-och-de-andra-djuren-i-hackebackeskogen'>Klas Klättermus Och De Andra Djuren I Hackebackeskogen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-k%C3%B6pa-roma-tr%C3%B6ja'>Köpa Roma Tröja</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-l%C3%B6senord-netflix'>Byta Lösenord Netflix</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rosendals-citron-vallmokaka'>Rosendals Citron Vallmokaka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rs%C3%A4songsmatcher-shl-2019'>Försäsongsmatcher Shl 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bosch-smu46fw01s-installation'>Bosch Smu46fw01s Installation</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-galaxy-watch-apps'>Galaxy Watch Apps</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sl-jobb-utvecklare'>Sl Jobb Utvecklare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-the-rock-viaplay'>The Rock Viaplay</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gustavsberg-nordic-390'>Gustavsberg Nordic 390</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gamla-tentor-dsv'>Gamla Tentor Dsv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A5g-app-iphone'>Våg App Iphone</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-trojanska-h%C3%A4sten-film'>Trojanska Hästen Film</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-axela-gruppen-ab'>Axela Gruppen Ab</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bild-p%C3%A5-lax'>Bild På Lax</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lilla-mysans-kennel'>Lilla Mysans Kennel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-topwok-karlshamn-buff%C3%A9'>Topwok Karlshamn Buffé</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-afrikansk-t%C3%A4tting-amarant'>Afrikansk Tätting Amarant</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-soffa-gotland-sv%C3%A4ngd'>Soffa Gotland Svängd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-begagnade-atv-delar'>Begagnade Atv Delar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svarta-r%C3%B6r-inredning'>Svarta Rör Inredning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cykelhjul-27-tum'>Cykelhjul 27 Tum</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dragracing-s%C3%B6derhamn-2019'>Dragracing Söderhamn 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-largest-dog-breed'>Largest Dog Breed</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-serier-2020-fotboll'>Serier 2020 Fotboll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-den-gamle-och-havet-film-sk%C3%A5despelare'>Den Gamle Och Havet Film Skådespelare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vit-sparris-recept'>Vit Sparris Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-termostat-radiator-mma'>Termostat Radiator Mma</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-julbord-helsingborg-arena'>Julbord Helsingborg Arena</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-howard-f%C3%A5t%C3%B6lj-mio'>Howard Fåtölj Mio</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iphone-11-pro-max-512gb-elgiganten'>Iphone 11 Pro Max 512gb Elgiganten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-butterkaka-kalix-recept'>Butterkaka Kalix Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-ofta-ska-man-sota-k%C3%B6ksfl%C3%A4kt'>Hur Ofta Ska Man Sota Köksfläkt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svartinge-golf-medlemsavgift'>Svartinge Golf Medlemsavgift</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-korta-spanska-texter'>Korta Spanska Texter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bromma-blocks-%C3%B6ppettider-p%C3%A5sk'>Bromma Blocks öppettider Påsk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-n%C3%A4r-%C3%A4r-en-storpudel-fullvuxen'>När är En Storpudel Fullvuxen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A5lda-under-klubban-synonym'>Sålda Under Klubban Synonym</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hej-svenska-klockan'>Hej Svenska Klockan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kazuma-meerkat-plastics'>Kazuma Meerkat Plastics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bakgrund-uppsats-exempel'>Bakgrund Uppsats Exempel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A5land-corona-regler'>åland Corona Regler</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-positivt-nipt-test'>Positivt Nipt Test</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bra-serier-p%C3%A5-netflix-f%C3%B6r-12-%C3%A5ringar'>Bra Serier På Netflix För 12 åringar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A4ckande-tak-dolt-fel'>Läckande Tak Dolt Fel</a>,
+";s:7:"expired";i:-1;}

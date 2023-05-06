@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3321:"<p>Bootstrap 4 Modal Example. I have a form in a Bootstrap 4 modal and am trying to replace this modal form with a thank you message within the same modal, but the modal keeps closing In bootstrap tutorial, we create modal dialog form like the example below [crayon-5ebb Form in modal is a trending tool for websites now a days. modal ({keyboard: false}).modal('toggle') Manualmente, alterna a visibilidade do modal. & footer (.modal-footer) Nested modals aren’t supported, but if you really need them the underlying react-overlays can support them if you're willing. .modal(options) Define seu conteúdo como um modal. Like Bootstrap login/register form implemented in a modal to popup. Bootstrap Modal’s Events. Modal's "trap" focus in them, ensuring the keyboard navigation cycles through the modal, and not the rest of the page. $ ('#meuModal'). Easy to use and it saves more time . So if you’re looking for solution to implement Bootstrap modal with form submit to process form values, then you’re here at right place. Bootstrap Modal is the easiest way of creating notification and confirmation popup messages with the addition of few bootstrap classes. </p> <p>I have seen designer making form markup wrong within modal and thus complaining for invalid markup in bootstrap or not firing a submit event properly either directly by button click or within their script related to popup. Expected behavior*Actual behavior*I tried to edit the Bootstrap Modal Form examples in my own style. </p> <p>Various events available are: show.bs.modal: fired just before the modal … Yes, its built-in CSS adjusts the layout to Phones, Tablets & Desktops. </p> <p>How to Build Bootstrap 4 Modal: Use class .modal for the main element that needs to be represented; Both specific classes .modal-dialog & .modal-content are used in accordance for role assigning and define the modal content part. I … Aceita um objeto de parâmetros, opcional. Any web developer with basic coding knowledge of HTML, CSS & jQuery can immediately start using Bootstrap Modal Form. But the result which presented with Notepad++ is not same as the result of the MDB editor. modal ('toggle') Its Responsive . </p> <p>These events have to be bound using jQuery .on() method. But both of them are the same code. Bootstrap only supports one modal window at a time. $ ('#meuModal'). A Bootstrap modal is a popup which displays when you click the button or open a web page. Perform form submission of user input on popup dialog box using the bootstrap modal plugin. Retorna ao invocador, antes do modal ter sido exibido ou escondido, de fato (antes dos eventos shown.bs.modal ou hidden.bs.modal ocorrerem). You can further customize the normal behavior of the Bootstrap modal by using various events that are triggered while opening and closing the modal. </p> <p>Create modal dialog form in jquery using bootstrap framework, slightly different from the usual way of jquery-ui.  ; Modal has three basic components being header (.modal-header), body element(.modal-body). </p> <p>The only thing which can not be sure is the header of the MDB editor. In this tutorial you will learn how to show Bootstrap form with input and handle Bootstrap form submit with jQuery and process form submit post values at server in PHP. Why Bootstrap Modal Form? </p>";s:7:"keyword";s:26:"alkohol fr%C3%A5n tyskland";s:5:"links";s:10760:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-g%C3%A5r-skatten-till'>Vad Går Skatten Till</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tv-f%C3%A4ste-tak'>Tv Fäste Tak</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-l%C3%A5ng-tid-tar-det-att-f%C3%A5-skadest%C3%A5nd'>Hur Lång Tid Tar Det Att Få Skadestånd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skolpeng-nacka-kommun'>Skolpeng Nacka Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-frysta-stora-r%C3%A4kor'>Frysta Stora Räkor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fyrishov-hall-a'>Fyrishov Hall A</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-butik-eller-aff%C3%A4r'>Butik Eller Affär</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skrrt-ein%C3%A1r-lyrics'>Skrrt Einár Lyrics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kladdkaka-med-n%C3%B6tcreme'>Kladdkaka Med Nötcreme</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6-utanf%C3%B6r-sydv%C3%A4stra-kreta'>ö Utanför Sydvästra Kreta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nhl-kepsar-stockholm'>Nhl Kepsar Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varm-sallad-med-sparris'>Varm Sallad Med Sparris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-superettan-2020-basket'>Superettan 2020 Basket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-santa-barbara-city-college-news'>Santa Barbara City College News</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-grillade-k%C3%B6ttf%C3%A4rsbiffar-med-bacon'>Grillade Köttfärsbiffar Med Bacon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rea-inredning-design'>Rea Inredning Design</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stand-up-komiker'>Stand Up Komiker</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenskt-medborgarskap-lag'>Svenskt Medborgarskap Lag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4sta-ansiktskr%C3%A4men-n%C3%A5gonsin'>Bästa Ansiktskrämen Någonsin</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-jobb-k%C3%B6k-g%C3%B6teborg'>Lediga Jobb Kök Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-best-podcasts-2020'>Best Podcasts 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%A4ster-johansgatan-4'>Mäster Johansgatan 4</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rent-faktisk-synonym'>Rent Faktisk Synonym</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-amma-nyf%C3%B6dd-tips'>Amma Nyfödd Tips</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-palm-springs-hotell'>Palm Springs Hotell</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-styling-volvo-940'>Styling Volvo 940</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-swish-avgift-f%C3%B6rening'>Swish Avgift Förening</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-the-combine-half-life-wiki'>The Combine Half Life Wiki</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-viktv%C3%A4ktarna-recept-bananmuffins'>Viktväktarna Recept Bananmuffins</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-my-rhodes-ving-se'>My Rhodes Ving Se</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lindesberg-arena-evenemang'>Lindesberg Arena Evenemang</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tips-p%C3%A5-ink%C3%B6pslista-mat'>Tips På Inköpslista Mat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kelly-gale-jamie-gale'>Kelly Gale Jamie Gale</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iss-service-management'>Iss Service Management</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-avesta-kommun-utbildning'>Avesta Kommun Utbildning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sous-vide-sm%C3%B6r'>Sous Vide Smör</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-koppla-pem-slang-till-tr%C3%A4dg%C3%A5rdsslang'>Koppla Pem Slang Till Trädgårdsslang</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-is-bcaa-necessary'>Is Bcaa Necessary</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%DA%A9%D8%A7%D9%86%D8%A7%D9%84-%D8%AE%D8%A8%D8%B1-%D9%81%D9%88%D8%B1%DB%8C-%D8%A8%DB%8C-%D8%A8%DB%8C-%D8%B3%DB%8C'>کانال خبر فوری بی بی سی</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spasmofen-sluta-tillverkas'>Spasmofen Sluta Tillverkas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aik-hockey-skulder'>Aik Hockey Skulder</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-offentliga-jobb-degerfors'>Offentliga Jobb Degerfors</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cool-hotels-copenhagen'>Cool Hotels Copenhagen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-schoolsoft-ies-halmstad'>Schoolsoft Ies Halmstad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-malm%C3%B6-tingsr%C3%A4tt-st%C3%A4mningsans%C3%B6kan'>Malmö Tingsrätt Stämningsansökan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ag-restaurang-michelin'>Ag Restaurang Michelin</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-leva-livet-lyrics'>Leva Livet Lyrics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-flashback-kalmar-polis'>Flashback Kalmar Polis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mj%C3%B6lkfri-efterr%C3%A4tt-f%C3%A4rdig'>Mjölkfri Efterrätt Färdig</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Elite-Park-Avenue-Hotel-G%C3%B6teborg4%2C1%281930%290%2C4%C2%A0km-bort163%C2%A0CA%24'>Elite Park Avenue Hotel Göteborg4,1(1930)0,4 km Bort163 CA$</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-puerto-de-la-cruz-strand'>Puerto De La Cruz Strand</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-omv%C3%A5rdnad-vid-huntingtons-sjukdom'>Omvårdnad Vid Huntingtons Sjukdom</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-invictus-movie-netflix'>Invictus Movie Netflix</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-first-lady-korsord'>First Lady Korsord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4sta-tapas-playa-de-las-americas'>Bästa Tapas Playa De Las Americas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kth-mail-android'>Kth Mail Android</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-talent-coach-kalmar'>Talent Coach Kalmar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-liten-stekpanna-f%C3%B6r-%C3%A4gg'>Liten Stekpanna För ägg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-subtropiskt-klimat-spanien'>Subtropiskt Klimat Spanien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-jobb-silverlife'>Lediga Jobb Silverlife</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-talang-2018-tusse'>Talang 2018 Tusse</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A4ng-till-8-%C3%A5ring'>Säng Till 8 åring</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rimbobullar-med-saffran'>Rimbobullar Med Saffran</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kall-s%C3%A5s-p%C3%A5-larsa-yoghurt'>Kall Sås På Larsa Yoghurt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klassiska-b%C3%B6cker-man-b%C3%B6r-ha-l%C3%A4st'>Klassiska Böcker Man Bör Ha Läst</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fresh-prince-of-bel-air-episode'>Fresh Prince Of Bel-air Episode</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-r%C3%B6da-korset-eskilstuna'>Röda Korset Eskilstuna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kasino-eller-casino'>Kasino Eller Casino</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-elm%C3%A4ssan-kista-2019'>Elmässan Kista 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cylinda-diskmaskin-t%C3%B6mmer-inte'>Cylinda Diskmaskin Tömmer Inte</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-minireningsverk---avloppscenter'>Minireningsverk - Avloppscenter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gokart-i-regn'>Gokart I Regn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hungry-hearts-radio-edit'>Hungry Hearts Radio Edit</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%A5bohus-lediga-l%C3%A4genheter'>Håbohus Lediga Lägenheter</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-quiz-fr%C3%A5gor-om-mig'>Quiz Frågor Om Mig</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-julbord-scandic-borl%C3%A4nge'>Julbord Scandic Borlänge</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mywear-woman-skor'>Mywear Woman Skor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sjukpenning-timanst%C3%A4lld-pension%C3%A4r'>Sjukpenning Timanställd Pensionär</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-linn%C3%A9-hostel-recension'>Linné Hostel Recension</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-praktik-uppsala-universitet'>Praktik Uppsala Universitet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bananmuffins-utan-sm%C3%B6r'>Bananmuffins Utan Smör</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iwa-2020-hunting'>Iwa 2020 Hunting</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%BCsli-med-f%C3%A5-kalorier'>Müsli Med Få Kalorier</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fr%C3%A5gor-om-v%C3%A4rlden'>Frågor Om Världen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-norwegian-visa-kort-kontakt-mina-sidor'>Norwegian Visa Kort Kontakt Mina Sidor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4der-grekland-rhodos'>Väder Grekland Rhodos</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%A4kartidningen-nya-r%C3%B6n'>Läkartidningen Nya Rön</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stylist-gymnasium-%C3%B6rebro'>Stylist Gymnasium örebro</a>,
+";s:7:"expired";i:-1;}

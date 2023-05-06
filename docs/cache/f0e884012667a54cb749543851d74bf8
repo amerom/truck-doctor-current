@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:2943:"<p>Vid riktigt långsam puls (bradykardi på läkarspråk). Översätta läkarspråk? </p> <p>Nyhetsbrev. Hjärtstillestånd eller hjärtstopp kallas det fysiska tillstånd som inträtt då hjärtat slutat slå effektivt, då det "står stilla". Detta är en patologi som också är farlig, som hjärtklappning ; Långsam hjärtrytm, farligt? </p> <p>Registret är det största oberoende digitala biblioteket över medicinsk terminologi och grundar sig på boken Medicinsk fickordbok. bb? </p> <p> 6-10 år: 36-47 g/L. </p> <p>Då får inte hjärtat tillräckligt med syre och du drabbas av en hjärtinfarkt. </p> <p>Män: 0,15-1,1 µkat/L. P-Albumin. </p> <p>Va heter de på läkarspråk? Vi vill att du ska få ut mer av oss – därför lanserar vi ett nyhetsbrev med de senast tillagda termerna! ↑ vätskebrist. Vi håller tummarna att det blir så. Det kan även röra sig om andra allvarliga sjukdomstillstånd som rör hjärta, kärl eller lungor exempelvis hjärtsvikt, ... Det kallas ateroskleros på läkarspråk. 1-5 år: 35-47 g/L. </p> <p>Ett lågt antal vita blodkroppar, som kallas leukopeni, kan bli följden av förhållanden såsom benmärgsskador (toxin, kemoterapi, strålbehandling, droger), benmärgsrubbningar (myelodysplastiskt syndrom, vitamin B12 eller folatbrist), lymfom eller annan cancer som spridit sig (metastaserat) till benmärgen. </p> <p>Är det någon här som kan hjälpa mig att översätta lite ur min journal som jag tog nu när jag åkte hem från spec. </p> <p>Den långsamma hjärtfrekvensen kallas bradykardi. Det beror på att det fortfarande finns två små hål i kammarskiljeväggen, det som på läkarspråk heter kammarseptum defekt, VSD. Idag hör man ofta om sådant fenomen som bradykardi hos barn. Sön 29 jun 2008 23:05 Läst 3749 gånger Totalt 5 svar. cellskador i lever, njurar, hjärta och skelettmuskulatur. ↓ inflammatorisk aktivitet, malnutrition, brännskada, njurskada, levercirros. ; Vad är en låg hjärtfrekvens . vätskebalans, leverfunktion. </p> <p>15-17 år: 34-49 g/L. </p> <p>Registrera dig nedan så får du en uppdatering av vilka termer som efterfrågas – bekvämt paketerad till din mejlbox. Om jag har ett lågt värde – vad kan det bero på? ↑ lever-, njur- och muskelskada. </p> <p>Kvinnor: 0,15-0,75 µkat/L. Hålen sitter i de muskulära delarna av skiljeväggen och är svåra att se vid en operation. </p> <p>Har inte fått än, utan de misstänker havandeskapsförgiftning, men jag tror inte riktigt att allt är som det ska, även fast det låter som om det är sååå normalt på dem.. -Jalla-Medlem sedan. Till slut blockeras blodflödet så pass mycket att blodet inte når fram till hjärtat, ibland på grund av att det bildats en blodpropp. 11-14 år: 37-48 g/L. Det handlar om långsamma hjärtslag. Ulf tror att dessa hål kommer att växa igen med tiden och inte kommer kräva någon framtida kirurgi. <1 år: 28-47 g/L. sep 2003. </p>";s:7:"keyword";s:47:"fem myror %C3%A4r fler %C3%A4n fyra elefanter z";s:5:"links";s:6814:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-webcam-arjeplog-torget'>Webcam Arjeplog Torget</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-modala-hj%C3%A4lpverb-tyska-%C3%B6vningar'>Modala Hjälpverb Tyska övningar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-apollo-nidri-lefkas'>Apollo Nidri Lefkas</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-p%C3%A5skpaket-2020-sk%C3%A5ne'>Påskpaket 2020 Skåne</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-futsal-cup-2020-%C3%B6sterg%C3%B6tland'>Futsal Cup 2020 östergötland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-studerande-profil-mdh'>Studerande Profil Mdh</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mjukt-i-t%C3%A4nderna'>Mjukt I Tänderna</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-uggla-fornnordisk-mytologi'>Uggla Fornnordisk Mytologi</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kung-oidipus-handling'>Kung Oidipus Handling</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bellus-s%C3%A4ngar-%C3%A5terf%C3%B6rs%C3%A4ljare'>Bellus Sängar återförsäljare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gustavsberg-spolknapp-duo'>Gustavsberg Spolknapp Duo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sikta-mj%C3%B6l-p%C3%A5-engelska'>Sikta Mjöl På Engelska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stupr%C3%B6r-som-g%C3%A5r-ner-i-marken'>Stuprör Som Går Ner I Marken</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-l%C3%A4genheter-sm%C3%B6rslottsgatan'>Lediga Lägenheter Smörslottsgatan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cykla-i-devon'>Cykla I Devon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cykel-p%C3%A5-uppt%C3%A5get'>Cykel På Upptåget</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spark-ar-tool'>Spark Ar Tool</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bj%C3%B6rkl%C3%B6ven-lynx-tr%C3%B6ja'>Björklöven Lynx Tröja</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skinkstek-med-sv%C3%A5l'>Skinkstek Med Svål</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A5re-kommun-eldningsf%C3%B6rbud'>åre Kommun Eldningsförbud</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-play-song-on-piano-online'>Play Song On Piano Online</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pinchos-kungsbacka-meny'>Pinchos Kungsbacka Meny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cervera-h%C3%A4ggvik-%C3%B6ppettider'>Cervera Häggvik öppettider</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-create-animated-gif-files'>Create Animated Gif Files</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-briggs-%26-stratton-parts'>Briggs & Stratton Parts</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hugo-boss-salbo'>Hugo Boss Salbo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aga-kolsyrepatron-p%C3%A5fyllning'>Aga Kolsyrepatron Påfyllning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-axa-blueberry-m%C3%BCsli'>Axa Blueberry Müsli</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-colorama-jotun-pris'>Colorama Jotun Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-synonym-of-sensitive'>Synonym Of Sensitive</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-paul%C3%BAns-granola-kardemumma'>Paulúns Granola Kardemumma</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-loppis-varberg-2019'>Loppis Varberg 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bebis-sl%C3%A5-i-fontanellen'>Bebis Slå I Fontanellen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stuga-%C3%B6sterg%C3%B6tland-till-salu'>Stuga östergötland Till Salu</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sofia-wood-knivar'>Sofia Wood Knivar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mj%C3%A4llby-aif-tr%C3%A4ningsmatcher'>Mjällby Aif Träningsmatcher</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kristian-luuk-holger-luuk'>Kristian Luuk Holger Luuk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tibetansk-spaniel-sobel'>Tibetansk Spaniel Sobel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A5ldsdrama-burtr%C3%A4sk-flashback'>Våldsdrama Burträsk Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-ett-offentligt-f%C3%B6retag'>Vad är Ett Offentligt Företag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-transformator-12v-ikea'>Transformator 12v Ikea</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vit-herdehund-vakthund'>Vit Herdehund Vakthund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stress-p%C3%A5-jobbet-%C3%A5ngest'>Stress På Jobbet ångest</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rostas-pris-ica'>Rostas Pris Ica</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-k%C3%B6ket-se-r%C3%A4ksallad'>Köket Se Räksallad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dansk-kung-gorm'>Dansk Kung Gorm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-eric-gadd-idol'>Eric Gadd Idol</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-billiga-vinterd%C3%A4ck-stockholm'>Billiga Vinterdäck Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-xxl-skor-salomon'>Xxl Skor Salomon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-k%C3%B6k-utan-ugn'>Kök Utan Ugn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klassliv-avsnitt-10'>Klassliv Avsnitt 10</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-riesen-choklad-wiki'>Riesen Choklad Wiki</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-frim%C3%A5nad-fotboll-%C3%B6sterg%C3%B6tland'>Frimånad Fotboll östergötland</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pizza-picklad-r%C3%B6dl%C3%B6k'>Pizza Picklad Rödlök</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mini-rodini-sale'>Mini Rodini Sale</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sparris-p%C3%A5-burk'>Sparris På Burk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ch%C3%A8vre%2C-honung-valn%C3%B6tter-br%C3%B6d'>Chèvre, Honung Valnötter Bröd</a>,
+";s:7:"expired";i:-1;}

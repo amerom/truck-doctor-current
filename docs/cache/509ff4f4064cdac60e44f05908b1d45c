@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3124:"<br>However, she became socially inactive later in her life and eventually realized during her freshman year that she was an introvert. He has short brown hair and is seen wearing a red bandana around his head like a sweatband. 170.8k Followers, 120 Following, 105 Posts - See Instagram photos and videos from Brandon Walsh (@brandonwalsh) Kennedy Claire Walsh was born on January 5, 2000, in the United States of America. Gambling addict Brandon multiplies his addition by hiring a school bookie, Jeff, in order to pay off $1,500 of losses to Duke who's now out to get Brandon. My name is Vernon Hilyer aka: Brandon’s Dad. First Name Brandon #10. Brandon peak phsyqiue was way better than his dad who admitted juice. I share a true life story about my son’s fight with alcohol and the effects his choices had on everyone who knew and loved him. Brandon Walsh, played by Jason Priestley, was the original lead character in the popular 1990s American television drama Beverly Hills, 90210, and the first … Brandon Walsh, often shortened to Brand, is a member of the Goonies. ColdwellBankerHomes.com can help you find homes for sale, rentals, condos, Realtors and information about your local real estate market. With Jason Priestley, Shannen Doherty, Jennie Garth, Ian Ziering. Kennedy was socially active during her elementary and middle school days. <br> Directed by Robert Becker. <br> <br> So Brandon Natty? But he settled in quite nicely, quite quickly. We’re practicing today if either of you want to join in on the festivities,” Brandon persuades the two of you as you round the corner of the Peach Pit to sit at your usual booth. Choose from over 800 Music Genre Stations on Free Online Radio He lives in the Goon Docks of Astoria with his family. She was raised along with her siblings, Brandon and Claudia. He shares vlogs detailing the daily life of the Walsh clan with more than 490,000 subscribers. Brand is tall and muscular from his interest in working out. He quit juicing tho and that picture above is photoshopped as Brandon said on his insta story if it ain't obvious He had that sweet old Mustang; a new James Dean-esque best friend; luxurious sideburns; a fun job at the Peach Pit; a group of pretty, yet angsty friends; and a nice little romantic life. Born on December 12 #15. Social media celebrity who created his own reality show about his family on his self-titled YouTube channel. He wears a sleeveless gray shirt with a dark blue hoodie over it. He uploaded his first YouTube video titled "Trying ASMR for the First Time" in August 2018. “With my dad laid up, we need all the help we can get. Brandon Walsh: He started out as the fish out of water, a Minnesota kid in Beverly Hills on the hit ’90s TV show Beverly Hills 90210. “My Life Sentence”. <br> <br>Learn about Brandon Walsh: his birthday, what he did before fame, his family life, fun trivia facts, popularity rankings, and more. Yahoo Sports NFL has no set date for reopening facilities amid coronavirus, cites 'competitive equity' as part of decision Buccaneers will run Bruce Arians' offense 'with a Brady influence' ";s:7:"keyword";s:22:"gopro f%C3%A4ste styre";s:5:"links";s:6944:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-planeringsverktyg-pax'>Ikea Planeringsverktyg Pax</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-absolut-vodka-elyx'>Absolut Vodka Elyx</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hemtj%C3%A4nsten-v%C3%A4rnamo-jobb'>Hemtjänsten Värnamo Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stadskallaren-skellefte%C3%A5-instagram'>Stadskallaren Skellefteå Instagram</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jm-seniorg%C3%A5rden-hyllie'>Jm Seniorgården Hyllie</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-khao-lak-tsunami'>Khao Lak Tsunami</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vit-sparris-r%C3%A4kor'>Vit Sparris Räkor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ursprung-biceps-brachii'>Ursprung Biceps Brachii</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%B6grev-pulled-beef'>Högrev Pulled Beef</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-r%C3%A4kor-i-vitl%C3%B6ksolja'>Räkor I Vitlöksolja</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varf%C3%B6r-ser-man-mest-svart-vitt-vid-d%C3%A5ligt-ljus%3F'>Varför Ser Man Mest Svart Vitt Vid Dåligt Ljus?</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karlskrona-sk%C3%A4rg%C3%A5rd-boende'>Karlskrona Skärgård Boende</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%B6gbo-brukshotell-2-dagars-paket'>Högbo Brukshotell 2 Dagars Paket</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hormonell-obalans-underlivet'>Hormonell Obalans Underlivet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rnsk%C3%B6ldsviks-kommun-yta'>örnsköldsviks Kommun Yta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-what-to-do-with-sous-vide'>What To Do With Sous Vide</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kurdistan-region-of-iraq-kri'>Kurdistan Region Of Iraq Kri</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-l%C3%B6vbiffsgryta-med-paprika'>Lövbiffsgryta Med Paprika</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-socialtj%C3%A4nsten-i-malung'>Socialtjänsten I Malung</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lars-ekborg-l%C3%A5tar'>Lars Ekborg Låtar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ta-bort-strypning-cf-moto-800'>Ta Bort Strypning Cf Moto 800</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lchf-chokladmousse-mascarpone'>Lchf Chokladmousse Mascarpone</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-framtidens-bredband-bostadsbolaget'>Framtidens Bredband Bostadsbolaget</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dap-incoterms-2010'>Dap Incoterms 2010</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-massage-gun-pris'>Massage Gun Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-niklas-schulman-alex'>Niklas Schulman Alex</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nokia-aktie-nasdaq'>Nokia Aktie Nasdaq</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenskafans-premier-league'>Svenskafans Premier League</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-matrix-prefix-neo'>Matrix Prefix Neo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-disclosure-white-noise-ft-alunageorge'>Disclosure White Noise Ft Alunageorge</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-american-football-rules'>American Football Rules</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svarte-petter-historia'>Svarte Petter Historia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-objective-vs-goal'>Objective Vs Goal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-troll-bedside-crib-sun'>Troll Bedside Crib Sun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-penta-g%C3%B6teborg'>Volvo Penta Göteborg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-easy-clean-vattenl%C3%A5s'>Easy Clean Vattenlås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-what-is-fresh-prince-of-bel-air-about'>What Is Fresh Prince Of Bel Air About</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dansk-v%C3%A4derprognos-sk%C3%A5ne'>Dansk Väderprognos Skåne</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-kostar-sjukf%C3%B6rs%C3%A4kringen-i-sverige'>Vad Kostar Sjukförsäkringen I Sverige</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lax-kiwi-citrons%C3%A5s'>Lax Kiwi Citronsås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-postnummer-v%C3%A4ster%C3%A5s-karta'>Postnummer Västerås Karta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bowling-o%27learys-v%C3%A4rmd%C3%B6'>Bowling O'learys Värmdö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-latissimus-dorsi-ont'>Latissimus Dorsi Ont</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-mycket-blod-har-man-i-kroppen'>Hur Mycket Blod Har Man I Kroppen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utdelning-kopparbergs-2020'>Utdelning Kopparbergs 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-apotek-lule%C3%A5-stadsviken'>Apotek Luleå Stadsviken</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-julkonsert-2019-filadelfiakyrkan'>Julkonsert 2019 Filadelfiakyrkan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-r%C3%BCdiger-fifa-20'>Rüdiger Fifa 20</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-manchester-united-tr%C3%B6ja-xxl'>Manchester United Tröja Xxl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%A4klare-eskilstuna-arvode'>Mäklare Eskilstuna Arvode</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-allsvenskan-assistliga-2019'>Allsvenskan Assistliga 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sofias-%C3%A4nglar-emma-och-j%C3%B6rgen'>Sofias änglar Emma Och Jörgen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lax-och-spenatpaj-sm%C3%B6rdeg'>Lax Och Spenatpaj Smördeg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rskolor-oxelbergen-norrk%C3%B6ping'>Förskolor Oxelbergen Norrköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-enhetschef-vimmerby-kommun'>Enhetschef Vimmerby Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-compass-group-organisationsnummer'>Compass Group Organisationsnummer</a>,
+";s:7:"expired";i:-1;}

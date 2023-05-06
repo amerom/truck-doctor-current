@@ -1,0 +1,132 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3786:"<p>By Bülent Aras and Emirhan Yorulmazlar July 11, 2016, 2:00 am. A Kurdish analyst has called Iran the elder brother of Iraqi Kurds Shiites, suggesting that the Islamic Republic could resolve the regional crises by supporting the Iraqi Kurdistan region and bringing about convergence between Baghdad, Tehran and Erbil. All (79) Recep Tayyip Erdogan (36) Turkey (31) Iran (24) Hassan Rouhani (21) February 23, 2020, 11:15 pm. The incident was part of a string of attacks by Iran’s military on Kurdish rebels on the Iran-Iraq border. Now Iran is mourning Soleimani and thinking how to respond. The Iraqi Kurdish Question. The Kurdistan region is in the middle. The Fears of Iran and its Forgotten Kurds. July 22, 2011: A senior Islamic Revolutionary Guards Corps (IRGC) officer and five Iranian army soldiers were killed during fighting with PJAK rebels on the Iran-Iraq border. Any mention of Kurdish symbols, such as the sun logo of the Kurdish flag, or even the term “Kurd” does not appear in Iranian media. Coupled with the confluence of interests with Iran, this growing Kurdish factionalism is creating new opportunities for the PKK to establish a political presence in the KRG, especially in anti-KDP strongholds such as Sulaymaniyah and Kirkuk. Domestic Economy. Fast forward to 2017, and Turkish relations with Iran displayed a relative relaxation that can be credited to three main factors. In the West much is heard about the struggles of the Kurdish peoples of Iraq and Turkey. January 20, 2020 18:41. After the emergence of modern states, Iran and Turkey were mostly preoccupied with security issues, which dominated relations between the two countries. 700-800 Trucks Carry Iranian Goods to Iraqi Kurdistan Daily. Demands by Iraqi Kurds for greater autonomy have roiled their Turkish neighbors. He thanked the Kurdish region for steadfast partnership. Iran-Turkey relations. </p> <p>Sulaymaniyah-Kish Flights Launched. </p> <p>Combat was reported on June 15-16 in Oshnavieh, in Iran’s West Azerbaijan Province. Turkey-Iran Relations A Long-Term Perspective. </p> <p></p> <p>To most Iranians, Kurds are simply a non-people. Yet, little is heard about the Kurds of Iran.  </p> <p>First, the Gulf crisis pushed Ankara to open up politically toward Iran in order to secure a fast and more economically-sustainable route to help Qatar overcome the Saudi-led blockade. </p> <p>Endnotes and citations are available in the PDF and Scribd versions. Iraq-Iran Foreign Relations Will Fulton. The past two weeks of fighting have reportedly pitted official forces against members of the Kurdish Democratic Party of Iran (KDPI), with deadly clashes between the IRGC and Kurdish rebels in heavily Kurdish northwestern Iran, near the border with Iraq. Backgrounder by Lionel Beehner. April 19, 2007 </p> <p>Travel . Iraqi Forces Overpower Kurds, but Public Relations Battle Rages The flag of the Kurdish autonomous region was taken down in Kirkuk last week as Iraqi forces gained control of the city. The Kurdish question has played a complicated role in relations between Iran and Turkey. </p> <p>Iran’s top military commander says the United States has been provoking terrorists based in Iraq’s semi-autonomous Kurdistan region over the past year to launch assaults on Iranian soil despite an earlier promise not to do so. Iran-Iraqi Kurdistan Relations. Iran, too, is concerned with Kurdish political ambitions, particularly those of the Iraqi Kurds. </p> <p>The recent developments in Northern Iraq and Kirkuk have once again brought Iran’s role in the region and its relations with Turkey to the agenda. by Norvell B. DeAtkine. Earthquake kills nine in Turkey, injures dozens in Iran … Iran's Warming Relations with the PKK Could Destabilize the KRG Bilal Wahab. </p>";s:7:"keyword";s:27:"sotheby%27s real estate usa";s:5:"links";s:10372:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sverige---rum%C3%A4nien-speltips'>Sverige - Rumänien Speltips</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-smith-and-grace-chesterfield'>Smith And Grace Chesterfield</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bilder-p%C3%A5-kungaparet'>Bilder På Kungaparet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ostr%C3%B6ra-till-bakad-potatis'>Oströra Till Bakad Potatis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utebord-130-cm'>Utebord 130 Cm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glutenfri-t%C3%A5rtbotten-mandelmj%C3%B6l'>Glutenfri Tårtbotten Mandelmjöl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nikki-amini-s%C3%A5ng'>Nikki Amini Sång</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jordbruksverket-%C3%A4garbyte-hund'>Jordbruksverket ägarbyte Hund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pizzasnurror-med-skinka'>Pizzasnurror Med Skinka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Villa-360%2C-Phi-Phi-Islands4%2C5%28209%290%2C5%C2%A0km-bort516%C2%A0AED'>Villa 360, Phi Phi Islands4,5(209)0,5 km Bort516 AED</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ljus-gr%C3%B6n-soffa'>Ljus Grön Soffa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%A5la-%C3%A4gg-minion'>Måla ägg Minion</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ormberget-lift-%C3%B6ppettider'>Ormberget Lift öppettider</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-placering-tv%C3%A4ttmaskin-och-torktumlare'>Placering Tvättmaskin Och Torktumlare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-wild-west-steakhouse-halmstad'>Wild West Steakhouse Halmstad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hq-bank-serie'>Hq Bank Serie</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fonus-djur-hund'>Fonus Djur Hund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rundresa-japan-tips'>Rundresa Japan Tips</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-post-exertional-malaise'>Post Exertional Malaise</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-l%C3%A5ter-portugisiska'>Hur Låter Portugisiska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-northern-lights-svenska'>Northern Lights Svenska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iran-iran-international'>Iran Iran International</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-primark-new-york'>Primark New York</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Linn%C3%A9platsens-Hotell-och-Vandrarhem4%2C2%28186%290%2C9%C2%A0km-bort41%C2%A0US%24'>Linnéplatsens Hotell Och Vandrarhem4,2(186)0,9 km Bort41 US$</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-restaurang-kvarnen-norrk%C3%B6ping'>Restaurang Kvarnen Norrköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jesper-r%C3%B6nndahl-podd'>Jesper Rönndahl Podd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-david-silver-90210'>David Silver 90210</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-generator-laddar-15v'>Generator Laddar 15v</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kjell-bergqvist-klassfesten'>Kjell Bergqvist Klassfesten</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gustavsberg-nautic-1591'>Gustavsberg Nautic 1591</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-huddinge-kommun-korttidsboende'>Huddinge Kommun Korttidsboende</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cf-moto-450-eller-520'>Cf Moto 450 Eller 520</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bbc-news-wikipedia'>Bbc News Wikipedia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-innebandy-vm-slutspel'>Innebandy Vm Slutspel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svensk-amerikanskt-lexikon'>Svensk Amerikanskt Lexikon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utan-uppeh%C3%A5ll-korsord'>Utan Uppehåll Korsord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-malin-berghagen-flashback'>Malin Berghagen Flashback</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-division-1-lag'>Division 1 Lag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bowling-o%27learys-v%C3%A4rmd%C3%B6'>Bowling O'learys Värmdö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-prispengar-skidskytte-2019%2F2020'>Prispengar Skidskytte 2019/2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-frukost-med-keso'>Frukost Med Keso</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vit-chokladkladdkaka-med-hallon'>Vit Chokladkladdkaka Med Hallon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cheesecake-med-parmaskinka'>Cheesecake Med Parmaskinka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-film-om-tvillingar-d%C3%A4r-byter-liv'>Film Om Tvillingar Där Byter Liv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-anabasis-kyrosexpeditionen-eller-de-tiotusens-%C3%A5tert%C3%A5g'>Anabasis Kyrosexpeditionen Eller De Tiotusens återtåg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-resa-i-thailand'>Resa I Thailand</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-malm%C3%B6-ff-nya-spelare'>Malmö Ff Nya Spelare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-domkraftsst%C3%B6d-saab-9-3'>Domkraftsstöd Saab 9 3</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-grekisk-bokstav-iota'>Grekisk Bokstav Iota</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-paralyserad-av-%C3%A5ngest'>Paralyserad Av ångest</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-frukost-f%C3%B6rbereda-dagen-innan'>Frukost Förbereda Dagen Innan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-komvux-tierp-undersk%C3%B6terska'>Komvux Tierp Undersköterska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%A5r-man-upp-i-vikt-av-bcaa'>Går Man Upp I Vikt Av Bcaa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rosa-himmel-chords'>Rosa Himmel Chords</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-billiga-charterresor-zakynthos'>Billiga Charterresor Zakynthos</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-anfi-del-mar-timeshare'>Anfi Del Mar Timeshare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utk-h%C3%A4rryda-kommun'>Utk Härryda Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-k%C3%B6pa-roma-tr%C3%B6ja'>Köpa Roma Tröja</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-j%C3%A4vligt-gott-gryta'>Jävligt Gott Gryta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mm-sport-fri-frakt'>Mm Sport Fri Frakt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spice-of-%C3%A5hus'>Spice Of åhus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hammarby-u17-kalender'>Hammarby U17 Kalender</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fisksoppa-saffran-musslor'>Fisksoppa Saffran Musslor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-jerkstrands-bageri-ab'>Jerkstrands Bageri Ab</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sj-t%C3%A5g-3962'>Sj Tåg 3962</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-friskv%C3%A5rdsbidrag-pite%C3%A5-kommun'>Friskvårdsbidrag Piteå Kommun</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-n%C3%A4r-kommer-barnbidraget-december-2019'>När Kommer Barnbidraget December 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-cf-moto-c-force-600-efi-eps'>Cf Moto C Force 600 Efi Eps</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kai-os-news'>Kai Os News</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gf-idrott-mini-elit'>Gf Idrott Mini Elit</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-20-fr%C3%A5gor-lek'>20 Frågor Lek</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ist%C3%A4llet-f%C3%B6r-pernod'>Istället För Pernod</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-n%C3%A4r-sammanst%C3%A4lldes-bibeln'>När Sammanställdes Bibeln</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-eluttag-usa-new-york'>Eluttag Usa New York</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vpi-sluten-avloppstank-6000'>Vpi Sluten Avloppstank 6000</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-william-segerdahl-b%C3%A4sta'>William Segerdahl Bästa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-scheelegatan-3-stockholm'>Scheelegatan 3 Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-m%C3%B6rdeg-med-mandelmj%C3%B6l'>Mördeg Med Mandelmjöl</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nykarleby-hvc-kontakt'>Nykarleby Hvc Kontakt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dv%C3%A4rg-l%C3%A4ngd-kille'>Dvärg Längd Kille</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-almen%C3%A4s-lunch-n%C3%A4ssj%C3%B6'>Almenäs Lunch Nässjö</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stora-dammen-slottsskogen'>Stora Dammen Slottsskogen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rederiet---s%C3%A4song-15'>Rederiet - Säsong 15</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-whey-80-resultat'>Whey 80 Resultat</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-idol-2015-vinnare'>Idol 2015 Vinnare</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-prispengar-skidskytte-2019%2F2020'>Prispengar Skidskytte 2019/2020</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3566:"<br>Det finns ett gäng restauranger, en ICA och några butiker. <br> <br>Råvarorna och dess ursprung är av högsta vikt, samt att förbrukningsvaror hålls nere till … <br> Vi på Sushirullen erbjuder god sushi i Stockholm och andra städer som kan ätas på språng samt perfekt för catering. Bland annat hade Aftonbladet tidigare sin redaktion i anläggningen med huvudentré i gallerians sydligaste del. <br> <br>Närhet till evenemang och Tele2 Arena gör Globen Shopping särskild attraktiv. <br> <br>Beställare. <br> <br>Parkering finns i Globen Shopping (cirka 1500 P-platser) och i Arenagaraget under Tele2 Arena (cirka 650 P-platser), men tänk på att dessa snabbt kan fyllas upp när det är mycket folk under evenemangsdagar. Välkommen till vår restaurang och pub ett kort stenkast från Globen I anslutning till vår restaurang hittar du en välutrustad och hemtrevlig pub med två barer, perfekt att besöka i anslutning till konserten eller matchen i Globen eller på Tele 2 … Stora stadsplaner föreligger inom närområdena. bokade sent så fick det sista som fanns två "rum" ett vanligt med dubbelsäng toa/dusch och ett typ tågkupe slleepbox helt ok. bra med sen utcheck 12.00 bra shopping och restauranger i … Jag kan inte se någon anledning … Globen Shopping öppnade 1989 och innehåller en knappt 300 meter lång inomhus butiksgata och ett stort antal kontorslokaler. Globen Shopping har 60 butiker och restauranger som finns här för dig! <br> <br>Men egentligen inte så många. We keep a wide variety of beer, wine and drinks for you and your friends to discover. väldigt prisvärt och perfekt om man vill bo nära globen vid evenemang. Det finns ett gäng restauranger, en ICA och några butiker. <br> <br>Globen Shopping är... lite märklig. Boston Grill - For the Love of Boston. <br> <br>Ett minst sagt intressant område. Welcome to try the Nantucket twist! Recensioner från Restaurang Espresso House Globen Shopping i Johanneshov. Köpcentrat Globen Shopping har ett sextiotal butiker och det finns även gott om restauranger och kontor i byggnaden. Handikapparkering hittar du på Hovets östra kortsida, mot Nynäsvägen. ok frukost kaffe youghurt ägg vitt bröd melon etc. Under byggnaden finns ett parkeringshus med hela 1500 parkeringsplatser och med både hissar och trappor direkt upp till … <br> <br>Men egentligen inte så många. <br> <br>Globen Shopping är... lite märklig. <br> <br>Globen Shopping. <br> <br>Blues Kök & Bar, Arenavägen 61, Johanneshov. Idag finns cirka 60 butiker och ett tiotal restauranger och kaféer att tillgå. Jag kan inte se någon anledning … <br> <br>Den här veckan tittar vi in hos Lotta på @kitchnsverige, som har allt som behövs för en picknick i vårsolen ☀️ Varmt välkommen till Globen Shopping! In our restaurants you can enjoy Boston inspired classics like grilled meat, lobster and sea food. Beskrivning. <br> <br>Gnarly Market Tolv är en amerika-inspirerad matupplevelse med fokus på rötter som hamburgare, pizza och pasta som avnjuts i en härlig och stämningsfull miljö. Shoppingen erbjuder en stor variation på butik, närservice och restauranger. 40 pratar om detta. Globen Shopping, eller Globens köpcentrum, som det också kallas ligger alldeles vid Globen i stadsdelen Johanneshov i södra Stockholm. <br> <br> Restaurangkartan är den nya smarta sajten för dig som söker restauranger i Sverige! Kommunikativt ligger Globen Shopping optimalt.  <br>Our mission is to bring you a piece of Boston and the culture of New England. <br>";s:7:"keyword";s:35:"allm%C3%A4nhetens %C3%A5kning kumla";s:5:"links";s:8098:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glenn-solberg-handboll'>Glenn Solberg Handboll</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-weather-forecast-sweden'>Weather Forecast Sweden</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-startmotor-polaris-worker-500'>Startmotor Polaris Worker 500</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-batman-joker-actor'>Batman Joker Actor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-en-privat-skola'>Vad är En Privat Skola</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-byta-handl%C3%A4ggare-f%C3%B6rs%C3%A4kringskassan'>Byta Handläggare Försäkringskassan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%B6rebro-flygplats-samos'>örebro Flygplats Samos</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kval-sprint-ruka'>Kval Sprint Ruka</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-adi-nalic-transfermarkt'>Adi Nalic Transfermarkt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-reglemente-parad-7'>Reglemente Parad 7</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-storvreta-falun-2019'>Storvreta Falun 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-scandic-aktie-rekommendation'>Scandic Aktie Rekommendation</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-olles-sp%C3%A5r-ume%C3%A5'>Olles Spår Umeå</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gp-prenumeration-upps%C3%A4gning'>Gp Prenumeration Uppsägning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-randstad-sweden-group'>Randstad Sweden Group</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4sta-selfie-appen'>Bästa Selfie Appen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-one-piece-wiki-shinobu'>One Piece Wiki Shinobu</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-abba-voulez-vous-lyrics'>Abba Voulez-vous Lyrics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4nersborgs-kommun-skola'>Vänersborgs Kommun Skola</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-%C3%A4r-v%C3%A4l-en-vanesak'>är Väl En Vanesak</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-skatteverket-register-f%C3%B6retag'>Skatteverket Register Företag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hemk%C3%B6p-nacka-forum'>Hemköp Nacka Forum</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-karta-%C3%B6ver-hua-hin'>Karta över Hua Hin</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kavli-kr%C3%A4ftost-400g'>Kavli Kräftost 400g</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-emil-johansson-l%C3%B6n'>Emil Johansson Lön</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-polariserat-ljus'>Vad är Polariserat Ljus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-temperatur-%C3%A5sarna-skidstadion'>Temperatur åsarna Skidstadion</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iphone-11-tele2'>Iphone 11 Tele2</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ont-i-h%C3%B6ften-n%C3%A4r-jag-sover-p%C3%A5-sidan-gravid'>Ont I Höften När Jag Sover På Sidan Gravid</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A4der-kroatien-makarska'>Väder Kroatien Makarska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-det-%C3%A4r-s%C3%A5-jag-s%C3%A4ger-det-bok'>Det är Så Jag Säger Det Bok</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-aktivera-3-m%C3%A5naders-bebis'>Aktivera 3 Månaders Bebis</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-storvreta-e-biljett'>Storvreta E Biljett</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-inaktiv-gluteus-maximus'>Inaktiv Gluteus Maximus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hudl%C3%A4kare-lundby-sjukhus'>Hudläkare Lundby Sjukhus</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lg-v35-prisjakt'>Lg V35 Prisjakt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Flying-On-My-Own'>Flying On My Own</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-presskoppling-i-v%C3%A4gg'>Presskoppling I Vägg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-does-hiro-get-his-powers-back'>Does Hiro Get His Powers Back</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hotell-i-marmaris%2C-turkiet'>Hotell I Marmaris, Turkiet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-santa-monica-piren'>Santa Monica Piren</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-emmaus-malm%C3%B6-jobb'>Emmaus Malmö Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-time-care-planering'>Time Care Planering</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svordomar-i-skolan'>Svordomar I Skolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-weather-spain-map'>Weather Spain Map</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bostadsbidrag-student-sparade-pengar'>Bostadsbidrag Student Sparade Pengar</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ans%C3%B6kan-om-skolkort'>Ansökan Om Skolkort</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svt-play-pippi'>Svt Play Pippi</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sabaton-metalizer-lyrics'>Sabaton Metalizer Lyrics</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-master-h%C3%A5llbar-utveckling-distans'>Master Hållbar Utveckling Distans</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fregatten-konferens-stenungsund'>Fregatten Konferens Stenungsund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-recept-biff-rydberg-markus-aujalay'>Recept Biff Rydberg Markus Aujalay</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-h%C3%A4nger-toppen-p%C3%A5'>Hänger Toppen På</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-syrianska-flaggan-k%C3%B6pa'>Syrianska Flaggan Köpa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-turkiska-mattor-online'>Turkiska Mattor Online</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-huvudf%C3%B6rhandling-h%C3%B6gsta-domstolen'>Huvudförhandling Högsta Domstolen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-l%C3%A5ter-portugisiska'>Hur Låter Portugisiska</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-djurens-r%C3%A4tt-p%C3%A5sk'>Djurens Rätt Påsk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-danske-bank-mastercard'>Danske Bank Mastercard</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-var-finns-regnskog'>Var Finns Regnskog</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stort-sl%C3%A4ttomr%C3%A5de-i-ungern'>Stort Slättområde I Ungern</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bolibompa-draken-gamla'>Bolibompa Draken Gamla</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rresten-s%C3%A5na-d%C3%A4r-som-ni-skulle-h%C3%A5lla-er-till-folkskolan'>Förresten Såna Där Som Ni Skulle Hålla Er Till Folkskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%B6rklaring-f%C3%B6r-ord'>Förklaring För Ord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fabriks%C3%A5terst%C3%A4llning-huawei-p20'>Fabriksåterställning Huawei P20</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sas-ungdom-skidor'>Sas Ungdom Skidor</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-norrlands-nation-f%C3%B6reningar'>Norrlands Nation Föreningar</a>,
+";s:7:"expired";i:-1;}

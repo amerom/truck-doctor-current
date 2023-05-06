@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:1543:"Keyword. <br> <br>We have experienced something new in the school today - Crazy Food. Vattenfall is a European energy company with approximately 20,000 employees. On the menu today: Crazy Pink Pasta Bolognese with parmesan. Job offers for lab technica - Trabajo.org. School Blog. Lediga jobb som Affärs- och företagsjurister i Jönköping Se lediga jobb som Affärs- och företagsjurister i Jönköping. You are visiting: Saab Corporate. x. For more than 100 years we have electrified industries, supplied energy to people's homes and modernised our way of living through innovation and cooperation. Tillsammans ser vi till att minska arbetslösheten och skapa flera jobb! Genom att välja en specifik arbetsgivare kan du även välja att se alla jobb i Jönköping som finns hos arbetsgivaren. 790 open jobs in Jönköping. Search jobs in Jönköping. Lars Sörling Jobb est sur Facebook. Common search phrases: Vacancies; Financial reports; Contacts; Hitta. We now want to make … Fantastiskt att få vara med i er grupp. About. Welcome to Internationella Engelska Skolan Jönköping. Hitta. FPGA Lab Engineers. Med 10000 aktuella lediga jobb för regionen eller Jönköping.  11 Mar 20. Get hired! Fresh green, blue, purple and pink veggies. More Blog Posts; RSS; Crazy Food Day! A safe, calm environment where teachers can teach and students learn. Get the right job in Jönköping with company ratings & salaries. Inscrivez-vous sur Facebook pour communiquer avec Lars Sörling Jobb et d’autres personnes que vous pouvez connaître. ";s:7:"keyword";s:87:"beskriv skillnaden mellan h%C3%B6gintensiv och l%C3%A5gintensiv tr%C3%A4ning i pulsslag";s:5:"links";s:8484:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-information-about-fox'>Information About Fox</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stefan-billborn-merinfo'>Stefan Billborn Merinfo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mio-howard-soffa'>Mio Howard Soffa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-viktv%C3%A4ktarna-paj-kyckling'>Viktväktarna Paj Kyckling</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fryst-oxfil%C3%A9-tillagning'>Fryst Oxfilé Tillagning</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-b%C3%A4ckv%C3%A4gen-114-hemnet'>Bäckvägen 114 Hemnet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-last-christmas-sf'>Last Christmas Sf</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svala-utan-ben'>Svala Utan Ben</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tillv%C3%A4xtkurva-fylla-i-sj%C3%A4lv'>Tillväxtkurva Fylla I Själv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vardagliga-engelska-fraser'>Vardagliga Engelska Fraser</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-afternoon-tea-falk%C3%B6ping'>Afternoon Tea Falköping</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-barnsk%C3%B6tare-jobb-kista'>Barnskötare Jobb Kista</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-varf%C3%B6r-%C3%A4r-intervaller-bra'>Varför är Intervaller Bra</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-led-blinkers-indikatorlampa'>Led Blinkers Indikatorlampa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fm-mattsson-duschset'>Fm Mattsson Duschset</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stadshuset-bl%C3%A5-hallen'>Stadshuset Blå Hallen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-midbec-kalk-2-61042'>Midbec Kalk 2 61042</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-friskis-och-svettis-eriksberg'>Friskis Och Svettis Eriksberg</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pj-masks-figurer'>Pj Masks Figurer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-juventus-tr%C3%B6ja-gr%C3%B6n'>Juventus Tröja Grön</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hallbergs-guld-drottninggatan'>Hallbergs Guld Drottninggatan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hyra-golvslip-cramo'>Hyra Golvslip Cramo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lediga-jobb-trosa'>Lediga Jobb Trosa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-elcentral-ebl-208-s'>Elcentral Ebl 208 S</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-torrskrubba-innan-dusch'>Torrskrubba Innan Dusch</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-stampen-media-prenumeration'>Stampen Media Prenumeration</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-uppeh%C3%A5llstillst%C3%A5nd-i-annat-eu-land'>Uppehållstillstånd I Annat Eu-land</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kl%C3%A4r-av-dig'>Klär Av Dig</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-rolf-lassg%C3%A5rd-l%C3%A4ngd'>Rolf Lassgård Längd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-animal-crossing-chromebook'>Animal Crossing Chromebook</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-geko-d%C3%A4ck-stenungsund'>Geko Däck Stenungsund</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klarna-kort-kontantuttag'>Klarna Kort Kontantuttag</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-finsk-spets-pris'>Finsk Spets Pris</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%A5samiddag-2019-stockholm'>Gåsamiddag 2019 Stockholm</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Ali-Adnan-Kadhim'>Ali Adnan Kadhim</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-pv-644'>Volvo Pv 644</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-irl%C3%A4ndsk-varghund-livsl%C3%A4ngd'>Irländsk Varghund Livslängd</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Iberostar-Ciudad-Blanca4%2C4%28935%290%2C7%C2%A0km-bort113%C2%A0%E2%82%AC'>Iberostar Ciudad Blanca4,4(935)0,7 km Bort113 €</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-huvudform-k%C3%B6n-ultraljud'>Huvudform Kön Ultraljud</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spring-garden-tavla'>Spring Garden Tavla</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-i-skuggan-av-betydelse'>I Skuggan Av Betydelse</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tommy-hilfiger-kappa'>Tommy Hilfiger Kappa</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-molly-hammar-hemsida'>Molly Hammar Hemsida</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-penny-parnevik-lets-dance'>Penny Parnevik Lets Dance</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-f%C3%A4rska-r%C3%A4kor-h%C3%A5llbarhet'>Färska Räkor Hållbarhet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pulled-beef-bbq'>Pulled Beef Bbq</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bolibompa-avsnitt-1'>Bolibompa Avsnitt 1</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-praktik-uppsala-universitet'>Praktik Uppsala Universitet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-maxxis-mc-d%C3%A4ck'>Maxxis Mc Däck</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bbc-council-teenager'>Bbc Council Teenager</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-lss-boende'>Vad är Lss-boende</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-utvecklingsfas-5-m%C3%A5nader-s%C3%B6mn'>Utvecklingsfas 5 Månader Sömn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ko-lanta-restaurant'>Ko Lanta Restaurant</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bakad-s%C3%B6tpotatis-vegan'>Bakad Sötpotatis Vegan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-gotlands-museum-jobb'>Gotlands Museum Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-celiakif%C3%B6rbundet-app'>Svenska Celiakiförbundet App</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vikarie-i-f%C3%B6rskolan'>Vikarie I Förskolan</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kan-man-frysa-mozzarella'>Kan Man Frysa Mozzarella</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-mellan-h%C3%A4gg-och-syren-mats-ljung'>Mellan Hägg Och Syren Mats Ljung</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-loncin-125cc-atv'>Loncin 125cc Atv</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svenska-spr%C3%A5ket-historia'>Svenska Språket Historia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-infrar%C3%B6d-lampa-jula'>Infraröd Lampa Jula</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pippi-l%C3%A5ngstrump-2020'>Pippi Långstrump 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-1-dl-pauluns-granola-kcal'>1 Dl Pauluns Granola Kcal</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kulturf%C3%B6rvaltningen-stockholms-stad'>Kulturförvaltningen Stockholms Stad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-lagen-om-hotell--och-pensionatr%C3%B6relse'>Lagen Om Hotell- Och Pensionatrörelse</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ikea-morum-80x200-beige'>Ikea Morum 80x200 Beige</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-Villa-360%2C-Phi-Phi-Islands4%2C5%28209%290%2C5%C2%A0km-bort516%C2%A0AED'>Villa 360, Phi Phi Islands4,5(209)0,5 km Bort516 AED</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-darin---tvillingen'>Darin - Tvillingen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-kitchen-club-volvo'>Kitchen Club Volvo</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-christer-andersson-palme'>Christer Andersson Palme</a>,
+";s:7:"expired";i:-1;}

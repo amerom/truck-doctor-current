@@ -1,0 +1,101 @@
+a:5:{s:8:"template";s:9248:"<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Exo:300,400,600,700" rel="stylesheet"/>
+</head>
+<style rel="stylesheet" type="text/css">@font-face{font-family:Exo;font-style:normal;font-weight:300;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wOwRmPg.ttf) format('truetype')}@font-face{font-family:Exo;font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/exo/v10/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwOwRmPg.ttf) format('truetype')}
+
+.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}[type=checkbox].icheck:not(:checked){position:absolute;left:-9999px}[type=checkbox].icheck:not(:checked)+label{position:relative;padding-left:29px;cursor:pointer}[type=checkbox].icheck:not(:checked)+label:before{outline:0;content:'';position:absolute;left:0;top:50%;transform:translateY(-50%);width:20px;height:20px;border:1px solid #aaa;background:#f8f8f8;border-radius:1px;box-shadow:inset 0 1px 1px rgba(0,0,0,.2)}[type=checkbox].icheck:not(:checked)+label:after{outline:0;content:'✔';position:absolute;margin-top:-6px;left:3px;top:50%;transform:translateY(-50%);font-size:18px;line-height:.8;color:#818681;transition:all .2s}[type=checkbox].icheck:not(:checked)+label:after{opacity:0;transform:scale(0)}[type=checkbox].icheck:disabled:not(:checked)+label:before{box-shadow:none;border-color:#bbb;background-color:#ddd}label:hover:before{border:1px solid #4778d9!important}html{overflow-y:visible!important}   /*! WP-styles */.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}.screen-reader-text:focus{background-color:#f1f1f1;border-radius:3px;box-shadow:0 0 2px 2px rgba(0,0,0,.6);clip:auto!important;color:#21759b;display:block;font-size:14px;font-size:.875rem;font-weight:700;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}aside,footer,header,section{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */@media print{*,:after,:before{background:0 0!important;color:#000!important;-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:10px;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#337ab7;text-decoration:none}a:focus,a:hover{color:#23527c;text-decoration:underline}a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}h1{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h1{font-size:36px}ul{margin-top:0;margin-bottom:10px}.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}@media (min-width:768px){.container{width:750px}}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-md-6{position:relative;min-height:1px;padding-left:15px;padding-right:15px}@media (min-width:992px){.col-md-6{float:left}.col-md-6{width:50%}}label{display:inline-block;max-width:100%;margin-bottom:5px;font-weight:700}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:focus,.nav>li>a:hover{text-decoration:none;background-color:#eee}.container:after,.container:before,.nav:after,.nav:before,.row:after,.row:before{content:" ";display:table}.container:after,.nav:after,.row:after{clear:both}@-ms-viewport{width:device-width}.navmenu{width:300px;height:auto;border-width:1px;border-style:solid;border-radius:4px}.navmenu-fixed-left{position:fixed;z-index:1030;top:0;bottom:0;overflow-y:auto;border-radius:0}.navmenu-fixed-left{left:0;right:auto;border-width:0 1px 0 0}.navmenu-nav{margin-bottom:10px}.navmenu-default{background-color:#f8f8f8;border-color:#e7e7e7}.navmenu-default .navmenu-nav>li>a{color:#777}.navmenu-default .navmenu-nav>li>a:focus,.navmenu-default .navmenu-nav>li>a:hover{color:#333;background-color:transparent}.offcanvas{display:none} [class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-menu:before{content:"\e9bd"}body>header{overflow:hidden}.mobile-toggle{background:0 0;border:none;display:none;float:left;font-size:36px;height:50px;outline:0;vertical-align:middle;width:50px;top:20px}#main-menu{float:right}.mobile-menu{text-align:left}.mobile-menu li a:before{color:#000;content:'\203A';margin-right:10px}.navmenu-nav li a:hover{color:#df3678!important}a,a:hover{color:#232323}body{font-family:'Open Sans',Arial,sans-serif;font-size:15px;line-height:1.5em}@media (max-width:768px){.mobile-toggle{display:inline-block}#main-menu{display:none}body>header{text-align:center}}a{transition:color .1s linear}a:hover{text-decoration:none}::selection{background:#3b3b3b;color:#fff}::-moz-selection{background:#3b3b3b;color:#fff}#main{padding:50px 0}#searchform>div{position:relative}#main-menu{margin-top:25px;font-family:Exo,sans-serif;font-weight:600}#main-menu ul{list-style:none;margin:0;padding:0}#main-menu li{float:left;margin:0 25px}#main-menu li:first-child{margin-left:0}#main-menu li:last-child{margin-right:0}#main-menu a{color:#666;font-size:13px;text-decoration:none;text-transform:uppercase}#main-menu a:hover{color:#bebebe}.pre-footer{text-align:center}h1{margin-top:8px!important}body>footer{background:#161616;color:#fff;font-size:13px;padding:45px 0 50px}.contact-info{line-height:1.5em}.pre-footer{background:#3e3e3e;color:#fff;font-size:15px;padding:50px 0;position:relative}.pre-footer:before{content:'';display:block;height:14px;width:100%;position:absolute;top:-14px}#mobile-menu{background:#222;border:0}#mobile-menu .pesquisa{padding:20px 10px}#mobile-menu .nav li{border-bottom:1px solid}#mobile-menu .nav li:first-child{border-top:1px solid}#mobile-menu .nav li a{padding:13px 10px;color:#ccc;font-weight:700;transition:all .3s}#mobile-menu .nav li a:hover{background:#000;color:#fff!important}#mobile-menu .pesquisa  #mobile-menu .pesquisa #s{width:100%;border-radius:16px;border:0;padding:3px 0 3px 13px} </style>
+<body class="op-plugin wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<h1 style="font-size:0em; height:0px !important; margin-top: 0px !important; margin-bottom:0px;"></h1>
+<header>
+<div class="container">
+<div class="row">
+<div class="menu-principal-container" id="main-menu"><ul class="menu" id="menu-principal"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4196" id="menu-item-4196"><a href="#">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12767" id="menu-item-12767"><a href="#" rel="noopener noreferrer" target="_blank">Vídeos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21783" id="menu-item-21783"><a href="#">{{ keyword }}</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4135" id="menu-item-4135"><a href="#">Contato</a></li>
+</ul></div> </div>
+</div>
+</header>
+<div id="main">
+{{ text }}
+</div>
+<section class="pre-footer">
+<div class="container">
+<aside class="widget widget_text" id="text-16"> <div class="textwidget">
+{{ links }}
+</div>
+</aside> </div>
+</section>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="contact-info">
+{{ keyword }}
+</div>
+</div>
+</div>
+</div>
+</footer>
+</body>
+</html>";s:4:"text";s:3995:"Bra inlägg. Antennområde 11. Write text. nokia 3310 säkerhetskod Telefoni: operatörer. Den förinställda koden är 12345. Send and receive messages.  Flashback har ingen betalvägg. Flashback har ingen betalvägg. <br> <br>Du bör ändra den för att skydda din sekretess och dina personuppgifter. Hej kan någon hjälpa mig att låsa upp en gammal Nokia 3310 med bortglömd säkerhetskod? Latest 2020 updates for Nokia 3110 classic softwares will be updated here soon. Nokia 3310. nån som har en datakabel till nokia 3310, skulle behöva hjälp med en sak, har nämligen glömt av min säkerhetskod och jag behöver den nån som kan hjälpa till? Change the wallpaper . <br> <br>. Du kan ställa in telefonen så att den frågar efter en säkerhetskod. Explore your phone. Download best Nokia 3110 classic software updates and applications for your cell phone online free soon. Trädvy Permalänk. Mobile phone NOKIA 8310 - Page: (1/107) Preview for user manual Shop for more Unlocked Phones & Cellphones available online at Walmart.ca Vad kan jag göra för att ange en annan kod så att min Nokia gör det igen! The 3110 is notable as the first Nokia handset to feature the 'Navi-Key' (a.k.a.  <br>Nokia 3310 kan låsas upp från sin nuvarande nätoperatör med hjälp av en upplåsningskod genereras specifikt för handenheten. Get the most out of the two SIM cards. Contacts. Öppningsluckaförbakstycke 12. Charge your phone. Lock or unlock the keys. HMD Global kan inte komma åt eller kringgå den. Jag har ställt in min nokia 3310 så att man bara kan köra mitt SIM kort, det är en sk säkerhetskod som jag har knappat in. Det finns webbplatser som erbjuder upplåsningskod generator verktyg för flera Nokia mobiltelefonmodeller, inklusive Nokia 3310. Buy Nokia 3310 3G Unlocked Phone Charcoal from Walmart Canada. Personalize your phone. Frivilligt bidrag istället för betalvägg. Get started. MSI K8N Neo2 plat, 3200+ Winchester, TwinMOS Speed Premium PC3500 512MB CL2.5 Winbond BH-5, 40 Gb IBM, 120 Gb WD, T7600gt, Antec truepower 550W Citera Svara. The Nokia 3310 is a GSM mobile phone announced on 1 September 2000, and released in the fourth quarter of the year, replacing the popular Nokia 3210.It sold very well, being one of the most successful phones with 126 million units sold worldwide, and being one of Nokia's most iconic devices. Hej, Jag har en Nokia 2600C-2 och varje gång jag får se in i säkerhetskoden så jag skriver i standarden koden nedan, jag får se codefout.Heb en apparat som introduceras säkerhetskod, men tyvärr jag glömde koden Så det är inte en 0000 eller 00 000 1234 eller 12 345 eller mer. Calls, contacts, and messages. … Hon satte in en notis under upphittat på jobbwebben, men ingen har hört av sig. The Navi-Key was featured heavily on Nokia handsets, especially the entry-level models such as the Nokia 1100 in the following years. Lame. nokia 3310 säkerhetskod Telefoni: operatörer. Oj jisses...det måtte vara en halv evighet sen denna mobil nokia 1208, säkerhetskod kom ut..ingen jag känner till..men jag tror D-Pad) menu navigation system. Nokia 3110 classic Softwares Free Download 2020. Tack på förhand Inlägg från Janneman Nokia 3310 (2017) Dual-SIM 16MB Factory Unlocked 2G GSM phone (Dark Blue - Matte) - International Version 4.1 out of 5 stars 2,975 Nokia 2.1 Unlocked Smartphone for Canada, Blue/Copper Keys and parts. Och så osmart som man var så skrev jag inte ner koden, hur i pärksan ska jag kunna låsa upp den utan kod ?? The 3110 is a GSM mobile phone handset manufactured by Nokia in Hungary, introduced at CEBIT in March 1997. 2003-09-24 17:20. I grund och botten, ger dig låsa kodgenerator med handenhetens IMEI-nummer, och kodgeneratorn genererar ett par koder för telefonen. Jag vill inte slänga ut 300 spänn på den telefonen. The phone is still widely acclaimed and has gained a cult status due to its durability. Change the volume. Frivilligt bidrag istället för betalvägg. <br>";s:7:"keyword";s:36:"carolina gynning sk%C3%A5l butterfly";s:5:"links";s:6676:"<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-indien-fifa-ranking'>Indien Fifa Ranking</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ladok-karolinska-institutet'>Ladok Karolinska Institutet</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-clark-olofsson-2019'>Clark Olofsson 2019</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-huvudstad-11-bokst%C3%A4ver'>Huvudstad 11 Bokstäver</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-glutenfri-gr%C3%B6t-barn'>Glutenfri Gröt Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-kallas-r%C3%A4nna-i-isen'>Vad Kallas Ränna I Isen</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tapet-tr%C3%A4d-rusta'>Tapet Träd Rusta</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-marianne-m%C3%B6rcks-barn'>Marianne Mörcks Barn</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%B6ra-egen-v%C3%A4stkustsallad'>Göra Egen Västkustsallad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ghost-blog-templates'>Ghost Blog Templates</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tandhygienist-kristianstad-schema'>Tandhygienist Kristianstad Schema</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-allm%C3%A4nhetens-%C3%A5kning-karlskoga'>Allmänhetens åkning Karlskoga</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nyheter-fr%C3%B6lunda-hockey'>Nyheter Frölunda Hockey</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-spira-julgran-historia'>Spira Julgran Historia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-comhem-bredband-150'>Comhem Bredband 150</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hk-malm%C3%B6-juniorer'>Hk Malmö Juniorer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-medicinsk-invaliditet-tabell-2020'>Medicinsk Invaliditet Tabell 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-samsung-65%27%27-q60r'>Samsung 65'' Q60r</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bada-i-havet-gran-canaria'>Bada I Havet Gran Canaria</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-7-day-travelcards'>7 Day Travelcards</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-pulled-beef-taco-recept'>Pulled Beef Taco Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-volvo-lastvagnar-ume%C3%A5-organisationsnummer'>Volvo Lastvagnar Umeå Organisationsnummer</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hur-g%C3%A5r-en-skallg%C3%A5ng-till'>Hur Går En Skallgång Till</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-iphone-11-pro-telia'>Iphone 11 Pro Telia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-v%C3%A5rdguiden-1177-h%C3%A4lsotest'>Vårdguiden 1177 Hälsotest</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-elektronisk-termostat-kylsk%C3%A5p'>Elektronisk Termostat Kylskåp</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-hymen-synonym-korsord'>Hymen Synonym Korsord</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-bars-med-katrinplommon'>Bars Med Katrinplommon</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-dollarstore-kristinehamn-jobb'>Dollarstore Kristinehamn Jobb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-klassiska-ryska-verk'>Klassiska Ryska Verk</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-clark-olofsson-syster'>Clark Olofsson Syster</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-grillad-ryggbiff-med-bearnaises%C3%A5s'>Grillad Ryggbiff Med Bearnaisesås</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-billiga-resm%C3%A5l-asien'>Billiga Resmål Asien</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-procivitas-v%C3%A4xj%C3%B6-matsedel'>Procivitas Växjö Matsedel</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-marinad-till-entrec%C3%B4te'>Marinad Till Entrecôte</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-ordf%C3%B6rande-bostadsr%C3%A4ttsf%C3%B6rening-arvode'>Ordförande Bostadsrättsförening Arvode</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tr%C3%A4na-basket-halmstad'>Träna Basket Halmstad</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-nationaldagsfirande-2019-hedemora'>Nationaldagsfirande 2019 Hedemora</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-sushi-hemk%C3%B6rning-sundsvall'>Sushi Hemkörning Sundsvall</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-fryst-r%C3%B6dsp%C3%A4tta-recept'>Fryst Rödspätta Recept</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-livstidsd%C3%B6mda-i-sverige-2020'>Livstidsdömda I Sverige 2020</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-g%C3%A5smamman-s%C3%A4song-4-imdb'>Gåsmamman Säsong 4 Imdb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-s%C3%A5ng-om-partikelverb'>Sång Om Partikelverb</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-startrel%C3%A4-cf-moto-500'>Startrelä Cf Moto 500</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-namninsamling-djurens-r%C3%A4tt'>Namninsamling Djurens Rätt</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-konsert-g%C3%B6teborg-29-februari'>Konsert Göteborg 29 Februari</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-core-bcaa-caps'>Core Bcaa Caps</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-uk-iranian-farsi-news'>Uk Iranian Farsi News</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vad-%C3%A4r-flankstek-f%C3%B6r-k%C3%B6tt'>Vad är Flankstek För Kött</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-tum-till-mm-r%C3%B6r'>Tum Till Mm Rör</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-leva-med-bipol%C3%A4r-sjukdom'>Leva Med Bipolär Sjukdom</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-svarte-petter-historia'>Svarte Petter Historia</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-arken-hotel-meny'>Arken Hotel Meny</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-vastus-medialis-pain'>Vastus Medialis Pain</a>,
+<a href='http://truck-doctor.com/docs/article.php?page=f7d2bb-veckans-vegetariska-recept'>Veckans Vegetariska Recept</a>,
+";s:7:"expired";i:-1;}
